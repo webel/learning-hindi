@@ -15,12 +15,14 @@ figcaption,
 figure,
 footer,
 header,
-main,
 menu,
 nav,
 section,
 summary {
   display: block;
+}
+main {
+  display: flex;
 }
 audio,
 canvas,
