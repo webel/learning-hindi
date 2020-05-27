@@ -9,7 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 /** @jsx jsx */
-import { jsx, Flex } from "theme-ui"
+import { jsx } from "theme-ui"
 import Header from "./header"
 
 const Layout = ({ children }) => {
@@ -34,7 +34,12 @@ const Layout = ({ children }) => {
         }}
       >
         <main
-          sx={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}
+          sx={{
+            display: "flex",
+            flexWrap: "wrap",
+            justifyContent: "center",
+            mb: [5],
+          }}
         >
           {children}
         </main>
