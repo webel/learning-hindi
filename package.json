@@ -21,7 +21,8 @@
     "theme-ui": "^0.3.1"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "prettier": "2.0.5",
+    "gh-pages": "^2.2.0"
   },
   "keywords": [
     "gatsby"
@@ -29,6 +30,8 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
