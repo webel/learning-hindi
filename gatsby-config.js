@@ -21,10 +21,7 @@ module.exports = {
         name: `learning_hindi`,
         short_name: `hindi`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `src/images/hindi.jpeg`, // This path is relative to the root of the site.
+        //icon: ``,
       },
     },
     `gatsby-plugin-theme-ui`,
