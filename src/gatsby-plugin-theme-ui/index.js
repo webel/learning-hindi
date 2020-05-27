@@ -133,19 +133,20 @@ export default {
     },
   },
   cards: {
-    primary: {
+    flashCard: {
       backgroundColor: "muted",
       margin: 20,
       boxShadow: "0 0 8px rgba(0, 0, 0, 0.125)",
-      width: 150,
-      height: 150,
+      width: [180, 160, 140],
+      height: [180, 160, 140],
       display: "flex",
+      flexDirection: "column",
       alignItems: "center",
       justifyContent: "center",
     },
   },
   text: {
-    flash: {
+    flashCard: {
       fontSize: 8,
     },
   },
