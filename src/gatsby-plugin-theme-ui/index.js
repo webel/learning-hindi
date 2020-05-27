@@ -74,7 +74,7 @@ export default {
       fontSize: 1,
     },
     a: {
-      color: "primary",
+      color: "purple",
       "&:hover": {
         color: "secondary",
       },

@@ -41,7 +41,9 @@ const Layout = ({ children }) => {
         <footer>
           © {new Date().getFullYear()}, Built by
           {` `}
-          <a href="https://www.stenqvist.co">V</a>
+          <a sx={{ color: "primary" }} href="https://www.stenqvist.co">
+            V
+          </a>
         </footer>
       </div>
     </>
