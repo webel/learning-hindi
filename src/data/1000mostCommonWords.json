@@ -1,0 +1,5002 @@
+[
+ {
+   "number": 1,
+   "hindi": "जैसा",
+   "english": "as"
+ },
+ {
+   "number": 2,
+   "hindi": "मैं",
+   "english": "I"
+ },
+ {
+   "number": 3,
+   "hindi": "उसके",
+   "english": "his"
+ },
+ {
+   "number": 4,
+   "hindi": "कि",
+   "english": "that"
+ },
+ {
+   "number": 5,
+   "hindi": "वह",
+   "english": "he"
+ },
+ {
+   "number": 6,
+   "hindi": "था",
+   "english": "was"
+ },
+ {
+   "number": 7,
+   "hindi": "के लिए",
+   "english": "for"
+ },
+ {
+   "number": 8,
+   "hindi": "पर",
+   "english": "on"
+ },
+ {
+   "number": 9,
+   "hindi": "हैं",
+   "english": "are"
+ },
+ {
+   "number": 10,
+   "hindi": "साथ",
+   "english": "with"
+ },
+ {
+   "number": 11,
+   "hindi": "वे",
+   "english": "they"
+ },
+ {
+   "number": 12,
+   "hindi": "हो",
+   "english": "be"
+ },
+ {
+   "number": 13,
+   "hindi": "पर",
+   "english": "at"
+ },
+ {
+   "number": 14,
+   "hindi": "एक",
+   "english": "one"
+ },
+ {
+   "number": 15,
+   "hindi": "है",
+   "english": "have"
+ },
+ {
+   "number": 16,
+   "hindi": "इस",
+   "english": "this"
+ },
+ {
+   "number": 17,
+   "hindi": "से",
+   "english": "from"
+ },
+ {
+   "number": 18,
+   "hindi": "द्वारा",
+   "english": "by"
+ },
+ {
+   "number": 19,
+   "hindi": "गरम",
+   "english": "hot"
+ },
+ {
+   "number": 20,
+   "hindi": "शब्द",
+   "english": "word"
+ },
+ {
+   "number": 21,
+   "hindi": "लेकिन",
+   "english": "but"
+ },
+ {
+   "number": 22,
+   "hindi": "क्या",
+   "english": "what"
+ },
+ {
+   "number": 23,
+   "hindi": "कुछ",
+   "english": "some"
+ },
+ {
+   "number": 24,
+   "hindi": "है",
+   "english": "is"
+ },
+ {
+   "number": 25,
+   "hindi": "यह",
+   "english": "it"
+ },
+ {
+   "number": 26,
+   "hindi": "आप",
+   "english": "you"
+ },
+ {
+   "number": 27,
+   "hindi": "या",
+   "english": "or"
+ },
+ {
+   "number": 28,
+   "hindi": "था",
+   "english": "had"
+ },
+ {
+   "number": 29,
+   "hindi": "",
+   "english": "the"
+ },
+ {
+   "number": 30,
+   "hindi": "की",
+   "english": "of"
+ },
+ {
+   "number": 31,
+   "hindi": "तक",
+   "english": "to"
+ },
+ {
+   "number": 32,
+   "hindi": "और",
+   "english": "and"
+ },
+ {
+   "number": 33,
+   "hindi": "एक",
+   "english": "a"
+ },
+ {
+   "number": 34,
+   "hindi": "में",
+   "english": "in"
+ },
+ {
+   "number": 35,
+   "hindi": "हम",
+   "english": "we"
+ },
+ {
+   "number": 36,
+   "hindi": "कर सकते हैं",
+   "english": "can"
+ },
+ {
+   "number": 37,
+   "hindi": "बाहर",
+   "english": "out"
+ },
+ {
+   "number": 38,
+   "hindi": "अन्य",
+   "english": "other"
+ },
+ {
+   "number": 39,
+   "hindi": "थे",
+   "english": "were"
+ },
+ {
+   "number": 40,
+   "hindi": "जो",
+   "english": "which"
+ },
+ {
+   "number": 41,
+   "hindi": "कर",
+   "english": "do"
+ },
+ {
+   "number": 42,
+   "hindi": "उनके",
+   "english": "their"
+ },
+ {
+   "number": 43,
+   "hindi": "समय",
+   "english": "time"
+ },
+ {
+   "number": 44,
+   "hindi": "अगर",
+   "english": "if"
+ },
+ {
+   "number": 45,
+   "hindi": "होगा",
+   "english": "will"
+ },
+ {
+   "number": 46,
+   "hindi": "कैसे",
+   "english": "how"
+ },
+ {
+   "number": 47,
+   "hindi": "कहा",
+   "english": "said"
+ },
+ {
+   "number": 48,
+   "hindi": "एक",
+   "english": "an"
+ },
+ {
+   "number": 49,
+   "hindi": "प्रत्येक",
+   "english": "each"
+ },
+ {
+   "number": 50,
+   "hindi": "बता",
+   "english": "tell"
+ },
+ {
+   "number": 51,
+   "hindi": "करता है",
+   "english": "does"
+ },
+ {
+   "number": 52,
+   "hindi": "सेट",
+   "english": "set"
+ },
+ {
+   "number": 53,
+   "hindi": "तीन",
+   "english": "three"
+ },
+ {
+   "number": 54,
+   "hindi": "चाहते हैं",
+   "english": "want"
+ },
+ {
+   "number": 55,
+   "hindi": "हवा",
+   "english": "air"
+ },
+ {
+   "number": 56,
+   "hindi": "अच्छी तरह से",
+   "english": "well"
+ },
+ {
+   "number": 57,
+   "hindi": "भी",
+   "english": "also"
+ },
+ {
+   "number": 58,
+   "hindi": "खेलने",
+   "english": "play"
+ },
+ {
+   "number": 59,
+   "hindi": "छोटे",
+   "english": "small"
+ },
+ {
+   "number": 60,
+   "hindi": "अंत",
+   "english": "end"
+ },
+ {
+   "number": 61,
+   "hindi": "डाल",
+   "english": "put"
+ },
+ {
+   "number": 62,
+   "hindi": "घर",
+   "english": "home"
+ },
+ {
+   "number": 63,
+   "hindi": "पढ़ा",
+   "english": "read"
+ },
+ {
+   "number": 64,
+   "hindi": "हाथ",
+   "english": "hand"
+ },
+ {
+   "number": 65,
+   "hindi": "बंदरगाह",
+   "english": "port"
+ },
+ {
+   "number": 66,
+   "hindi": "बड़ा",
+   "english": "large"
+ },
+ {
+   "number": 67,
+   "hindi": "जादू",
+   "english": "spell"
+ },
+ {
+   "number": 68,
+   "hindi": "जोड़",
+   "english": "add"
+ },
+ {
+   "number": 69,
+   "hindi": "और भी",
+   "english": "even"
+ },
+ {
+   "number": 70,
+   "hindi": "भूमि",
+   "english": "land"
+ },
+ {
+   "number": 71,
+   "hindi": "यहाँ",
+   "english": "here"
+ },
+ {
+   "number": 72,
+   "hindi": "चाहिए",
+   "english": "must"
+ },
+ {
+   "number": 73,
+   "hindi": "बड़ा",
+   "english": "big"
+ },
+ {
+   "number": 74,
+   "hindi": "उच्च",
+   "english": "high"
+ },
+ {
+   "number": 75,
+   "hindi": "ऐसा",
+   "english": "such"
+ },
+ {
+   "number": 76,
+   "hindi": "का पालन करें",
+   "english": "follow"
+ },
+ {
+   "number": 77,
+   "hindi": "अधिनियम",
+   "english": "act"
+ },
+ {
+   "number": 78,
+   "hindi": "क्यों",
+   "english": "why"
+ },
+ {
+   "number": 79,
+   "hindi": "पूछना",
+   "english": "ask"
+ },
+ {
+   "number": 80,
+   "hindi": "पुरुषों",
+   "english": "men"
+ },
+ {
+   "number": 81,
+   "hindi": "परिवर्तन",
+   "english": "change"
+ },
+ {
+   "number": 82,
+   "hindi": "चला गया",
+   "english": "went"
+ },
+ {
+   "number": 83,
+   "hindi": "प्रकाश",
+   "english": "light"
+ },
+ {
+   "number": 84,
+   "hindi": "तरह",
+   "english": "kind"
+ },
+ {
+   "number": 85,
+   "hindi": "बंद",
+   "english": "off"
+ },
+ {
+   "number": 86,
+   "hindi": "आवश्यकता",
+   "english": "need"
+ },
+ {
+   "number": 87,
+   "hindi": "घर",
+   "english": "house"
+ },
+ {
+   "number": 88,
+   "hindi": "तस्वीर",
+   "english": "picture"
+ },
+ {
+   "number": 89,
+   "hindi": "कोशिश",
+   "english": "try"
+ },
+ {
+   "number": 90,
+   "hindi": "हमें",
+   "english": "us"
+ },
+ {
+   "number": 91,
+   "hindi": "फिर",
+   "english": "again"
+ },
+ {
+   "number": 92,
+   "hindi": "पशु",
+   "english": "animal"
+ },
+ {
+   "number": 93,
+   "hindi": "बिंदु",
+   "english": "point"
+ },
+ {
+   "number": 94,
+   "hindi": "मां",
+   "english": "mother"
+ },
+ {
+   "number": 95,
+   "hindi": "दुनिया",
+   "english": "world"
+ },
+ {
+   "number": 96,
+   "hindi": "निकट",
+   "english": "near"
+ },
+ {
+   "number": 97,
+   "hindi": "बनाना",
+   "english": "build"
+ },
+ {
+   "number": 98,
+   "hindi": "आत्म",
+   "english": "self"
+ },
+ {
+   "number": 99,
+   "hindi": "पृथ्वी",
+   "english": "earth"
+ },
+ {
+   "number": 100,
+   "hindi": "पिता",
+   "english": "father"
+ },
+ {
+   "number": 101,
+   "hindi": "किसी भी",
+   "english": "any"
+ },
+ {
+   "number": 102,
+   "hindi": "नई",
+   "english": "new"
+ },
+ {
+   "number": 103,
+   "hindi": "काम",
+   "english": "work"
+ },
+ {
+   "number": 104,
+   "hindi": "हिस्सा",
+   "english": "part"
+ },
+ {
+   "number": 105,
+   "hindi": "लेना",
+   "english": "take"
+ },
+ {
+   "number": 106,
+   "hindi": "प्राप्त",
+   "english": "get"
+ },
+ {
+   "number": 107,
+   "hindi": "जगह",
+   "english": "place"
+ },
+ {
+   "number": 108,
+   "hindi": "निर्मित",
+   "english": "made"
+ },
+ {
+   "number": 109,
+   "hindi": "जीना",
+   "english": "live"
+ },
+ {
+   "number": 110,
+   "hindi": "जहां",
+   "english": "where"
+ },
+ {
+   "number": 111,
+   "hindi": "के बाद",
+   "english": "after"
+ },
+ {
+   "number": 112,
+   "hindi": "वापस",
+   "english": "back"
+ },
+ {
+   "number": 113,
+   "hindi": "थोड़ा",
+   "english": "little"
+ },
+ {
+   "number": 114,
+   "hindi": "केवल",
+   "english": "only"
+ },
+ {
+   "number": 115,
+   "hindi": "दौर",
+   "english": "round"
+ },
+ {
+   "number": 116,
+   "hindi": "आदमी",
+   "english": "man"
+ },
+ {
+   "number": 117,
+   "hindi": "वर्ष",
+   "english": "year"
+ },
+ {
+   "number": 118,
+   "hindi": "आया",
+   "english": "came"
+ },
+ {
+   "number": 119,
+   "hindi": "शो",
+   "english": "show"
+ },
+ {
+   "number": 120,
+   "hindi": "हर",
+   "english": "every"
+ },
+ {
+   "number": 121,
+   "hindi": "अच्छा",
+   "english": "good"
+ },
+ {
+   "number": 122,
+   "hindi": "मुझे",
+   "english": "me"
+ },
+ {
+   "number": 123,
+   "hindi": "दे",
+   "english": "give"
+ },
+ {
+   "number": 124,
+   "hindi": "हमारे",
+   "english": "our"
+ },
+ {
+   "number": 125,
+   "hindi": "नीचे",
+   "english": "under"
+ },
+ {
+   "number": 126,
+   "hindi": "नाम",
+   "english": "name"
+ },
+ {
+   "number": 127,
+   "hindi": "बहुत",
+   "english": "very"
+ },
+ {
+   "number": 128,
+   "hindi": "के माध्यम से",
+   "english": "through"
+ },
+ {
+   "number": 129,
+   "hindi": "बस",
+   "english": "just"
+ },
+ {
+   "number": 130,
+   "hindi": "फार्म",
+   "english": "form"
+ },
+ {
+   "number": 131,
+   "hindi": "वाक्य",
+   "english": "sentence"
+ },
+ {
+   "number": 132,
+   "hindi": "महान",
+   "english": "great"
+ },
+ {
+   "number": 133,
+   "hindi": "लगता है",
+   "english": "think"
+ },
+ {
+   "number": 134,
+   "hindi": "कहना",
+   "english": "say"
+ },
+ {
+   "number": 135,
+   "hindi": "मदद",
+   "english": "help"
+ },
+ {
+   "number": 136,
+   "hindi": "कम",
+   "english": "low"
+ },
+ {
+   "number": 137,
+   "hindi": "रेखा",
+   "english": "line"
+ },
+ {
+   "number": 138,
+   "hindi": "अलग",
+   "english": "differ"
+ },
+ {
+   "number": 139,
+   "hindi": "बारी",
+   "english": "turn"
+ },
+ {
+   "number": 140,
+   "hindi": "कारण",
+   "english": "cause"
+ },
+ {
+   "number": 141,
+   "hindi": "ज्यादा",
+   "english": "much"
+ },
+ {
+   "number": 142,
+   "hindi": "मतलब",
+   "english": "mean"
+ },
+ {
+   "number": 143,
+   "hindi": "पहले",
+   "english": "before"
+ },
+ {
+   "number": 144,
+   "hindi": "चाल",
+   "english": "move"
+ },
+ {
+   "number": 145,
+   "hindi": "सही",
+   "english": "right"
+ },
+ {
+   "number": 146,
+   "hindi": "लड़का",
+   "english": "boy"
+ },
+ {
+   "number": 147,
+   "hindi": "पुराना",
+   "english": "old"
+ },
+ {
+   "number": 148,
+   "hindi": "भी",
+   "english": "too"
+ },
+ {
+   "number": 149,
+   "hindi": "वही",
+   "english": "same"
+ },
+ {
+   "number": 150,
+   "hindi": "वह",
+   "english": "she"
+ },
+ {
+   "number": 151,
+   "hindi": "सब",
+   "english": "all"
+ },
+ {
+   "number": 152,
+   "hindi": "वहाँ",
+   "english": "there"
+ },
+ {
+   "number": 153,
+   "hindi": "जब",
+   "english": "when"
+ },
+ {
+   "number": 154,
+   "hindi": "ऊपर",
+   "english": "up"
+ },
+ {
+   "number": 155,
+   "hindi": "उपयोग",
+   "english": "use"
+ },
+ {
+   "number": 156,
+   "hindi": "अपने",
+   "english": "your"
+ },
+ {
+   "number": 157,
+   "hindi": "रास्ता",
+   "english": "way"
+ },
+ {
+   "number": 158,
+   "hindi": "के बारे में",
+   "english": "about"
+ },
+ {
+   "number": 159,
+   "hindi": "कई",
+   "english": "many"
+ },
+ {
+   "number": 160,
+   "hindi": "तो",
+   "english": "then"
+ },
+ {
+   "number": 161,
+   "hindi": "उन्हें",
+   "english": "them"
+ },
+ {
+   "number": 162,
+   "hindi": "लिखना",
+   "english": "write"
+ },
+ {
+   "number": 163,
+   "hindi": "होगा",
+   "english": "would"
+ },
+ {
+   "number": 164,
+   "hindi": "जैसा",
+   "english": "like"
+ },
+ {
+   "number": 165,
+   "hindi": "तो",
+   "english": "so"
+ },
+ {
+   "number": 166,
+   "hindi": "इन",
+   "english": "these"
+ },
+ {
+   "number": 167,
+   "hindi": "उसके",
+   "english": "her"
+ },
+ {
+   "number": 168,
+   "hindi": "लंबे समय तक",
+   "english": "long"
+ },
+ {
+   "number": 169,
+   "hindi": "कर",
+   "english": "make"
+ },
+ {
+   "number": 170,
+   "hindi": "बात",
+   "english": "thing"
+ },
+ {
+   "number": 171,
+   "hindi": "देखना",
+   "english": "see"
+ },
+ {
+   "number": 172,
+   "hindi": "उसे",
+   "english": "him"
+ },
+ {
+   "number": 173,
+   "hindi": "दो",
+   "english": "two"
+ },
+ {
+   "number": 174,
+   "hindi": "है",
+   "english": "has"
+ },
+ {
+   "number": 175,
+   "hindi": "देखो",
+   "english": "look"
+ },
+ {
+   "number": 176,
+   "hindi": "अधिक",
+   "english": "more"
+ },
+ {
+   "number": 177,
+   "hindi": "दिन",
+   "english": "day"
+ },
+ {
+   "number": 178,
+   "hindi": "सकता है",
+   "english": "could"
+ },
+ {
+   "number": 179,
+   "hindi": "जाना",
+   "english": "go"
+ },
+ {
+   "number": 180,
+   "hindi": "आ",
+   "english": "come"
+ },
+ {
+   "number": 181,
+   "hindi": "किया",
+   "english": "did"
+ },
+ {
+   "number": 182,
+   "hindi": "संख्या",
+   "english": "number"
+ },
+ {
+   "number": 183,
+   "hindi": "ध्वनि",
+   "english": "sound"
+ },
+ {
+   "number": 184,
+   "hindi": "नहीं",
+   "english": "no"
+ },
+ {
+   "number": 185,
+   "hindi": "सबसे",
+   "english": "most"
+ },
+ {
+   "number": 186,
+   "hindi": "लोग",
+   "english": "people"
+ },
+ {
+   "number": 187,
+   "hindi": "मेरे",
+   "english": "my"
+ },
+ {
+   "number": 188,
+   "hindi": "अधिक",
+   "english": "over"
+ },
+ {
+   "number": 189,
+   "hindi": "पता",
+   "english": "know"
+ },
+ {
+   "number": 190,
+   "hindi": "पानी",
+   "english": "water"
+ },
+ {
+   "number": 191,
+   "hindi": "से",
+   "english": "than"
+ },
+ {
+   "number": 192,
+   "hindi": "कॉल",
+   "english": "call"
+ },
+ {
+   "number": 193,
+   "hindi": "पहले",
+   "english": "first"
+ },
+ {
+   "number": 194,
+   "hindi": "कौन",
+   "english": "who"
+ },
+ {
+   "number": 195,
+   "hindi": "मई",
+   "english": "may"
+ },
+ {
+   "number": 196,
+   "hindi": "नीचे",
+   "english": "down"
+ },
+ {
+   "number": 197,
+   "hindi": "पक्ष",
+   "english": "side"
+ },
+ {
+   "number": 198,
+   "hindi": "गया",
+   "english": "been"
+ },
+ {
+   "number": 199,
+   "hindi": "अब",
+   "english": "now"
+ },
+ {
+   "number": 200,
+   "hindi": "लगता है",
+   "english": "find"
+ },
+ {
+   "number": 201,
+   "hindi": "सिर",
+   "english": "head"
+ },
+ {
+   "number": 202,
+   "hindi": "खड़े",
+   "english": "stand"
+ },
+ {
+   "number": 203,
+   "hindi": "खुद",
+   "english": "own"
+ },
+ {
+   "number": 204,
+   "hindi": "पेज",
+   "english": "page"
+ },
+ {
+   "number": 205,
+   "hindi": "चाहिए",
+   "english": "should"
+ },
+ {
+   "number": 206,
+   "hindi": "देश",
+   "english": "country"
+ },
+ {
+   "number": 207,
+   "hindi": "पाया",
+   "english": "found"
+ },
+ {
+   "number": 208,
+   "hindi": "जवाब",
+   "english": "answer"
+ },
+ {
+   "number": 209,
+   "hindi": "स्कूल",
+   "english": "school"
+ },
+ {
+   "number": 210,
+   "hindi": "बढ़ने",
+   "english": "grow"
+ },
+ {
+   "number": 211,
+   "hindi": "अध्ययन",
+   "english": "study"
+ },
+ {
+   "number": 212,
+   "hindi": "अब तक",
+   "english": "still"
+ },
+ {
+   "number": 213,
+   "hindi": "सीखना",
+   "english": "learn"
+ },
+ {
+   "number": 214,
+   "hindi": "संयंत्र",
+   "english": "plant"
+ },
+ {
+   "number": 215,
+   "hindi": "कवर",
+   "english": "cover"
+ },
+ {
+   "number": 216,
+   "hindi": "भोजन",
+   "english": "food"
+ },
+ {
+   "number": 217,
+   "hindi": "सूरज",
+   "english": "sun"
+ },
+ {
+   "number": 218,
+   "hindi": "चार",
+   "english": "four"
+ },
+ {
+   "number": 219,
+   "hindi": "के बीच",
+   "english": "between"
+ },
+ {
+   "number": 220,
+   "hindi": "राज्य",
+   "english": "state"
+ },
+ {
+   "number": 221,
+   "hindi": "रखना",
+   "english": "keep"
+ },
+ {
+   "number": 222,
+   "hindi": "आंख",
+   "english": "eye"
+ },
+ {
+   "number": 223,
+   "hindi": "कभी नहीं",
+   "english": "never"
+ },
+ {
+   "number": 224,
+   "hindi": "पिछले",
+   "english": "last"
+ },
+ {
+   "number": 225,
+   "hindi": "चलो",
+   "english": "let"
+ },
+ {
+   "number": 226,
+   "hindi": "सोचा",
+   "english": "thought"
+ },
+ {
+   "number": 227,
+   "hindi": "शहर",
+   "english": "city"
+ },
+ {
+   "number": 228,
+   "hindi": "पेड़",
+   "english": "tree"
+ },
+ {
+   "number": 229,
+   "hindi": "पार",
+   "english": "cross"
+ },
+ {
+   "number": 230,
+   "hindi": "खेत",
+   "english": "farm"
+ },
+ {
+   "number": 231,
+   "hindi": "कठिन",
+   "english": "hard"
+ },
+ {
+   "number": 232,
+   "hindi": "शुरुआत",
+   "english": "start"
+ },
+ {
+   "number": 233,
+   "hindi": "हो सकता है",
+   "english": "might"
+ },
+ {
+   "number": 234,
+   "hindi": "कहानी",
+   "english": "story"
+ },
+ {
+   "number": 235,
+   "hindi": "देखा",
+   "english": "saw"
+ },
+ {
+   "number": 236,
+   "hindi": "दूर",
+   "english": "far"
+ },
+ {
+   "number": 237,
+   "hindi": "समुद्र",
+   "english": "sea"
+ },
+ {
+   "number": 238,
+   "hindi": "आकर्षित",
+   "english": "draw"
+ },
+ {
+   "number": 239,
+   "hindi": "छोड़ा",
+   "english": "left"
+ },
+ {
+   "number": 240,
+   "hindi": "देर से",
+   "english": "late"
+ },
+ {
+   "number": 241,
+   "hindi": "चलाने",
+   "english": "run"
+ },
+ {
+   "number": 242,
+   "hindi": "ऐसा नहीं",
+   "english": "don’t"
+ },
+ {
+   "number": 243,
+   "hindi": "जबकि",
+   "english": "while"
+ },
+ {
+   "number": 244,
+   "hindi": "प्रेस",
+   "english": "press"
+ },
+ {
+   "number": 245,
+   "hindi": "करीब",
+   "english": "close"
+ },
+ {
+   "number": 246,
+   "hindi": "रात",
+   "english": "night"
+ },
+ {
+   "number": 247,
+   "hindi": "असली",
+   "english": "real"
+ },
+ {
+   "number": 248,
+   "hindi": "जीवन",
+   "english": "life"
+ },
+ {
+   "number": 249,
+   "hindi": "कुछ",
+   "english": "few"
+ },
+ {
+   "number": 250,
+   "hindi": "उत्तर",
+   "english": "north"
+ },
+ {
+   "number": 251,
+   "hindi": "किताब",
+   "english": "book"
+ },
+ {
+   "number": 252,
+   "hindi": "ले",
+   "english": "carry"
+ },
+ {
+   "number": 253,
+   "hindi": "ले लिया",
+   "english": "took"
+ },
+ {
+   "number": 254,
+   "hindi": "विज्ञान",
+   "english": "science"
+ },
+ {
+   "number": 255,
+   "hindi": "खाने",
+   "english": "eat"
+ },
+ {
+   "number": 256,
+   "hindi": "कमरे",
+   "english": "room"
+ },
+ {
+   "number": 257,
+   "hindi": "दोस्त",
+   "english": "friend"
+ },
+ {
+   "number": 258,
+   "hindi": "शुरू हुआ",
+   "english": "began"
+ },
+ {
+   "number": 259,
+   "hindi": "विचार",
+   "english": "idea"
+ },
+ {
+   "number": 260,
+   "hindi": "मछली",
+   "english": "fish"
+ },
+ {
+   "number": 261,
+   "hindi": "पहाड़",
+   "english": "mountain"
+ },
+ {
+   "number": 262,
+   "hindi": "रोक",
+   "english": "stop"
+ },
+ {
+   "number": 263,
+   "hindi": "एक बार",
+   "english": "once"
+ },
+ {
+   "number": 264,
+   "hindi": "आधार",
+   "english": "base"
+ },
+ {
+   "number": 265,
+   "hindi": "सुनना",
+   "english": "hear"
+ },
+ {
+   "number": 266,
+   "hindi": "घोड़ा",
+   "english": "horse"
+ },
+ {
+   "number": 267,
+   "hindi": "कटौती",
+   "english": "cut"
+ },
+ {
+   "number": 268,
+   "hindi": "यकीन",
+   "english": "sure"
+ },
+ {
+   "number": 269,
+   "hindi": "घड़ी",
+   "english": "watch"
+ },
+ {
+   "number": 270,
+   "hindi": "रंग",
+   "english": "color"
+ },
+ {
+   "number": 271,
+   "hindi": "चेहरा",
+   "english": "face"
+ },
+ {
+   "number": 272,
+   "hindi": "लकड़ी",
+   "english": "wood"
+ },
+ {
+   "number": 273,
+   "hindi": "मुख्य",
+   "english": "main"
+ },
+ {
+   "number": 274,
+   "hindi": "खुला",
+   "english": "open"
+ },
+ {
+   "number": 275,
+   "hindi": "प्रतीत",
+   "english": "seem"
+ },
+ {
+   "number": 276,
+   "hindi": "एक साथ",
+   "english": "together"
+ },
+ {
+   "number": 277,
+   "hindi": "अगला",
+   "english": "next"
+ },
+ {
+   "number": 278,
+   "hindi": "सफेद",
+   "english": "white"
+ },
+ {
+   "number": 279,
+   "hindi": "बच्चों",
+   "english": "children"
+ },
+ {
+   "number": 280,
+   "hindi": "प्रारंभ करना",
+   "english": "begin"
+ },
+ {
+   "number": 281,
+   "hindi": "मिला",
+   "english": "got"
+ },
+ {
+   "number": 282,
+   "hindi": "चलना",
+   "english": "walk"
+ },
+ {
+   "number": 283,
+   "hindi": "उदाहरण",
+   "english": "example"
+ },
+ {
+   "number": 284,
+   "hindi": "आसानी",
+   "english": "ease"
+ },
+ {
+   "number": 285,
+   "hindi": "कागज",
+   "english": "paper"
+ },
+ {
+   "number": 286,
+   "hindi": "समूह",
+   "english": "group"
+ },
+ {
+   "number": 287,
+   "hindi": "सदैव",
+   "english": "always"
+ },
+ {
+   "number": 288,
+   "hindi": "संगीत",
+   "english": "music"
+ },
+ {
+   "number": 289,
+   "hindi": "उन",
+   "english": "those"
+ },
+ {
+   "number": 290,
+   "hindi": "दोनों",
+   "english": "both"
+ },
+ {
+   "number": 291,
+   "hindi": "मार्क",
+   "english": "mark"
+ },
+ {
+   "number": 292,
+   "hindi": "अक्सर",
+   "english": "often"
+ },
+ {
+   "number": 293,
+   "hindi": "पत्र",
+   "english": "letter"
+ },
+ {
+   "number": 294,
+   "hindi": "जब तक",
+   "english": "until"
+ },
+ {
+   "number": 295,
+   "hindi": "मील",
+   "english": "mile"
+ },
+ {
+   "number": 296,
+   "hindi": "नदी",
+   "english": "river"
+ },
+ {
+   "number": 297,
+   "hindi": "कार",
+   "english": "car"
+ },
+ {
+   "number": 298,
+   "hindi": "पैर",
+   "english": "feet"
+ },
+ {
+   "number": 299,
+   "hindi": "देखभाल",
+   "english": "care"
+ },
+ {
+   "number": 300,
+   "hindi": "दूसरा",
+   "english": "second"
+ },
+ {
+   "number": 301,
+   "hindi": "पर्याप्त",
+   "english": "enough"
+ },
+ {
+   "number": 302,
+   "hindi": "सादे",
+   "english": "plain"
+ },
+ {
+   "number": 303,
+   "hindi": "लड़की",
+   "english": "girl"
+ },
+ {
+   "number": 304,
+   "hindi": "हमेशा की तरह",
+   "english": "usual"
+ },
+ {
+   "number": 305,
+   "hindi": "युवा",
+   "english": "young"
+ },
+ {
+   "number": 306,
+   "hindi": "तैयार",
+   "english": "ready"
+ },
+ {
+   "number": 307,
+   "hindi": "ऊपर",
+   "english": "above"
+ },
+ {
+   "number": 308,
+   "hindi": "कभी",
+   "english": "ever"
+ },
+ {
+   "number": 309,
+   "hindi": "लाल",
+   "english": "red"
+ },
+ {
+   "number": 310,
+   "hindi": "सूची",
+   "english": "list"
+ },
+ {
+   "number": 311,
+   "hindi": "हालांकि",
+   "english": "though"
+ },
+ {
+   "number": 312,
+   "hindi": "लग रहा है",
+   "english": "feel"
+ },
+ {
+   "number": 313,
+   "hindi": "वार्ता",
+   "english": "talk"
+ },
+ {
+   "number": 314,
+   "hindi": "पक्षी",
+   "english": "bird"
+ },
+ {
+   "number": 315,
+   "hindi": "शीघ्र",
+   "english": "soon"
+ },
+ {
+   "number": 316,
+   "hindi": "शरीर",
+   "english": "body"
+ },
+ {
+   "number": 317,
+   "hindi": "कुत्ते",
+   "english": "dog"
+ },
+ {
+   "number": 318,
+   "hindi": "परिवार",
+   "english": "family"
+ },
+ {
+   "number": 319,
+   "hindi": "प्रत्यक्ष",
+   "english": "direct"
+ },
+ {
+   "number": 320,
+   "hindi": "ढोंग",
+   "english": "pose"
+ },
+ {
+   "number": 321,
+   "hindi": "छोड़",
+   "english": "leave"
+ },
+ {
+   "number": 322,
+   "hindi": "गीत",
+   "english": "song"
+ },
+ {
+   "number": 323,
+   "hindi": "नाप",
+   "english": "measure"
+ },
+ {
+   "number": 324,
+   "hindi": "दरवाजा",
+   "english": "door"
+ },
+ {
+   "number": 325,
+   "hindi": "उत्पाद",
+   "english": "product"
+ },
+ {
+   "number": 326,
+   "hindi": "काला",
+   "english": "black"
+ },
+ {
+   "number": 327,
+   "hindi": "कम",
+   "english": "short"
+ },
+ {
+   "number": 328,
+   "hindi": "अंक",
+   "english": "numeral"
+ },
+ {
+   "number": 329,
+   "hindi": "क्लास",
+   "english": "class"
+ },
+ {
+   "number": 330,
+   "hindi": "हवा",
+   "english": "wind"
+ },
+ {
+   "number": 331,
+   "hindi": "सवाल",
+   "english": "question"
+ },
+ {
+   "number": 332,
+   "hindi": "होना",
+   "english": "happen"
+ },
+ {
+   "number": 333,
+   "hindi": "पूरा",
+   "english": "complete"
+ },
+ {
+   "number": 334,
+   "hindi": "जहाज",
+   "english": "ship"
+ },
+ {
+   "number": 335,
+   "hindi": "क्षेत्र",
+   "english": "area"
+ },
+ {
+   "number": 336,
+   "hindi": "आधा",
+   "english": "half"
+ },
+ {
+   "number": 337,
+   "hindi": "रॉक",
+   "english": "rock"
+ },
+ {
+   "number": 338,
+   "hindi": "आदेश",
+   "english": "order"
+ },
+ {
+   "number": 339,
+   "hindi": "आग",
+   "english": "fire"
+ },
+ {
+   "number": 340,
+   "hindi": "दक्षिण",
+   "english": "south"
+ },
+ {
+   "number": 341,
+   "hindi": "समस्या",
+   "english": "problem"
+ },
+ {
+   "number": 342,
+   "hindi": "टुकड़ा",
+   "english": "piece"
+ },
+ {
+   "number": 343,
+   "hindi": "बताया",
+   "english": "told"
+ },
+ {
+   "number": 344,
+   "hindi": "पता था",
+   "english": "knew"
+ },
+ {
+   "number": 345,
+   "hindi": "पास",
+   "english": "pass"
+ },
+ {
+   "number": 346,
+   "hindi": "के बाद से",
+   "english": "since"
+ },
+ {
+   "number": 347,
+   "hindi": "शीर्ष",
+   "english": "top"
+ },
+ {
+   "number": 348,
+   "hindi": "पूरे",
+   "english": "whole"
+ },
+ {
+   "number": 349,
+   "hindi": "राजा",
+   "english": "king"
+ },
+ {
+   "number": 350,
+   "hindi": "सड़क",
+   "english": "street"
+ },
+ {
+   "number": 351,
+   "hindi": "इंच",
+   "english": "inch"
+ },
+ {
+   "number": 352,
+   "hindi": "गुणा",
+   "english": "multiply"
+ },
+ {
+   "number": 353,
+   "hindi": "कुछ नहीं",
+   "english": "nothing"
+ },
+ {
+   "number": 354,
+   "hindi": "कोर्स",
+   "english": "course"
+ },
+ {
+   "number": 355,
+   "hindi": "रहना",
+   "english": "stay"
+ },
+ {
+   "number": 356,
+   "hindi": "पहिया",
+   "english": "wheel"
+ },
+ {
+   "number": 357,
+   "hindi": "पूर्ण",
+   "english": "full"
+ },
+ {
+   "number": 358,
+   "hindi": "बल",
+   "english": "force"
+ },
+ {
+   "number": 359,
+   "hindi": "नीला",
+   "english": "blue"
+ },
+ {
+   "number": 360,
+   "hindi": "वस्तु",
+   "english": "object"
+ },
+ {
+   "number": 361,
+   "hindi": "तय",
+   "english": "decide"
+ },
+ {
+   "number": 362,
+   "hindi": "सतह",
+   "english": "surface"
+ },
+ {
+   "number": 363,
+   "hindi": "गहरा",
+   "english": "deep"
+ },
+ {
+   "number": 364,
+   "hindi": "चांद",
+   "english": "moon"
+ },
+ {
+   "number": 365,
+   "hindi": "द्वीप",
+   "english": "island"
+ },
+ {
+   "number": 366,
+   "hindi": "पैर",
+   "english": "foot"
+ },
+ {
+   "number": 367,
+   "hindi": "प्रणाली",
+   "english": "system"
+ },
+ {
+   "number": 368,
+   "hindi": "व्यस्त",
+   "english": "busy"
+ },
+ {
+   "number": 369,
+   "hindi": "परीक्षण",
+   "english": "test"
+ },
+ {
+   "number": 370,
+   "hindi": "रिकॉर्ड",
+   "english": "record"
+ },
+ {
+   "number": 371,
+   "hindi": "नाव",
+   "english": "boat"
+ },
+ {
+   "number": 372,
+   "hindi": "आम",
+   "english": "common"
+ },
+ {
+   "number": 373,
+   "hindi": "सोना",
+   "english": "gold"
+ },
+ {
+   "number": 374,
+   "hindi": "संभव",
+   "english": "possible"
+ },
+ {
+   "number": 375,
+   "hindi": "विमान",
+   "english": "plane"
+ },
+ {
+   "number": 376,
+   "hindi": "जगह",
+   "english": "stead"
+ },
+ {
+   "number": 377,
+   "hindi": "सूखा",
+   "english": "dry"
+ },
+ {
+   "number": 378,
+   "hindi": "आश्चर्य",
+   "english": "wonder"
+ },
+ {
+   "number": 379,
+   "hindi": "हंसी",
+   "english": "laugh"
+ },
+ {
+   "number": 380,
+   "hindi": "हजार",
+   "english": "thousand"
+ },
+ {
+   "number": 381,
+   "hindi": "पहले",
+   "english": "ago"
+ },
+ {
+   "number": 382,
+   "hindi": "भागा",
+   "english": "ran"
+ },
+ {
+   "number": 383,
+   "hindi": "जाँच",
+   "english": "check"
+ },
+ {
+   "number": 384,
+   "hindi": "खेल",
+   "english": "game"
+ },
+ {
+   "number": 385,
+   "hindi": "आकार",
+   "english": "shape"
+ },
+ {
+   "number": 386,
+   "hindi": "समानता",
+   "english": "equate"
+ },
+ {
+   "number": 387,
+   "hindi": "गरम",
+   "english": "hot"
+ },
+ {
+   "number": 388,
+   "hindi": "मिस",
+   "english": "miss"
+ },
+ {
+   "number": 389,
+   "hindi": "लाया",
+   "english": "brought"
+ },
+ {
+   "number": 390,
+   "hindi": "गर्मी",
+   "english": "heat"
+ },
+ {
+   "number": 391,
+   "hindi": "बर्फ",
+   "english": "snow"
+ },
+ {
+   "number": 392,
+   "hindi": "टायर",
+   "english": "tire"
+ },
+ {
+   "number": 393,
+   "hindi": "लाना",
+   "english": "bring"
+ },
+ {
+   "number": 394,
+   "hindi": "हां",
+   "english": "yes"
+ },
+ {
+   "number": 395,
+   "hindi": "दूर",
+   "english": "distant"
+ },
+ {
+   "number": 396,
+   "hindi": "भरने",
+   "english": "fill"
+ },
+ {
+   "number": 397,
+   "hindi": "पूर्व",
+   "english": "east"
+ },
+ {
+   "number": 398,
+   "hindi": "रंग",
+   "english": "paint"
+ },
+ {
+   "number": 399,
+   "hindi": "भाषा",
+   "english": "language"
+ },
+ {
+   "number": 400,
+   "hindi": "के बीच",
+   "english": "among"
+ },
+ {
+   "number": 401,
+   "hindi": "इकाई",
+   "english": "unit"
+ },
+ {
+   "number": 402,
+   "hindi": "बिजली",
+   "english": "power"
+ },
+ {
+   "number": 403,
+   "hindi": "शहर",
+   "english": "town"
+ },
+ {
+   "number": 404,
+   "hindi": "ठीक",
+   "english": "fine"
+ },
+ {
+   "number": 405,
+   "hindi": "कुछ",
+   "english": "certain"
+ },
+ {
+   "number": 406,
+   "hindi": "मक्खी",
+   "english": "fly"
+ },
+ {
+   "number": 407,
+   "hindi": "गिरावट",
+   "english": "fall"
+ },
+ {
+   "number": 408,
+   "hindi": "नेतृत्व",
+   "english": "lead"
+ },
+ {
+   "number": 409,
+   "hindi": "रोना",
+   "english": "cry"
+ },
+ {
+   "number": 410,
+   "hindi": "अंधेरा",
+   "english": "dark"
+ },
+ {
+   "number": 411,
+   "hindi": "मशीन",
+   "english": "machine"
+ },
+ {
+   "number": 412,
+   "hindi": "नोट",
+   "english": "note"
+ },
+ {
+   "number": 413,
+   "hindi": "इंतजार",
+   "english": "wait"
+ },
+ {
+   "number": 414,
+   "hindi": "योजना",
+   "english": "plan"
+ },
+ {
+   "number": 415,
+   "hindi": "आंकड़ा",
+   "english": "figure"
+ },
+ {
+   "number": 416,
+   "hindi": "सितारा",
+   "english": "star"
+ },
+ {
+   "number": 417,
+   "hindi": "बॉक्स",
+   "english": "box"
+ },
+ {
+   "number": 418,
+   "hindi": "संज्ञा",
+   "english": "noun"
+ },
+ {
+   "number": 419,
+   "hindi": "क्षेत्र",
+   "english": "field"
+ },
+ {
+   "number": 420,
+   "hindi": "बाकी",
+   "english": "rest"
+ },
+ {
+   "number": 421,
+   "hindi": "सही",
+   "english": "correct"
+ },
+ {
+   "number": 422,
+   "hindi": "सक्षम",
+   "english": "able"
+ },
+ {
+   "number": 423,
+   "hindi": "पाउंड",
+   "english": "pound"
+ },
+ {
+   "number": 424,
+   "hindi": "किया",
+   "english": "done"
+ },
+ {
+   "number": 425,
+   "hindi": "सुंदरता",
+   "english": "beauty"
+ },
+ {
+   "number": 426,
+   "hindi": "ड्राइव",
+   "english": "drive"
+ },
+ {
+   "number": 427,
+   "hindi": "खड़ा हुआ",
+   "english": "stood"
+ },
+ {
+   "number": 428,
+   "hindi": "होते हैं",
+   "english": "contain"
+ },
+ {
+   "number": 429,
+   "hindi": "सामने",
+   "english": "front"
+ },
+ {
+   "number": 430,
+   "hindi": "सिखाना",
+   "english": "teach"
+ },
+ {
+   "number": 431,
+   "hindi": "सप्ताह",
+   "english": "week"
+ },
+ {
+   "number": 432,
+   "hindi": "अंतिम",
+   "english": "final"
+ },
+ {
+   "number": 433,
+   "hindi": "दिया",
+   "english": "gave"
+ },
+ {
+   "number": 434,
+   "hindi": "हरे रंग",
+   "english": "green"
+ },
+ {
+   "number": 435,
+   "hindi": "ओह",
+   "english": "oh"
+ },
+ {
+   "number": 436,
+   "hindi": "त्वरित",
+   "english": "quick"
+ },
+ {
+   "number": 437,
+   "hindi": "विकसित",
+   "english": "develop"
+ },
+ {
+   "number": 438,
+   "hindi": "सागर",
+   "english": "ocean"
+ },
+ {
+   "number": 439,
+   "hindi": "गर्म",
+   "english": "warm"
+ },
+ {
+   "number": 440,
+   "hindi": "मुक्त",
+   "english": "free"
+ },
+ {
+   "number": 441,
+   "hindi": "मिनट",
+   "english": "minute"
+ },
+ {
+   "number": 442,
+   "hindi": "मजबूत",
+   "english": "strong"
+ },
+ {
+   "number": 443,
+   "hindi": "विशेष",
+   "english": "special"
+ },
+ {
+   "number": 444,
+   "hindi": "मन",
+   "english": "mind"
+ },
+ {
+   "number": 445,
+   "hindi": "पीछे",
+   "english": "behind"
+ },
+ {
+   "number": 446,
+   "hindi": "स्पष्ट",
+   "english": "clear"
+ },
+ {
+   "number": 447,
+   "hindi": "पूंछ",
+   "english": "tail"
+ },
+ {
+   "number": 448,
+   "hindi": "उत्पादन",
+   "english": "produce"
+ },
+ {
+   "number": 449,
+   "hindi": "तथ्य",
+   "english": "fact"
+ },
+ {
+   "number": 450,
+   "hindi": "अंतरिक्ष",
+   "english": "space"
+ },
+ {
+   "number": 451,
+   "hindi": "सुना",
+   "english": "heard"
+ },
+ {
+   "number": 452,
+   "hindi": "सर्वश्रेष्ठ",
+   "english": "best"
+ },
+ {
+   "number": 453,
+   "hindi": "घंटे",
+   "english": "hour"
+ },
+ {
+   "number": 454,
+   "hindi": "बेहतर",
+   "english": "better"
+ },
+ {
+   "number": 455,
+   "hindi": "सच",
+   "english": "true"
+ },
+ {
+   "number": 456,
+   "hindi": "दौरान",
+   "english": "during"
+ },
+ {
+   "number": 457,
+   "hindi": "सौ",
+   "english": "hundred"
+ },
+ {
+   "number": 458,
+   "hindi": "पांच",
+   "english": "five"
+ },
+ {
+   "number": 459,
+   "hindi": "याद",
+   "english": "remember"
+ },
+ {
+   "number": 460,
+   "hindi": "कदम",
+   "english": "step"
+ },
+ {
+   "number": 461,
+   "hindi": "शीघ्र",
+   "english": "early"
+ },
+ {
+   "number": 462,
+   "hindi": "पकड़",
+   "english": "hold"
+ },
+ {
+   "number": 463,
+   "hindi": "पश्चिम",
+   "english": "west"
+ },
+ {
+   "number": 464,
+   "hindi": "जमीन",
+   "english": "ground"
+ },
+ {
+   "number": 465,
+   "hindi": "ब्याज",
+   "english": "interest"
+ },
+ {
+   "number": 466,
+   "hindi": "तक पहुँचने",
+   "english": "reach"
+ },
+ {
+   "number": 467,
+   "hindi": "तेजी",
+   "english": "fast"
+ },
+ {
+   "number": 468,
+   "hindi": "क्रिया",
+   "english": "verb"
+ },
+ {
+   "number": 469,
+   "hindi": "गाना",
+   "english": "sing"
+ },
+ {
+   "number": 470,
+   "hindi": "सुनो",
+   "english": "listen"
+ },
+ {
+   "number": 471,
+   "hindi": "छह",
+   "english": "six"
+ },
+ {
+   "number": 472,
+   "hindi": "तालिका",
+   "english": "table"
+ },
+ {
+   "number": 473,
+   "hindi": "यात्रा",
+   "english": "travel"
+ },
+ {
+   "number": 474,
+   "hindi": "कम",
+   "english": "less"
+ },
+ {
+   "number": 475,
+   "hindi": "सुबह",
+   "english": "morning"
+ },
+ {
+   "number": 476,
+   "hindi": "दस",
+   "english": "ten"
+ },
+ {
+   "number": 477,
+   "hindi": "सरल",
+   "english": "simple"
+ },
+ {
+   "number": 478,
+   "hindi": "कई",
+   "english": "several"
+ },
+ {
+   "number": 479,
+   "hindi": "स्वर",
+   "english": "vowel"
+ },
+ {
+   "number": 480,
+   "hindi": "की ओर",
+   "english": "toward"
+ },
+ {
+   "number": 481,
+   "hindi": "युद्ध",
+   "english": "war"
+ },
+ {
+   "number": 482,
+   "hindi": "रखना",
+   "english": "lay"
+ },
+ {
+   "number": 483,
+   "hindi": "के खिलाफ",
+   "english": "against"
+ },
+ {
+   "number": 484,
+   "hindi": "पैटर्न",
+   "english": "pattern"
+ },
+ {
+   "number": 485,
+   "hindi": "धीमी",
+   "english": "slow"
+ },
+ {
+   "number": 486,
+   "hindi": "केंद्र",
+   "english": "center"
+ },
+ {
+   "number": 487,
+   "hindi": "प्यार",
+   "english": "love"
+ },
+ {
+   "number": 488,
+   "hindi": "व्यक्ति",
+   "english": "person"
+ },
+ {
+   "number": 489,
+   "hindi": "धन",
+   "english": "money"
+ },
+ {
+   "number": 490,
+   "hindi": "सेवा कर",
+   "english": "serve"
+ },
+ {
+   "number": 491,
+   "hindi": "प्रकट",
+   "english": "appear"
+ },
+ {
+   "number": 492,
+   "hindi": "सड़क",
+   "english": "road"
+ },
+ {
+   "number": 493,
+   "hindi": "नक्शा",
+   "english": "map"
+ },
+ {
+   "number": 494,
+   "hindi": "बारिश",
+   "english": "rain"
+ },
+ {
+   "number": 495,
+   "hindi": "नियम",
+   "english": "rule"
+ },
+ {
+   "number": 496,
+   "hindi": "शासन",
+   "english": "govern"
+ },
+ {
+   "number": 497,
+   "hindi": "खींच",
+   "english": "pull"
+ },
+ {
+   "number": 498,
+   "hindi": "ठंड",
+   "english": "cold"
+ },
+ {
+   "number": 499,
+   "hindi": "नोटिस",
+   "english": "notice"
+ },
+ {
+   "number": 500,
+   "hindi": "आवाज",
+   "english": "voice"
+ },
+ {
+   "number": 501,
+   "hindi": "ऊर्जा",
+   "english": "energy"
+ },
+ {
+   "number": 502,
+   "hindi": "शिकार",
+   "english": "hunt"
+ },
+ {
+   "number": 503,
+   "hindi": "संभावित",
+   "english": "probable"
+ },
+ {
+   "number": 504,
+   "hindi": "बिस्तर",
+   "english": "bed"
+ },
+ {
+   "number": 505,
+   "hindi": "भाई",
+   "english": "brother"
+ },
+ {
+   "number": 506,
+   "hindi": "अंडा",
+   "english": "egg"
+ },
+ {
+   "number": 507,
+   "hindi": "सवारी",
+   "english": "ride"
+ },
+ {
+   "number": 508,
+   "hindi": "सेल",
+   "english": "cell"
+ },
+ {
+   "number": 509,
+   "hindi": "विश्वास है",
+   "english": "believe"
+ },
+ {
+   "number": 510,
+   "hindi": "शायद",
+   "english": "perhaps"
+ },
+ {
+   "number": 511,
+   "hindi": "उठाओ",
+   "english": "pick"
+ },
+ {
+   "number": 512,
+   "hindi": "अचानक",
+   "english": "sudden"
+ },
+ {
+   "number": 513,
+   "hindi": "गिनती",
+   "english": "count"
+ },
+ {
+   "number": 514,
+   "hindi": "वर्ग",
+   "english": "square"
+ },
+ {
+   "number": 515,
+   "hindi": "कारण",
+   "english": "reason"
+ },
+ {
+   "number": 516,
+   "hindi": "लंबाई",
+   "english": "length"
+ },
+ {
+   "number": 517,
+   "hindi": "का प्रतिनिधित्व",
+   "english": "represent"
+ },
+ {
+   "number": 518,
+   "hindi": "कला",
+   "english": "art"
+ },
+ {
+   "number": 519,
+   "hindi": "विषय",
+   "english": "subject"
+ },
+ {
+   "number": 520,
+   "hindi": "क्षेत्र",
+   "english": "region"
+ },
+ {
+   "number": 521,
+   "hindi": "आकार",
+   "english": "size"
+ },
+ {
+   "number": 522,
+   "hindi": "भिन्न हो",
+   "english": "vary"
+ },
+ {
+   "number": 523,
+   "hindi": "बसा",
+   "english": "settle"
+ },
+ {
+   "number": 524,
+   "hindi": "बोलना",
+   "english": "speak"
+ },
+ {
+   "number": 525,
+   "hindi": "वजन",
+   "english": "weight"
+ },
+ {
+   "number": 526,
+   "hindi": "सामान्य",
+   "english": "general"
+ },
+ {
+   "number": 527,
+   "hindi": "बर्फ",
+   "english": "ice"
+ },
+ {
+   "number": 528,
+   "hindi": "मामला",
+   "english": "matter"
+ },
+ {
+   "number": 529,
+   "hindi": "वृत्त",
+   "english": "circle"
+ },
+ {
+   "number": 530,
+   "hindi": "जोड़ी",
+   "english": "pair"
+ },
+ {
+   "number": 531,
+   "hindi": "शामिल",
+   "english": "include"
+ },
+ {
+   "number": 532,
+   "hindi": "विभाजन",
+   "english": "divide"
+ },
+ {
+   "number": 533,
+   "hindi": "शब्दांश",
+   "english": "syllable"
+ },
+ {
+   "number": 534,
+   "hindi": "लगा",
+   "english": "felt"
+ },
+ {
+   "number": 535,
+   "hindi": "भव्य",
+   "english": "grand"
+ },
+ {
+   "number": 536,
+   "hindi": "गेंद",
+   "english": "ball"
+ },
+ {
+   "number": 537,
+   "hindi": "अभी तक",
+   "english": "yet"
+ },
+ {
+   "number": 538,
+   "hindi": "लहर",
+   "english": "wave"
+ },
+ {
+   "number": 539,
+   "hindi": "ड्रॉप",
+   "english": "drop"
+ },
+ {
+   "number": 540,
+   "hindi": "दिल",
+   "english": "heart"
+ },
+ {
+   "number": 541,
+   "hindi": "AM",
+   "english": "am"
+ },
+ {
+   "number": 542,
+   "hindi": "वर्तमान",
+   "english": "present"
+ },
+ {
+   "number": 543,
+   "hindi": "भारी",
+   "english": "heavy"
+ },
+ {
+   "number": 544,
+   "hindi": "नृत्य",
+   "english": "dance"
+ },
+ {
+   "number": 545,
+   "hindi": "इंजन",
+   "english": "engine"
+ },
+ {
+   "number": 546,
+   "hindi": "स्थिति",
+   "english": "position"
+ },
+ {
+   "number": 547,
+   "hindi": "बांह",
+   "english": "arm"
+ },
+ {
+   "number": 548,
+   "hindi": "विस्तृत",
+   "english": "wide"
+ },
+ {
+   "number": 549,
+   "hindi": "स्टील अथॉरिटी ऑफ इंडिया",
+   "english": "sail"
+ },
+ {
+   "number": 550,
+   "hindi": "सामग्री",
+   "english": "material"
+ },
+ {
+   "number": 551,
+   "hindi": "अंश",
+   "english": "fraction"
+ },
+ {
+   "number": 552,
+   "hindi": "वन",
+   "english": "forest"
+ },
+ {
+   "number": 553,
+   "hindi": "बैठना",
+   "english": "sit"
+ },
+ {
+   "number": 554,
+   "hindi": "दौड़",
+   "english": "race"
+ },
+ {
+   "number": 555,
+   "hindi": "खिड़की",
+   "english": "window"
+ },
+ {
+   "number": 556,
+   "hindi": "दुकान",
+   "english": "store"
+ },
+ {
+   "number": 557,
+   "hindi": "गर्मियों",
+   "english": "summer"
+ },
+ {
+   "number": 558,
+   "hindi": "सफर",
+   "english": "train"
+ },
+ {
+   "number": 559,
+   "hindi": "नींद",
+   "english": "sleep"
+ },
+ {
+   "number": 560,
+   "hindi": "साबित",
+   "english": "prove"
+ },
+ {
+   "number": 561,
+   "hindi": "लोन",
+   "english": "lone"
+ },
+ {
+   "number": 562,
+   "hindi": "पैर",
+   "english": "leg"
+ },
+ {
+   "number": 563,
+   "hindi": "व्यायाम",
+   "english": "exercise"
+ },
+ {
+   "number": 564,
+   "hindi": "दीवार",
+   "english": "wall"
+ },
+ {
+   "number": 565,
+   "hindi": "पकड़",
+   "english": "catch"
+ },
+ {
+   "number": 566,
+   "hindi": "माउंट",
+   "english": "mount"
+ },
+ {
+   "number": 567,
+   "hindi": "इच्छा",
+   "english": "wish"
+ },
+ {
+   "number": 568,
+   "hindi": "आसमान",
+   "english": "sky"
+ },
+ {
+   "number": 569,
+   "hindi": "बोर्ड",
+   "english": "board"
+ },
+ {
+   "number": 570,
+   "hindi": "हर्ष",
+   "english": "joy"
+ },
+ {
+   "number": 571,
+   "hindi": "सर्दियों",
+   "english": "winter"
+ },
+ {
+   "number": 572,
+   "hindi": "शनि",
+   "english": "sat"
+ },
+ {
+   "number": 573,
+   "hindi": "लिखित",
+   "english": "written"
+ },
+ {
+   "number": 574,
+   "hindi": "जंगली",
+   "english": "wild"
+ },
+ {
+   "number": 575,
+   "hindi": "साधन",
+   "english": "instrument"
+ },
+ {
+   "number": 576,
+   "hindi": "रखा",
+   "english": "kept"
+ },
+ {
+   "number": 577,
+   "hindi": "कांच",
+   "english": "glass"
+ },
+ {
+   "number": 578,
+   "hindi": "घास",
+   "english": "grass"
+ },
+ {
+   "number": 579,
+   "hindi": "गाय",
+   "english": "cow"
+ },
+ {
+   "number": 580,
+   "hindi": "काम",
+   "english": "job"
+ },
+ {
+   "number": 581,
+   "hindi": "बढ़त",
+   "english": "edge"
+ },
+ {
+   "number": 582,
+   "hindi": "साइन",
+   "english": "sign"
+ },
+ {
+   "number": 583,
+   "hindi": "यात्रा",
+   "english": "visit"
+ },
+ {
+   "number": 584,
+   "hindi": "अतीत",
+   "english": "past"
+ },
+ {
+   "number": 585,
+   "hindi": "मुलायम",
+   "english": "soft"
+ },
+ {
+   "number": 586,
+   "hindi": "मज़ा",
+   "english": "fun"
+ },
+ {
+   "number": 587,
+   "hindi": "उज्ज्वल",
+   "english": "bright"
+ },
+ {
+   "number": 588,
+   "hindi": "गैस",
+   "english": "gas"
+ },
+ {
+   "number": 589,
+   "hindi": "मौसम",
+   "english": "weather"
+ },
+ {
+   "number": 590,
+   "hindi": "माह",
+   "english": "month"
+ },
+ {
+   "number": 591,
+   "hindi": "लाख",
+   "english": "million"
+ },
+ {
+   "number": 592,
+   "hindi": "भालू",
+   "english": "bear"
+ },
+ {
+   "number": 593,
+   "hindi": "खत्म",
+   "english": "finish"
+ },
+ {
+   "number": 594,
+   "hindi": "खुश",
+   "english": "happy"
+ },
+ {
+   "number": 595,
+   "hindi": "आशा",
+   "english": "hope"
+ },
+ {
+   "number": 596,
+   "hindi": "फूल",
+   "english": "flower"
+ },
+ {
+   "number": 597,
+   "hindi": "कपड़े",
+   "english": "clothe"
+ },
+ {
+   "number": 598,
+   "hindi": "अजीब",
+   "english": "strange"
+ },
+ {
+   "number": 599,
+   "hindi": "चला गया",
+   "english": "gone"
+ },
+ {
+   "number": 600,
+   "hindi": "व्यापार",
+   "english": "trade"
+ },
+ {
+   "number": 601,
+   "hindi": "राग",
+   "english": "melody"
+ },
+ {
+   "number": 602,
+   "hindi": "यात्रा",
+   "english": "trip"
+ },
+ {
+   "number": 603,
+   "hindi": "कार्यालय",
+   "english": "office"
+ },
+ {
+   "number": 604,
+   "hindi": "प्राप्त करना",
+   "english": "receive"
+ },
+ {
+   "number": 605,
+   "hindi": "पंक्ति",
+   "english": "row"
+ },
+ {
+   "number": 606,
+   "hindi": "मुंह",
+   "english": "mouth"
+ },
+ {
+   "number": 607,
+   "hindi": "सटीक",
+   "english": "exact"
+ },
+ {
+   "number": 608,
+   "hindi": "प्रतीक",
+   "english": "symbol"
+ },
+ {
+   "number": 609,
+   "hindi": "मरना",
+   "english": "die"
+ },
+ {
+   "number": 610,
+   "hindi": "कम से कम",
+   "english": "least"
+ },
+ {
+   "number": 611,
+   "hindi": "मुसीबत",
+   "english": "trouble"
+ },
+ {
+   "number": 612,
+   "hindi": "चिल्लाओ",
+   "english": "shout"
+ },
+ {
+   "number": 613,
+   "hindi": "सिवाय",
+   "english": "except"
+ },
+ {
+   "number": 614,
+   "hindi": "लिखा",
+   "english": "wrote"
+ },
+ {
+   "number": 615,
+   "hindi": "बीज",
+   "english": "seed"
+ },
+ {
+   "number": 616,
+   "hindi": "स्वर",
+   "english": "tone"
+ },
+ {
+   "number": 617,
+   "hindi": "शामिल होने",
+   "english": "join"
+ },
+ {
+   "number": 618,
+   "hindi": "सुझाव है",
+   "english": "suggest"
+ },
+ {
+   "number": 619,
+   "hindi": "साफ",
+   "english": "clean"
+ },
+ {
+   "number": 620,
+   "hindi": "तोड़",
+   "english": "break"
+ },
+ {
+   "number": 621,
+   "hindi": "महिला",
+   "english": "lady"
+ },
+ {
+   "number": 622,
+   "hindi": "यार्ड",
+   "english": "yard"
+ },
+ {
+   "number": 623,
+   "hindi": "वृद्धि",
+   "english": "rise"
+ },
+ {
+   "number": 624,
+   "hindi": "बुरा",
+   "english": "bad"
+ },
+ {
+   "number": 625,
+   "hindi": "झटका",
+   "english": "blow"
+ },
+ {
+   "number": 626,
+   "hindi": "तेल",
+   "english": "oil"
+ },
+ {
+   "number": 627,
+   "hindi": "खून",
+   "english": "blood"
+ },
+ {
+   "number": 628,
+   "hindi": "स्पर्श",
+   "english": "touch"
+ },
+ {
+   "number": 629,
+   "hindi": "बढ़ी",
+   "english": "grew"
+ },
+ {
+   "number": 630,
+   "hindi": "प्रतिशत",
+   "english": "cent"
+ },
+ {
+   "number": 631,
+   "hindi": "मिश्रण",
+   "english": "mix"
+ },
+ {
+   "number": 632,
+   "hindi": "टीम",
+   "english": "team"
+ },
+ {
+   "number": 633,
+   "hindi": "तार",
+   "english": "wire"
+ },
+ {
+   "number": 634,
+   "hindi": "लागत",
+   "english": "cost"
+ },
+ {
+   "number": 635,
+   "hindi": "खोया",
+   "english": "lost"
+ },
+ {
+   "number": 636,
+   "hindi": "ब्राउन",
+   "english": "brown"
+ },
+ {
+   "number": 637,
+   "hindi": "पहनना",
+   "english": "wear"
+ },
+ {
+   "number": 638,
+   "hindi": "बगीचा",
+   "english": "garden"
+ },
+ {
+   "number": 639,
+   "hindi": "बराबर",
+   "english": "equal"
+ },
+ {
+   "number": 640,
+   "hindi": "भेजा",
+   "english": "sent"
+ },
+ {
+   "number": 641,
+   "hindi": "चयन",
+   "english": "choose"
+ },
+ {
+   "number": 642,
+   "hindi": "गिर गया",
+   "english": "fell"
+ },
+ {
+   "number": 643,
+   "hindi": "फिट",
+   "english": "fit"
+ },
+ {
+   "number": 644,
+   "hindi": "प्रवाह",
+   "english": "flow"
+ },
+ {
+   "number": 645,
+   "hindi": "मेला",
+   "english": "fair"
+ },
+ {
+   "number": 646,
+   "hindi": "बैंक",
+   "english": "bank"
+ },
+ {
+   "number": 647,
+   "hindi": "इकट्ठा",
+   "english": "collect"
+ },
+ {
+   "number": 648,
+   "hindi": "बचा",
+   "english": "save"
+ },
+ {
+   "number": 649,
+   "hindi": "नियंत्रण",
+   "english": "control"
+ },
+ {
+   "number": 650,
+   "hindi": "दशमलव",
+   "english": "decimal"
+ },
+ {
+   "number": 651,
+   "hindi": "कान",
+   "english": "ear"
+ },
+ {
+   "number": 652,
+   "hindi": "बाकी",
+   "english": "else"
+ },
+ {
+   "number": 653,
+   "hindi": "काफी",
+   "english": "quite"
+ },
+ {
+   "number": 654,
+   "hindi": "तोड़ दिया",
+   "english": "broke"
+ },
+ {
+   "number": 655,
+   "hindi": "मामले",
+   "english": "case"
+ },
+ {
+   "number": 656,
+   "hindi": "बीच",
+   "english": "middle"
+ },
+ {
+   "number": 657,
+   "hindi": "हत्या",
+   "english": "kill"
+ },
+ {
+   "number": 658,
+   "hindi": "बेटा",
+   "english": "son"
+ },
+ {
+   "number": 659,
+   "hindi": "झील",
+   "english": "lake"
+ },
+ {
+   "number": 660,
+   "hindi": "पल",
+   "english": "moment"
+ },
+ {
+   "number": 661,
+   "hindi": "पैमाने",
+   "english": "scale"
+ },
+ {
+   "number": 662,
+   "hindi": "जोर",
+   "english": "loud"
+ },
+ {
+   "number": 663,
+   "hindi": "वसंत",
+   "english": "spring"
+ },
+ {
+   "number": 664,
+   "hindi": "निरीक्षण",
+   "english": "observe"
+ },
+ {
+   "number": 665,
+   "hindi": "बच्चे",
+   "english": "child"
+ },
+ {
+   "number": 666,
+   "hindi": "सीधे",
+   "english": "straight"
+ },
+ {
+   "number": 667,
+   "hindi": "व्यंजन",
+   "english": "consonant"
+ },
+ {
+   "number": 668,
+   "hindi": "राष्ट्र",
+   "english": "nation"
+ },
+ {
+   "number": 669,
+   "hindi": "शब्दकोश",
+   "english": "dictionary"
+ },
+ {
+   "number": 670,
+   "hindi": "दूध",
+   "english": "milk"
+ },
+ {
+   "number": 671,
+   "hindi": "गति",
+   "english": "speed"
+ },
+ {
+   "number": 672,
+   "hindi": "विधि",
+   "english": "method"
+ },
+ {
+   "number": 673,
+   "hindi": "अंग",
+   "english": "organ"
+ },
+ {
+   "number": 674,
+   "hindi": "भुगतान",
+   "english": "pay"
+ },
+ {
+   "number": 675,
+   "hindi": "उम्र",
+   "english": "age"
+ },
+ {
+   "number": 676,
+   "hindi": "अनुभाग",
+   "english": "section"
+ },
+ {
+   "number": 677,
+   "hindi": "पोशाक",
+   "english": "dress"
+ },
+ {
+   "number": 678,
+   "hindi": "बादल",
+   "english": "cloud"
+ },
+ {
+   "number": 679,
+   "hindi": "आश्चर्य",
+   "english": "surprise"
+ },
+ {
+   "number": 680,
+   "hindi": "शांत",
+   "english": "quiet"
+ },
+ {
+   "number": 681,
+   "hindi": "पत्थर",
+   "english": "stone"
+ },
+ {
+   "number": 682,
+   "hindi": "छोटे",
+   "english": "tiny"
+ },
+ {
+   "number": 683,
+   "hindi": "चढ़ाई",
+   "english": "climb"
+ },
+ {
+   "number": 684,
+   "hindi": "शीतल",
+   "english": "cool"
+ },
+ {
+   "number": 685,
+   "hindi": "डिजाइन",
+   "english": "design"
+ },
+ {
+   "number": 686,
+   "hindi": "गरीब",
+   "english": "poor"
+ },
+ {
+   "number": 687,
+   "hindi": "बहुत",
+   "english": "lot"
+ },
+ {
+   "number": 688,
+   "hindi": "प्रयोग",
+   "english": "experiment"
+ },
+ {
+   "number": 689,
+   "hindi": "तल",
+   "english": "bottom"
+ },
+ {
+   "number": 690,
+   "hindi": "कुंजी",
+   "english": "key"
+ },
+ {
+   "number": 691,
+   "hindi": "लोहा",
+   "english": "iron"
+ },
+ {
+   "number": 692,
+   "hindi": "एकल",
+   "english": "single"
+ },
+ {
+   "number": 693,
+   "hindi": "छड़ी",
+   "english": "stick"
+ },
+ {
+   "number": 694,
+   "hindi": "फ्लैट",
+   "english": "flat"
+ },
+ {
+   "number": 695,
+   "hindi": "बीस",
+   "english": "twenty"
+ },
+ {
+   "number": 696,
+   "hindi": "त्वचा",
+   "english": "skin"
+ },
+ {
+   "number": 697,
+   "hindi": "मुस्कान",
+   "english": "smile"
+ },
+ {
+   "number": 698,
+   "hindi": "क्रीज",
+   "english": "crease"
+ },
+ {
+   "number": 699,
+   "hindi": "छेद",
+   "english": "hole"
+ },
+ {
+   "number": 700,
+   "hindi": "कूद",
+   "english": "jump"
+ },
+ {
+   "number": 701,
+   "hindi": "बच्चे",
+   "english": "baby"
+ },
+ {
+   "number": 702,
+   "hindi": "आठ",
+   "english": "eight"
+ },
+ {
+   "number": 703,
+   "hindi": "गांव",
+   "english": "village"
+ },
+ {
+   "number": 704,
+   "hindi": "मिलो",
+   "english": "meet"
+ },
+ {
+   "number": 705,
+   "hindi": "जड़",
+   "english": "root"
+ },
+ {
+   "number": 706,
+   "hindi": "खरीद",
+   "english": "buy"
+ },
+ {
+   "number": 707,
+   "hindi": "उठाना",
+   "english": "raise"
+ },
+ {
+   "number": 708,
+   "hindi": "हल",
+   "english": "solve"
+ },
+ {
+   "number": 709,
+   "hindi": "धातु",
+   "english": "metal"
+ },
+ {
+   "number": 710,
+   "hindi": "चाहे",
+   "english": "whether"
+ },
+ {
+   "number": 711,
+   "hindi": "धक्का",
+   "english": "push"
+ },
+ {
+   "number": 712,
+   "hindi": "सात",
+   "english": "seven"
+ },
+ {
+   "number": 713,
+   "hindi": "पैरा",
+   "english": "paragraph"
+ },
+ {
+   "number": 714,
+   "hindi": "तीसरे",
+   "english": "third"
+ },
+ {
+   "number": 715,
+   "hindi": "करेगा",
+   "english": "shall"
+ },
+ {
+   "number": 716,
+   "hindi": "आयोजित",
+   "english": "held"
+ },
+ {
+   "number": 717,
+   "hindi": "बाल",
+   "english": "hair"
+ },
+ {
+   "number": 718,
+   "hindi": "वर्णन",
+   "english": "describe"
+ },
+ {
+   "number": 719,
+   "hindi": "कुक",
+   "english": "cook"
+ },
+ {
+   "number": 720,
+   "hindi": "मंजिल",
+   "english": "floor"
+ },
+ {
+   "number": 721,
+   "hindi": "भी",
+   "english": "either"
+ },
+ {
+   "number": 722,
+   "hindi": "परिणाम",
+   "english": "result"
+ },
+ {
+   "number": 723,
+   "hindi": "जला",
+   "english": "burn"
+ },
+ {
+   "number": 724,
+   "hindi": "पहाड़ी",
+   "english": "hill"
+ },
+ {
+   "number": 725,
+   "hindi": "सुरक्षित",
+   "english": "safe"
+ },
+ {
+   "number": 726,
+   "hindi": "बिल्ली",
+   "english": "cat"
+ },
+ {
+   "number": 727,
+   "hindi": "सदी",
+   "english": "century"
+ },
+ {
+   "number": 728,
+   "hindi": "विचार करना",
+   "english": "consider"
+ },
+ {
+   "number": 729,
+   "hindi": "प्रकार",
+   "english": "type"
+ },
+ {
+   "number": 730,
+   "hindi": "कानून",
+   "english": "law"
+ },
+ {
+   "number": 731,
+   "hindi": "बिट",
+   "english": "bit"
+ },
+ {
+   "number": 732,
+   "hindi": "तट",
+   "english": "coast"
+ },
+ {
+   "number": 733,
+   "hindi": "नकल",
+   "english": "copy"
+ },
+ {
+   "number": 734,
+   "hindi": "वाक्यांश",
+   "english": "phrase"
+ },
+ {
+   "number": 735,
+   "hindi": "चुप",
+   "english": "silent"
+ },
+ {
+   "number": 736,
+   "hindi": "लंबा",
+   "english": "tall"
+ },
+ {
+   "number": 737,
+   "hindi": "रेत",
+   "english": "sand"
+ },
+ {
+   "number": 738,
+   "hindi": "मिट्टी",
+   "english": "soil"
+ },
+ {
+   "number": 739,
+   "hindi": "रोल",
+   "english": "roll"
+ },
+ {
+   "number": 740,
+   "hindi": "तापमान",
+   "english": "temperature"
+ },
+ {
+   "number": 741,
+   "hindi": "उंगली",
+   "english": "finger"
+ },
+ {
+   "number": 742,
+   "hindi": "उद्योग",
+   "english": "industry"
+ },
+ {
+   "number": 743,
+   "hindi": "मूल्य",
+   "english": "value"
+ },
+ {
+   "number": 744,
+   "hindi": "लड़ाई",
+   "english": "fight"
+ },
+ {
+   "number": 745,
+   "hindi": "झूठ",
+   "english": "lie"
+ },
+ {
+   "number": 746,
+   "hindi": "हरा",
+   "english": "beat"
+ },
+ {
+   "number": 747,
+   "hindi": "उत्तेजित",
+   "english": "excite"
+ },
+ {
+   "number": 748,
+   "hindi": "प्राकृतिक",
+   "english": "natural"
+ },
+ {
+   "number": 749,
+   "hindi": "देखें",
+   "english": "view"
+ },
+ {
+   "number": 750,
+   "hindi": "भावना",
+   "english": "sense"
+ },
+ {
+   "number": 751,
+   "hindi": "राजधानी",
+   "english": "capital"
+ },
+ {
+   "number": 752,
+   "hindi": "नहीं होगा",
+   "english": "won’t"
+ },
+ {
+   "number": 753,
+   "hindi": "कुर्सी",
+   "english": "chair"
+ },
+ {
+   "number": 754,
+   "hindi": "खतरे",
+   "english": "danger"
+ },
+ {
+   "number": 755,
+   "hindi": "फल",
+   "english": "fruit"
+ },
+ {
+   "number": 756,
+   "hindi": "अमीर",
+   "english": "rich"
+ },
+ {
+   "number": 757,
+   "hindi": "मोटी",
+   "english": "thick"
+ },
+ {
+   "number": 758,
+   "hindi": "सैनिक",
+   "english": "soldier"
+ },
+ {
+   "number": 759,
+   "hindi": "प्रक्रिया",
+   "english": "process"
+ },
+ {
+   "number": 760,
+   "hindi": "संचालित",
+   "english": "operate"
+ },
+ {
+   "number": 761,
+   "hindi": "अभ्यास",
+   "english": "practice"
+ },
+ {
+   "number": 762,
+   "hindi": "अलग",
+   "english": "separate"
+ },
+ {
+   "number": 763,
+   "hindi": "मुश्किल",
+   "english": "difficult"
+ },
+ {
+   "number": 764,
+   "hindi": "चिकित्सक",
+   "english": "doctor"
+ },
+ {
+   "number": 765,
+   "hindi": "कृपया",
+   "english": "please"
+ },
+ {
+   "number": 766,
+   "hindi": "रक्षा",
+   "english": "protect"
+ },
+ {
+   "number": 767,
+   "hindi": "दोपहर",
+   "english": "noon"
+ },
+ {
+   "number": 768,
+   "hindi": "फसल",
+   "english": "crop"
+ },
+ {
+   "number": 769,
+   "hindi": "आधुनिक",
+   "english": "modern"
+ },
+ {
+   "number": 770,
+   "hindi": "तत्व",
+   "english": "element"
+ },
+ {
+   "number": 771,
+   "hindi": "मारना",
+   "english": "hit"
+ },
+ {
+   "number": 772,
+   "hindi": "छात्र",
+   "english": "student"
+ },
+ {
+   "number": 773,
+   "hindi": "कोने",
+   "english": "corner"
+ },
+ {
+   "number": 774,
+   "hindi": "पार्टी",
+   "english": "party"
+ },
+ {
+   "number": 775,
+   "hindi": "आपूर्ति",
+   "english": "supply"
+ },
+ {
+   "number": 776,
+   "hindi": "जिसका",
+   "english": "whose"
+ },
+ {
+   "number": 777,
+   "hindi": "स्थिति जानें",
+   "english": "locate"
+ },
+ {
+   "number": 778,
+   "hindi": "अंगूठी",
+   "english": "ring"
+ },
+ {
+   "number": 779,
+   "hindi": "चरित्र",
+   "english": "character"
+ },
+ {
+   "number": 780,
+   "hindi": "कीट",
+   "english": "insect"
+ },
+ {
+   "number": 781,
+   "hindi": "पकड़ा",
+   "english": "caught"
+ },
+ {
+   "number": 782,
+   "hindi": "अवधि",
+   "english": "period"
+ },
+ {
+   "number": 783,
+   "hindi": "संकेत मिलता है",
+   "english": "indicate"
+ },
+ {
+   "number": 784,
+   "hindi": "रेडियो",
+   "english": "radio"
+ },
+ {
+   "number": 785,
+   "hindi": "बात",
+   "english": "spoke"
+ },
+ {
+   "number": 786,
+   "hindi": "एटम",
+   "english": "atom"
+ },
+ {
+   "number": 787,
+   "hindi": "मानव",
+   "english": "human"
+ },
+ {
+   "number": 788,
+   "hindi": "इतिहास",
+   "english": "history"
+ },
+ {
+   "number": 789,
+   "hindi": "प्रभाव",
+   "english": "effect"
+ },
+ {
+   "number": 790,
+   "hindi": "बिजली",
+   "english": "electric"
+ },
+ {
+   "number": 791,
+   "hindi": "उम्मीद",
+   "english": "expect"
+ },
+ {
+   "number": 792,
+   "hindi": "हड्डी",
+   "english": "bone"
+ },
+ {
+   "number": 793,
+   "hindi": "रेल",
+   "english": "rail"
+ },
+ {
+   "number": 794,
+   "hindi": "कल्पना",
+   "english": "imagine"
+ },
+ {
+   "number": 795,
+   "hindi": "प्रदान",
+   "english": "provide"
+ },
+ {
+   "number": 796,
+   "hindi": "सहमत",
+   "english": "agree"
+ },
+ {
+   "number": 797,
+   "hindi": "इस प्रकार",
+   "english": "thus"
+ },
+ {
+   "number": 798,
+   "hindi": "कोमल",
+   "english": "gentle"
+ },
+ {
+   "number": 799,
+   "hindi": "महिला",
+   "english": "woman"
+ },
+ {
+   "number": 800,
+   "hindi": "कप्तान",
+   "english": "captain"
+ },
+ {
+   "number": 801,
+   "hindi": "अनुमान",
+   "english": "guess"
+ },
+ {
+   "number": 802,
+   "hindi": "आवश्यक",
+   "english": "necessary"
+ },
+ {
+   "number": 803,
+   "hindi": "तेज़",
+   "english": "sharp"
+ },
+ {
+   "number": 804,
+   "hindi": "पंख",
+   "english": "wing"
+ },
+ {
+   "number": 805,
+   "hindi": "बना",
+   "english": "create"
+ },
+ {
+   "number": 806,
+   "hindi": "पड़ोसी",
+   "english": "neighbor"
+ },
+ {
+   "number": 807,
+   "hindi": "धोने",
+   "english": "wash"
+ },
+ {
+   "number": 808,
+   "hindi": "बल्ला",
+   "english": "bat"
+ },
+ {
+   "number": 809,
+   "hindi": "बल्कि",
+   "english": "rather"
+ },
+ {
+   "number": 810,
+   "hindi": "भीड़",
+   "english": "crowd"
+ },
+ {
+   "number": 811,
+   "hindi": "मकई",
+   "english": "corn"
+ },
+ {
+   "number": 812,
+   "hindi": "तुलना",
+   "english": "compare"
+ },
+ {
+   "number": 813,
+   "hindi": "कविता",
+   "english": "poem"
+ },
+ {
+   "number": 814,
+   "hindi": "स्ट्रिंग",
+   "english": "string"
+ },
+ {
+   "number": 815,
+   "hindi": "बेल",
+   "english": "bell"
+ },
+ {
+   "number": 816,
+   "hindi": "निर्भर",
+   "english": "depend"
+ },
+ {
+   "number": 817,
+   "hindi": "मांस",
+   "english": "meat"
+ },
+ {
+   "number": 818,
+   "hindi": "रगड़",
+   "english": "rub"
+ },
+ {
+   "number": 819,
+   "hindi": "ट्यूब",
+   "english": "tube"
+ },
+ {
+   "number": 820,
+   "hindi": "प्रसिद्ध",
+   "english": "famous"
+ },
+ {
+   "number": 921,
+   "hindi": "डॉलर",
+   "english": "dollar"
+ },
+ {
+   "number": 822,
+   "hindi": "धारा",
+   "english": "stream"
+ },
+ {
+   "number": 823,
+   "hindi": "डर",
+   "english": "fear"
+ },
+ {
+   "number": 284,
+   "hindi": "दृष्टि",
+   "english": "sight"
+ },
+ {
+   "number": 825,
+   "hindi": "पतली",
+   "english": "thin"
+ },
+ {
+   "number": 826,
+   "hindi": "त्रिकोण",
+   "english": "triangle"
+ },
+ {
+   "number": 827,
+   "hindi": "ग्रह",
+   "english": "planet"
+ },
+ {
+   "number": 828,
+   "hindi": "जल्दी करो",
+   "english": "hurry"
+ },
+ {
+   "number": 829,
+   "hindi": "प्रमुख",
+   "english": "chief"
+ },
+ {
+   "number": 830,
+   "hindi": "कॉलोनी",
+   "english": "colony"
+ },
+ {
+   "number": 831,
+   "hindi": "घड़ी",
+   "english": "clock"
+ },
+ {
+   "number": 832,
+   "hindi": "मेरा",
+   "english": "mine"
+ },
+ {
+   "number": 833,
+   "hindi": "टाई",
+   "english": "tie"
+ },
+ {
+   "number": 834,
+   "hindi": "दर्ज",
+   "english": "enter"
+ },
+ {
+   "number": 835,
+   "hindi": "प्रमुख",
+   "english": "major"
+ },
+ {
+   "number": 836,
+   "hindi": "ताजा",
+   "english": "fresh"
+ },
+ {
+   "number": 837,
+   "hindi": "खोज",
+   "english": "search"
+ },
+ {
+   "number": 838,
+   "hindi": "भेजें",
+   "english": "send"
+ },
+ {
+   "number": 839,
+   "hindi": "पीले",
+   "english": "yellow"
+ },
+ {
+   "number": 840,
+   "hindi": "बंदूक",
+   "english": "gun"
+ },
+ {
+   "number": 841,
+   "hindi": "की अनुमति",
+   "english": "allow"
+ },
+ {
+   "number": 842,
+   "hindi": "प्रिंट",
+   "english": "print"
+ },
+ {
+   "number": 843,
+   "hindi": "मृत",
+   "english": "dead"
+ },
+ {
+   "number": 844,
+   "hindi": "हाजिर",
+   "english": "spot"
+ },
+ {
+   "number": 845,
+   "hindi": "रेगिस्तान",
+   "english": "desert"
+ },
+ {
+   "number": 846,
+   "hindi": "सूट",
+   "english": "suit"
+ },
+ {
+   "number": 847,
+   "hindi": "वर्तमान",
+   "english": "current"
+ },
+ {
+   "number": 848,
+   "hindi": "लिफ्ट",
+   "english": "lift"
+ },
+ {
+   "number": 840,
+   "hindi": "गुलाब",
+   "english": "rose"
+ },
+ {
+   "number": 850,
+   "hindi": "पहुंचना",
+   "english": "arrive"
+ },
+ {
+   "number": 851,
+   "hindi": "मास्टर",
+   "english": "master"
+ },
+ {
+   "number": 852,
+   "hindi": "ट्रैक",
+   "english": "track"
+ },
+ {
+   "number": 853,
+   "hindi": "माता पिता",
+   "english": "parent"
+ },
+ {
+   "number": 854,
+   "hindi": "किनारे",
+   "english": "shore"
+ },
+ {
+   "number": 855,
+   "hindi": "विभाजन",
+   "english": "division"
+ },
+ {
+   "number": 856,
+   "hindi": "चादर",
+   "english": "sheet"
+ },
+ {
+   "number": 857,
+   "hindi": "पदार्थ",
+   "english": "substance"
+ },
+ {
+   "number": 858,
+   "hindi": "एहसान",
+   "english": "favor"
+ },
+ {
+   "number": 859,
+   "hindi": "कनेक्ट",
+   "english": "connect"
+ },
+ {
+   "number": 860,
+   "hindi": "पोस्ट",
+   "english": "post"
+ },
+ {
+   "number": 861,
+   "hindi": "खर्च",
+   "english": "spend"
+ },
+ {
+   "number": 862,
+   "hindi": "राग",
+   "english": "chord"
+ },
+ {
+   "number": 863,
+   "hindi": "वसा",
+   "english": "fat"
+ },
+ {
+   "number": 864,
+   "hindi": "प्रसन्न",
+   "english": "glad"
+ },
+ {
+   "number": 865,
+   "hindi": "मूल",
+   "english": "original"
+ },
+ {
+   "number": 866,
+   "hindi": "शेयर",
+   "english": "share"
+ },
+ {
+   "number": 867,
+   "hindi": "स्टेशन",
+   "english": "station"
+ },
+ {
+   "number": 868,
+   "hindi": "पिता",
+   "english": "dad"
+ },
+ {
+   "number": 869,
+   "hindi": "रोटी",
+   "english": "bread"
+ },
+ {
+   "number": 870,
+   "hindi": "चार्ज",
+   "english": "charge"
+ },
+ {
+   "number": 871,
+   "hindi": "उचित",
+   "english": "proper"
+ },
+ {
+   "number": 872,
+   "hindi": "बार",
+   "english": "bar"
+ },
+ {
+   "number": 873,
+   "hindi": "प्रस्ताव",
+   "english": "offer"
+ },
+ {
+   "number": 874,
+   "hindi": "खंड",
+   "english": "segment"
+ },
+ {
+   "number": 875,
+   "hindi": "गुलाम",
+   "english": "slave"
+ },
+ {
+   "number": 876,
+   "hindi": "बतख",
+   "english": "duck"
+ },
+ {
+   "number": 877,
+   "hindi": "पल",
+   "english": "instant"
+ },
+ {
+   "number": 878,
+   "hindi": "बाजार",
+   "english": "market"
+ },
+ {
+   "number": 879,
+   "hindi": "डिग्री",
+   "english": "degree"
+ },
+ {
+   "number": 880,
+   "hindi": "आबाद",
+   "english": "populate"
+ },
+ {
+   "number": 881,
+   "hindi": "लड़की",
+   "english": "chick"
+ },
+ {
+   "number": 882,
+   "hindi": "प्रिय",
+   "english": "dear"
+ },
+ {
+   "number": 883,
+   "hindi": "दुश्मन",
+   "english": "enemy"
+ },
+ {
+   "number": 884,
+   "hindi": "उत्तर",
+   "english": "reply"
+ },
+ {
+   "number": 885,
+   "hindi": "पेय",
+   "english": "drink"
+ },
+ {
+   "number": 886,
+   "hindi": "घटित",
+   "english": "occur"
+ },
+ {
+   "number": 887,
+   "hindi": "समर्थन",
+   "english": "support"
+ },
+ {
+   "number": 888,
+   "hindi": "भाषण",
+   "english": "speech"
+ },
+ {
+   "number": 889,
+   "hindi": "प्रकृति",
+   "english": "nature"
+ },
+ {
+   "number": 890,
+   "hindi": "सीमा",
+   "english": "range"
+ },
+ {
+   "number": 891,
+   "hindi": "भाप",
+   "english": "steam"
+ },
+ {
+   "number": 892,
+   "hindi": "प्रस्ताव",
+   "english": "motion"
+ },
+ {
+   "number": 893,
+   "hindi": "पथ",
+   "english": "path"
+ },
+ {
+   "number": 894,
+   "hindi": "तरल",
+   "english": "liquid"
+ },
+ {
+   "number": 895,
+   "hindi": "लॉग इन करें",
+   "english": "log"
+ },
+ {
+   "number": 896,
+   "hindi": "मतलब",
+   "english": "meant"
+ },
+ {
+   "number": 897,
+   "hindi": "भागफल",
+   "english": "quotient"
+ },
+ {
+   "number": 898,
+   "hindi": "दांत",
+   "english": "teeth"
+ },
+ {
+   "number": 899,
+   "hindi": "खोल",
+   "english": "shell"
+ },
+ {
+   "number": 900,
+   "hindi": "गर्दन",
+   "english": "neck"
+ },
+ {
+   "number": 901,
+   "hindi": "ऑक्सीजन",
+   "english": "oxygen"
+ },
+ {
+   "number": 902,
+   "hindi": "चीनी",
+   "english": "sugar"
+ },
+ {
+   "number": 903,
+   "hindi": "मौत",
+   "english": "death"
+ },
+ {
+   "number": 904,
+   "hindi": "सुंदर",
+   "english": "pretty"
+ },
+ {
+   "number": 905,
+   "hindi": "कौशल",
+   "english": "skill"
+ },
+ {
+   "number": 906,
+   "hindi": "महिलाओं",
+   "english": "women"
+ },
+ {
+   "number": 907,
+   "hindi": "मौसम",
+   "english": "season"
+ },
+ {
+   "number": 908,
+   "hindi": "समाधान",
+   "english": "solution"
+ },
+ {
+   "number": 909,
+   "hindi": "चुंबक",
+   "english": "magnet"
+ },
+ {
+   "number": 910,
+   "hindi": "चांदी",
+   "english": "silver"
+ },
+ {
+   "number": 911,
+   "hindi": "धन्यवाद",
+   "english": "thank"
+ },
+ {
+   "number": 912,
+   "hindi": "शाखा",
+   "english": "branch"
+ },
+ {
+   "number": 913,
+   "hindi": "मैच",
+   "english": "match"
+ },
+ {
+   "number": 914,
+   "hindi": "प्रत्यय",
+   "english": "suffix"
+ },
+ {
+   "number": 915,
+   "hindi": "विशेष रूप से",
+   "english": "especially"
+ },
+ {
+   "number": 916,
+   "hindi": "अंजीर",
+   "english": "fig"
+ },
+ {
+   "number": 917,
+   "hindi": "डर",
+   "english": "afraid"
+ },
+ {
+   "number": 918,
+   "hindi": "भारी",
+   "english": "huge"
+ },
+ {
+   "number": 919,
+   "hindi": "बहन",
+   "english": "sister"
+ },
+ {
+   "number": 920,
+   "hindi": "स्टील",
+   "english": "steel"
+ },
+ {
+   "number": 921,
+   "hindi": "चर्चा",
+   "english": "discuss"
+ },
+ {
+   "number": 922,
+   "hindi": "आगे",
+   "english": "forward"
+ },
+ {
+   "number": 923,
+   "hindi": "इसी तरह",
+   "english": "similar"
+ },
+ {
+   "number": 924,
+   "hindi": "गाइड",
+   "english": "guide"
+ },
+ {
+   "number": 925,
+   "hindi": "अनुभव",
+   "english": "experience"
+ },
+ {
+   "number": 926,
+   "hindi": "स्कोर",
+   "english": "score"
+ },
+ {
+   "number": 927,
+   "hindi": "सेब",
+   "english": "apple"
+ },
+ {
+   "number": 928,
+   "hindi": "खरीदा",
+   "english": "bought"
+ },
+ {
+   "number": 929,
+   "hindi": "नेतृत्व",
+   "english": "led"
+ },
+ {
+   "number": 930,
+   "hindi": "पिच",
+   "english": "pitch"
+ },
+ {
+   "number": 931,
+   "hindi": "कोट",
+   "english": "coat"
+ },
+ {
+   "number": 932,
+   "hindi": "सामूहिक",
+   "english": "mass"
+ },
+ {
+   "number": 933,
+   "hindi": "कार्ड",
+   "english": "card"
+ },
+ {
+   "number": 934,
+   "hindi": "बैंड",
+   "english": "band"
+ },
+ {
+   "number": 935,
+   "hindi": "रस्सी",
+   "english": "rope"
+ },
+ {
+   "number": 936,
+   "hindi": "पर्ची",
+   "english": "slip"
+ },
+ {
+   "number": 937,
+   "hindi": "जीत",
+   "english": "win"
+ },
+ {
+   "number": 938,
+   "hindi": "सपना",
+   "english": "dream"
+ },
+ {
+   "number": 939,
+   "hindi": "शाम",
+   "english": "evening"
+ },
+ {
+   "number": 940,
+   "hindi": "शर्त",
+   "english": "condition"
+ },
+ {
+   "number": 941,
+   "hindi": "फ़ीड",
+   "english": "feed"
+ },
+ {
+   "number": 942,
+   "hindi": "उपकरण",
+   "english": "tool"
+ },
+ {
+   "number": 943,
+   "hindi": "संपूर्ण",
+   "english": "total"
+ },
+ {
+   "number": 944,
+   "hindi": "बुनियादी",
+   "english": "basic"
+ },
+ {
+   "number": 945,
+   "hindi": "गंध",
+   "english": "smell"
+ },
+ {
+   "number": 946,
+   "hindi": "घाटी",
+   "english": "valley"
+ },
+ {
+   "number": 947,
+   "hindi": "और न ही",
+   "english": "nor"
+ },
+ {
+   "number": 948,
+   "hindi": "डबल",
+   "english": "double"
+ },
+ {
+   "number": 949,
+   "hindi": "सीट",
+   "english": "seat"
+ },
+ {
+   "number": 950,
+   "hindi": "जारी रखने के",
+   "english": "continue"
+ },
+ {
+   "number": 951,
+   "hindi": "खंड",
+   "english": "block"
+ },
+ {
+   "number": 952,
+   "hindi": "चार्ट",
+   "english": "chart"
+ },
+ {
+   "number": 953,
+   "hindi": "टोपी",
+   "english": "hat"
+ },
+ {
+   "number": 954,
+   "hindi": "बेचने",
+   "english": "sell"
+ },
+ {
+   "number": 955,
+   "hindi": "सफलता",
+   "english": "success"
+ },
+ {
+   "number": 956,
+   "hindi": "कंपनी",
+   "english": "company"
+ },
+ {
+   "number": 957,
+   "hindi": "घटाना",
+   "english": "subtract"
+ },
+ {
+   "number": 958,
+   "hindi": "घटना",
+   "english": "event"
+ },
+ {
+   "number": 959,
+   "hindi": "विशेष",
+   "english": "particular"
+ },
+ {
+   "number": 960,
+   "hindi": "सौदा",
+   "english": "deal"
+ },
+ {
+   "number": 961,
+   "hindi": "तैरना",
+   "english": "swim"
+ },
+ {
+   "number": 962,
+   "hindi": "अवधि",
+   "english": "term"
+ },
+ {
+   "number": 963,
+   "hindi": "विपरीत",
+   "english": "opposite"
+ },
+ {
+   "number": 964,
+   "hindi": "पत्नी",
+   "english": "wife"
+ },
+ {
+   "number": 965,
+   "hindi": "जूता",
+   "english": "shoe"
+ },
+ {
+   "number": 966,
+   "hindi": "कंधे",
+   "english": "shoulder"
+ },
+ {
+   "number": 967,
+   "hindi": "प्रसार",
+   "english": "spread"
+ },
+ {
+   "number": 968,
+   "hindi": "व्यवस्था",
+   "english": "arrange"
+ },
+ {
+   "number": 969,
+   "hindi": "शिविर",
+   "english": "camp"
+ },
+ {
+   "number": 970,
+   "hindi": "आविष्कार",
+   "english": "invent"
+ },
+ {
+   "number": 971,
+   "hindi": "कपास",
+   "english": "cotton"
+ },
+ {
+   "number": 972,
+   "hindi": "Born",
+   "english": "born"
+ },
+ {
+   "number": 973,
+   "hindi": "निर्धारित",
+   "english": "determine"
+ },
+ {
+   "number": 974,
+   "hindi": "चौथाई गेलन",
+   "english": "quart"
+ },
+ {
+   "number": 975,
+   "hindi": "नौ",
+   "english": "nine"
+ },
+ {
+   "number": 976,
+   "hindi": "ट्रक",
+   "english": "truck"
+ },
+ {
+   "number": 977,
+   "hindi": "शोर",
+   "english": "noise"
+ },
+ {
+   "number": 978,
+   "hindi": "स्तर",
+   "english": "level"
+ },
+ {
+   "number": 979,
+   "hindi": "संयोग",
+   "english": "chance"
+ },
+ {
+   "number": 980,
+   "hindi": "इकट्ठा",
+   "english": "gather"
+ },
+ {
+   "number": 981,
+   "hindi": "दुकान",
+   "english": "shop"
+ },
+ {
+   "number": 982,
+   "hindi": "खिंचाव",
+   "english": "stretch"
+ },
+ {
+   "number": 983,
+   "hindi": "फेंक",
+   "english": "throw"
+ },
+ {
+   "number": 984,
+   "hindi": "चमक",
+   "english": "shine"
+ },
+ {
+   "number": 985,
+   "hindi": "संपत्ति",
+   "english": "property"
+ },
+ {
+   "number": 986,
+   "hindi": "स्तंभ",
+   "english": "column"
+ },
+ {
+   "number": 987,
+   "hindi": "अणु",
+   "english": "molecule"
+ },
+ {
+   "number": 988,
+   "hindi": "चयन",
+   "english": "select"
+ },
+ {
+   "number": 989,
+   "hindi": "गलत",
+   "english": "wrong"
+ },
+ {
+   "number": 990,
+   "hindi": "ग्रे",
+   "english": "gray"
+ },
+ {
+   "number": 991,
+   "hindi": "दोहराना",
+   "english": "repeat"
+ },
+ {
+   "number": 992,
+   "hindi": "आवश्यकता",
+   "english": "require"
+ },
+ {
+   "number": 993,
+   "hindi": "विस्तृत",
+   "english": "broad"
+ },
+ {
+   "number": 994,
+   "hindi": "तैयार",
+   "english": "prepare"
+ },
+ {
+   "number": 995,
+   "hindi": "नमक",
+   "english": "salt"
+ },
+ {
+   "number": 996,
+   "hindi": "नाक",
+   "english": "nose"
+ },
+ {
+   "number": 997,
+   "hindi": "बहुवचन",
+   "english": "plural"
+ },
+ {
+   "number": 998,
+   "hindi": "क्रोध",
+   "english": "anger"
+ },
+ {
+   "number": 999,
+   "hindi": "दावा",
+   "english": "claim"
+ },
+ {
+   "number": 1000,
+   "hindi": "महाद्वीप",
+   "english": "continent"
+ }
+]
