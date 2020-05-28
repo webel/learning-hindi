@@ -1,0 +1,602 @@
+[
+ {
+   "#": 1,
+   "Word": "में",
+   "Transliteration (IAST)": "meṃ",
+   "English equivalent": "in, into"
+ },
+ {
+   "#": 2,
+   "Word": "है",
+   "Transliteration (IAST)": "hai",
+   "English equivalent": "is"
+ },
+ {
+   "#": 3,
+   "Word": "हैं",
+   "Transliteration (IAST)": "haiṃ",
+   "English equivalent": "are"
+ },
+ {
+   "#": 4,
+   "Word": "नहीं",
+   "Transliteration (IAST)": "nahīṃ",
+   "English equivalent": "no; not"
+ },
+ {
+   "#": 5,
+   "Word": "लिए",
+   "Transliteration (IAST)": "lie",
+   "English equivalent": "holding; taking with one"
+ },
+ {
+   "#": 6,
+   "Word": "गया",
+   "Transliteration (IAST)": "gayā",
+   "English equivalent": "gone; past"
+ },
+ {
+   "#": 7,
+   "Word": "तथा",
+   "Transliteration (IAST)": "tathā",
+   "English equivalent": "1. conj. and. 2. adv. in the same way as"
+ },
+ {
+   "#": 8,
+   "Word": "अपने",
+   "Transliteration (IAST)": "apne",
+   "English equivalent": "ours"
+ },
+ {
+   "#": 9,
+   "Word": "कुछ",
+   "Transliteration (IAST)": "kuch",
+   "English equivalent": "something"
+ },
+ {
+   "#": 10,
+   "Word": "साथ",
+   "Transliteration (IAST)": "sāth",
+   "English equivalent": "1. n. company; something accompanying. 2. adv.  with; along; in the company of"
+ },
+ {
+   "#": 11,
+   "Word": "होता",
+   "Transliteration (IAST)": "hotā",
+   "English equivalent": "happening"
+ },
+ {
+   "#": 12,
+   "Word": "था",
+   "Transliteration (IAST)": "thā",
+   "English equivalent": "was"
+ },
+ {
+   "#": 13,
+   "Word": "दिया",
+   "Transliteration (IAST)": "diyā",
+   "English equivalent": "given"
+ },
+ {
+   "#": 14,
+   "Word": "हुए",
+   "Transliteration (IAST)": "hue",
+   "English equivalent": "becoming"
+ },
+ {
+   "#": 15,
+   "Word": "कोई",
+   "Transliteration (IAST)": "koī",
+   "English equivalent": "becoming"
+ },
+ {
+   "#": 16,
+   "Word": "रूप",
+   "Transliteration (IAST)": "rūp",
+   "English equivalent": "form; shape; appearance; aspect"
+ },
+ {
+   "#": 17,
+   "Word": "से",
+   "Transliteration (IAST)": "se",
+   "English equivalent": "by means of; by; with"
+ },
+ {
+   "#": 18,
+   "Word": "मैं",
+   "Transliteration (IAST)": "maiṃ",
+   "English equivalent": "I"
+ },
+ {
+   "#": 19,
+   "Word": "रहा",
+   "Transliteration (IAST)": "rahā",
+   "English equivalent": "(auxiliary verb)"
+ },
+ {
+   "#": 20,
+   "Word": "हुआ",
+   "Transliteration (IAST)": "huā",
+   "English equivalent": "became; came about; was"
+ },
+ {
+   "#": 21,
+   "Word": "बात",
+   "Transliteration (IAST)": "bāt",
+   "English equivalent": "something said, a word, remark; speech, talk, words; conversation; discussion"
+ },
+ {
+   "#": 22,
+   "Word": "कहा",
+   "Transliteration (IAST)": "kahā",
+   "English equivalent": "something said; a remark; remarks"
+ },
+ {
+   "#": 23,
+   "Word": "समय",
+   "Transliteration (IAST)": "samay",
+   "English equivalent": "time"
+ },
+ {
+   "#": 24,
+   "Word": "क्या",
+   "Transliteration (IAST)": "kyā",
+   "English equivalent": "what"
+ },
+ {
+   "#": 25,
+   "Word": "अपनी",
+   "Transliteration (IAST)": "apnī",
+   "English equivalent": "her own; hers"
+ },
+ {
+   "#": 26,
+   "Word": "होती",
+   "Transliteration (IAST)": "hotī",
+   "English equivalent": "happening"
+ },
+ {
+   "#": 27,
+   "Word": "प्रकार",
+   "Transliteration (IAST)": "prakār",
+   "English equivalent": "kind; sort; type"
+ },
+ {
+   "#": 28,
+   "Word": "बहुत",
+   "Transliteration (IAST)": "bahut",
+   "English equivalent": "many; much"
+ },
+ {
+   "#": 29,
+   "Word": "तरह",
+   "Transliteration (IAST)": "tarah",
+   "English equivalent": "kind; type"
+ },
+ {
+   "#": 30,
+   "Word": "बाद",
+   "Transliteration (IAST)": "bād",
+   "English equivalent": "speech; discussion, dispute; argument"
+ },
+ {
+   "#": 31,
+   "Word": "फिर",
+   "Transliteration (IAST)": "phir",
+   "English equivalent": "1. anew, again. 2. thereafter, afterwards; next; then. 3.  furthermore; but."
+ },
+ {
+   "#": 32,
+   "Word": "रहे",
+   "Transliteration (IAST)": "rahe",
+   "English equivalent": "masculine plural form of continuous aspect auxiliary verb"
+ },
+ {
+   "#": 33,
+   "Word": "द्वारा",
+   "Transliteration (IAST)": "dvārā",
+   "English equivalent": "by means"
+ },
+ {
+   "#": 34,
+   "Word": "अधिक",
+   "Transliteration (IAST)": "adhik",
+   "English equivalent": "increased, exceeding; more"
+ },
+ {
+   "#": 35,
+   "Word": "रही",
+   "Transliteration (IAST)": "rahī",
+   "English equivalent": "(auxiliary verb)"
+ },
+ {
+   "#": 36,
+   "Word": "होने",
+   "Transliteration (IAST)": "hone",
+   "English equivalent": "be"
+ },
+ {
+   "#": 37,
+   "Word": "एवं",
+   "Transliteration (IAST)": "evaṃ",
+   "English equivalent": "1. thus, so. 2. and."
+ },
+ {
+   "#": 38,
+   "Word": "हुई",
+   "Transliteration (IAST)": "huī",
+   "English equivalent": "becoming"
+ },
+ {
+   "#": 39,
+   "Word": "थे",
+   "Transliteration (IAST)": "the",
+   "English equivalent": "were"
+ },
+ {
+   "#": 40,
+   "Word": "उनके",
+   "Transliteration (IAST)": "unke",
+   "English equivalent": "his"
+ },
+ {
+   "#": 41,
+   "Word": "थी",
+   "Transliteration (IAST)": "thī",
+   "English equivalent": "was"
+ },
+ {
+   "#": 42,
+   "Word": "वाले",
+   "Transliteration (IAST)": "vāle",
+   "English equivalent": "used to denote a relationship to the noun, verb, or adjective preceding the postposition"
+ },
+ {
+   "#": 43,
+   "Word": "चाहिए",
+   "Transliteration (IAST)": "cāhie",
+   "English equivalent": "is wanted (चाहिए को, is wanted by); is needful (to or for); should ought"
+ },
+ {
+   "#": 44,
+   "Word": "दिन",
+   "Transliteration (IAST)": "din",
+   "English equivalent": "day"
+ },
+ {
+   "#": 45,
+   "Word": "लेकिन",
+   "Transliteration (IAST)": "lekin",
+   "English equivalent": "but; however"
+ },
+ {
+   "#": 46,
+   "Word": "काम",
+   "Transliteration (IAST)": "kām",
+   "English equivalent": "action; act; work; task"
+ },
+ {
+   "#": 47,
+   "Word": "हूँ",
+   "Transliteration (IAST)": "hūṃ",
+   "English equivalent": "am"
+ },
+ {
+   "#": 48,
+   "Word": "होते",
+   "Transliteration (IAST)": "hote",
+   "English equivalent": "are"
+ },
+ {
+   "#": 49,
+   "Word": "इसके",
+   "Transliteration (IAST)": "iske",
+   "English equivalent": "of this; for this"
+ },
+ {
+   "#": 50,
+   "Word": "उन्हें",
+   "Transliteration (IAST)": "unheṃ",
+   "English equivalent": "to them (dative case)"
+ },
+ {
+   "#": 51,
+   "Word": "गये",
+   "Transliteration (IAST)": "gaye",
+   "English equivalent": "plural perfective aspect of जाना"
+ },
+ {
+   "#": 52,
+   "Word": "कभी",
+   "Transliteration (IAST)": "kabhī",
+   "English equivalent": "sometimes; at any time"
+ },
+ {
+   "#": 53,
+   "Word": "आदि",
+   "Transliteration (IAST)": "ādi",
+   "English equivalent": "et cetera"
+ },
+ {
+   "#": 54,
+   "Word": "लोग",
+   "Transliteration (IAST)": "log",
+   "English equivalent": "people, folk"
+ },
+ {
+   "#": 55,
+   "Word": "बार",
+   "Transliteration (IAST)": "bār",
+   "English equivalent": "1. times, occasion. 2. gate, door; doorway."
+ },
+ {
+   "#": 56,
+   "Word": "यहाँ",
+   "Transliteration (IAST)": "yahāṃ",
+   "English equivalent": "1. here. 2. at"
+ },
+ {
+   "#": 57,
+   "Word": "दोनों",
+   "Transliteration (IAST)": "donoṃ",
+   "English equivalent": "the two; both"
+ },
+ {
+   "#": 58,
+   "Word": "उन्होंने",
+   "Transliteration (IAST)": "unhoṃne",
+   "English equivalent": "oblique case of they"
+ },
+ {
+   "#": 59,
+   "Word": "कार्य",
+   "Transliteration (IAST)": "kārya",
+   "English equivalent": "1. action, act; activity. 2. work, task duty."
+ },
+ {
+   "#": 60,
+   "Word": "पास",
+   "Transliteration (IAST)": "pās",
+   "English equivalent": "nearby"
+ },
+ {
+   "#": 61,
+   "Word": "वहाँ",
+   "Transliteration (IAST)": "vahāṃ",
+   "English equivalent": "there"
+ },
+ {
+   "#": 62,
+   "Word": "भारत",
+   "Transliteration (IAST)": "bhārat",
+   "English equivalent": "India"
+ },
+ {
+   "#": 63,
+   "Word": "लिया",
+   "Transliteration (IAST)": "liyā",
+   "English equivalent": "taken"
+ },
+ {
+   "#": 64,
+   "Word": "प्राप्त",
+   "Transliteration (IAST)": "prāpt",
+   "English equivalent": "1. obtained; acquired; incurred. 2. come upon, found."
+ },
+ {
+   "#": 65,
+   "Word": "उनकी",
+   "Transliteration (IAST)": "unkī",
+   "English equivalent": "theirs; his (formal)"
+ },
+ {
+   "#": 66,
+   "Word": "लोगों",
+   "Transliteration (IAST)": "logoṃ",
+   "English equivalent": "people (plural)"
+ },
+ {
+   "#": 67,
+   "Word": "गयी",
+   "Transliteration (IAST)": "gayī",
+   "English equivalent": "went"
+ },
+ {
+   "#": 68,
+   "Word": "लगा",
+   "Transliteration (IAST)": "lagā",
+   "English equivalent": "seemed"
+ },
+ {
+   "#": 69,
+   "Word": "अन्य",
+   "Transliteration (IAST)": "anya",
+   "English equivalent": "other; different"
+ },
+ {
+   "#": 70,
+   "Word": "होगा",
+   "Transliteration (IAST)": "hogā",
+   "English equivalent": "will be"
+ },
+ {
+   "#": 71,
+   "Word": "इसी",
+   "Transliteration (IAST)": "isī",
+   "English equivalent": "this (emphatic)"
+ },
+ {
+   "#": 72,
+   "Word": "देश",
+   "Transliteration (IAST)": "deś",
+   "English equivalent": "1. place, region. 2. country; nation"
+ },
+ {
+   "#": 73,
+   "Word": "यदि",
+   "Transliteration (IAST)": "yadi",
+   "English equivalent": "if; whether"
+ },
+ {
+   "#": 74,
+   "Word": "सभी",
+   "Transliteration (IAST)": "sabhī",
+   "English equivalent": "every single one; absolutely all"
+ },
+ {
+   "#": 75,
+   "Word": "नाम",
+   "Transliteration (IAST)": "nām",
+   "English equivalent": "name, title"
+ },
+ {
+   "#": 76,
+   "Word": "वर्ष",
+   "Transliteration (IAST)": "varṣ",
+   "English equivalent": "a year"
+ },
+ {
+   "#": 77,
+   "Word": "ऐसा",
+   "Transliteration (IAST)": "aisā",
+   "English equivalent": "of this sort"
+ },
+ {
+   "#": 78,
+   "Word": "विकास",
+   "Transliteration (IAST)": "vikās",
+   "English equivalent": "opening, expanding"
+ },
+ {
+   "#": 79,
+   "Word": "अपना",
+   "Transliteration (IAST)": "apnā",
+   "English equivalent": "one's, one's own"
+ },
+ {
+   "#": 80,
+   "Word": "ऐसे",
+   "Transliteration (IAST)": "aise",
+   "English equivalent": "of this sort"
+ },
+ {
+   "#": 81,
+   "Word": "दूसरे",
+   "Transliteration (IAST)": "dūsare",
+   "English equivalent": "another; secondly"
+ },
+ {
+   "#": 82,
+   "Word": "हाथ",
+   "Transliteration (IAST)": "hāth",
+   "English equivalent": "hand"
+ },
+ {
+   "#": 83,
+   "Word": "भाषा",
+   "Transliteration (IAST)": "bhāṣā",
+   "English equivalent": "language; speech"
+ },
+ {
+   "#": 84,
+   "Word": "मेरे",
+   "Transliteration (IAST)": "mere",
+   "English equivalent": "my"
+ },
+ {
+   "#": 85,
+   "Word": "मैंने",
+   "Transliteration (IAST)": "maiṃne",
+   "English equivalent": "I"
+ },
+ {
+   "#": 86,
+   "Word": "तुम",
+   "Transliteration (IAST)": "tum",
+   "English equivalent": "you (informal)"
+ },
+ {
+   "#": 87,
+   "Word": "बीच",
+   "Transliteration (IAST)": "bīc",
+   "English equivalent": "middle"
+ },
+ {
+   "#": 88,
+   "Word": "वाली",
+   "Transliteration (IAST)": "vālī",
+   "English equivalent": "1. (added to noun) a person employed in the preceding noun. 2. (added to adjective) adds emphasis to preceding adjective. 3. (added to noun, adjective, or noun phrase) gives adjectival properties to preceding word. 4. (added to verb) gives agentive meaning to preceding verb. Feminine form of वाला."
+ },
+ {
+   "#": 89,
+   "Word": "बड़े",
+   "Transliteration (IAST)": "baɽe",
+   "English equivalent": "big; large; great; elder"
+ },
+ {
+   "#": 90,
+   "Word": "प्रति",
+   "Transliteration (IAST)": "prati",
+   "English equivalent": "1. (f. noun) copy of an original. 2. (f. noun) section, group (of a larger whole). 3. (prefix) again, back again, re-. 4. (preposition) towards, against, anti-. 5. (preposition) each, every; per. 6. (preposition) similar to."
+ },
+ {
+   "#": 91,
+   "Word": "व्यक्ति",
+   "Transliteration (IAST)": "vyakti",
+   "English equivalent": "a person; a particular person"
+ },
+ {
+   "#": 92,
+   "Word": "उनका",
+   "Transliteration (IAST)": "unkā",
+   "English equivalent": "theirs; his (formal)"
+ },
+ {
+   "#": 93,
+   "Word": "लिये",
+   "Transliteration (IAST)": "liye",
+   "English equivalent": "took; received; accepted"
+ },
+ {
+   "#": 94,
+   "Word": "इसलिए",
+   "Transliteration (IAST)": "islie",
+   "English equivalent": "so; therefore"
+ },
+ {
+   "#": 95,
+   "Word": "तीन",
+   "Transliteration (IAST)": "tīn",
+   "English equivalent": "three"
+ },
+ {
+   "#": 96,
+   "Word": "इसका",
+   "Transliteration (IAST)": "iskā",
+   "English equivalent": "his (informal)"
+ },
+ {
+   "#": 97,
+   "Word": "ऐसी",
+   "Transliteration (IAST)": "aisī",
+   "English equivalent": "of this sort"
+ },
+ {
+   "#": 98,
+   "Word": "विशेष",
+   "Transliteration (IAST)": "viśheṣ",
+   "English equivalent": "1. particular, special, distinctive. 2. excellent."
+ },
+ {
+   "#": 99,
+   "Word": "बड़ी",
+   "Transliteration (IAST)": "baṛī",
+   "English equivalent": "big, large; great"
+ },
+ {
+   "#": 100,
+   "Word": "अथवा",
+   "Transliteration (IAST)": "athvā",
+   "English equivalent": "or"
+ }
+]
