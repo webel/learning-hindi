@@ -1,12 +1,6 @@
 /** @jsx jsx */
 import { Card, Text, jsx } from "theme-ui"
 
-function speak(utterance) {
-  utterance.rate = 0.5
-  utterance.lang = "hi"
-  speechSynthesis.speak(utterance)
-}
-
 function speakThisHindi(text) {
   const utterance = new SpeechSynthesisUtterance(text)
   utterance.rate = 0.5
@@ -21,27 +15,30 @@ function speakThisEnglish(text) {
   speechSynthesis.speak(utterance)
 }
 
-const ClickableArea = ({ onClick }) => (
-  <div onClick={onClick} sx={{ height: "50%", width: "100% " }} />
+const ClickableArea = ({ onClick, tabIndex }) => (
+  <div
+    onClick={onClick}
+    onKeyDown={onClick}
+    role="button"
+    tabIndex={tabIndex}
+    sx={{ height: "50%", width: "100% " }}
+  />
 )
 
-export const WordFlashCard = ({ hindi, english, iast = false }) => (
-         <Card
-           css={{ width: [200, 180, 150], height: [200, 180, 150] }}
-           variant="flashCard"
-         >
-           <ClickableArea onClick={() => speakThisHindi(hindi)} />
-           <ClickableArea onClick={() => speakThisEnglish(english)} />
-           <Text css={{ position: "absolute" }} variant="flashCard">
-             {hindi}
-           </Text>
-         </Card>
-       )
-
-const Flashcard = ({ letter, word }) => (
+export const WordFlashCard = ({ hindi, english, iast = false, key }) => (
   <Card variant="flashCard">
-    <ClickableArea onClick={() => speakThisHindi(letter)} />
-    <ClickableArea onClick={() => speakThisHindi(word)} />
+    <ClickableArea tabIndex={key} onClick={() => speakThisHindi(hindi)} />
+    <ClickableArea tabIndex={key} onClick={() => speakThisEnglish(english)} />
+    <Text css={{ position: "absolute" }} variant="flashCard">
+      {hindi}
+    </Text>
+  </Card>
+)
+
+const Flashcard = ({ letter, word, key }) => (
+  <Card variant="flashCard">
+    <ClickableArea tabIndex={key} onClick={() => speakThisHindi(letter)} />
+    <ClickableArea tabIndex={key} onClick={() => speakThisHindi(word)} />
     <Text css={{ position: "absolute" }} variant="flashCard">
       {letter}
     </Text>
