@@ -1,25 +1,42 @@
 import React, { useState } from "react"
 
 /** @jsx jsx */
-import { jsx } from "theme-ui"
-import Flashcard, { WordFlashCard } from "../components/flashcard"
+import { Button, Checkbox, Label, jsx } from "theme-ui"
+import { WordFlashCard } from "../components/flashcard"
 import Layout from "../components/layout"
 
 import commonWords from "../data/100mostCommonWords.json"
 
 const first_twenty = commonWords.slice(0, 20)
 
-const Display = ({ word }) => <WordFlashCard {...word} showDetails />
+function randomIndex(maxIndex) {
+	return Math.floor(Math.random() * maxIndex)
+}
 
 const Learn = () => {
-  const next_index = Math.floor(Math.random() * 20)
-  const [word, setWord] = useState(first_twenty[next_index])
+	const initial_index = randomIndex(20)
+	const [word, setWord] = useState(first_twenty[initial_index])
 
-  return (
-    <Layout flexDirection="column">
-      <Display word={word} />
-    </Layout>
-  )
+	const getNextWord = () => {
+		const index = randomIndex(20)
+		setWord(first_twenty[index])
+	}
+
+	return (
+		<Layout flexDirection="column">
+			<WordFlashCard {...word} showDetails />
+			<Button
+				sx={{ backgroundColor: "highlight", fontSize: "small" }}
+				onClick={getNextWord}
+			>
+				Next
+			</Button>
+			{/* <Label>
+                <Checkbox css={{ width: "fitContent", alignSelf: "flexEnd" }} />{" "}
+                <span>20 Most Common</span>
+            </Label> */}
+		</Layout>
+	)
 }
 
 export default Learn
