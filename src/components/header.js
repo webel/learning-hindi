@@ -4,7 +4,7 @@ import React from "react"
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 
-const NavItemStyle = { color: "gray", textDecoration: "none", mx: [10, 20, 40] }
+const NavItemStyle = { color: "gray", textDecoration: "none", ml: [15, 40, 80] }
 
 const Header = ({ siteTitle }) => (
 	<header
