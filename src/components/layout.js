@@ -12,7 +12,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import { jsx } from "theme-ui"
 import Header from "./header"
 
-const Layout = ({ children }) => {
+const Layout = ({ children, flexDirection = 'row' }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -37,13 +37,15 @@ const Layout = ({ children }) => {
           sx={{
             display: "flex",
             flexWrap: "wrap",
+            flexDirection: flexDirection,
+            alignItems: "center",
             justifyContent: "center",
             mb: [5],
           }}
         >
           {children}
         </main>
-        <footer>
+        <footer sx={{ position: 'absolute', bottom: 0 }}>
           © {new Date().getFullYear()}, Built by
           {` `}
           <a sx={{ color: "primary" }} href="https://www.stenqvist.co">

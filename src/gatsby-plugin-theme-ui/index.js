@@ -151,6 +151,10 @@ export default {
       fontSize: 8,
       zIndex: -999,
     },
+    caps: {
+      textTransform: 'uppercase',
+      letterSpacing: '0.1em',
+    }
   },
   prism: {
     ".comment,.prolog,.doctype,.cdata,.punctuation,.operator,.entity,.url": {

@@ -1,5 +1,6 @@
+import React, { useState } from "react"
 /** @jsx jsx */
-import { Card, Text, jsx } from "theme-ui"
+import { Card, Container, Text, jsx } from "theme-ui"
 
 function speakThisHindi(text) {
   const utterance = new SpeechSynthesisUtterance(text)
@@ -25,15 +26,38 @@ const ClickableArea = ({ onClick, tabIndex }) => (
   />
 )
 
-export const WordFlashCard = ({ hindi, english, iast = false, key }) => (
-  <Card variant="flashCard">
-    <ClickableArea tabIndex={key} onClick={() => speakThisHindi(hindi)} />
-    <ClickableArea tabIndex={key} onClick={() => speakThisEnglish(english)} />
-    <Text css={{ position: "absolute" }} variant="flashCard">
-      {hindi}
-    </Text>
-  </Card>
-)
+export const WordFlashCard = ({
+  hindi,
+  english,
+  iast = false,
+  key,
+  showDetails = false,
+}) => {
+  const [showMore, setShowMore] = useState(false)
+
+  const onBottomClick = () => {
+    speakThisEnglish(english)
+    if (showDetails) {
+      setShowMore(true)
+    }
+  }
+
+  return (
+    <>
+      <Card variant="flashCard">
+        <ClickableArea tabIndex={key} onClick={() => speakThisHindi(hindi)} />
+        <ClickableArea tabIndex={key} onClick={onBottomClick} />
+        <Text css={{ position: "absolute" }} variant="flashCard">
+          {hindi}
+        </Text>
+      </Card>
+      {showMore && <>
+        {iast && <Text my={20}>{iast}</Text>}
+        <Text variant="caps">{english}</Text>
+      </>}
+    </>
+  )
+}
 
 const Flashcard = ({ letter, word, key }) => (
   <Card variant="flashCard">

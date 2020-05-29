@@ -4,7 +4,7 @@ import React from "react"
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 
-const NavItemStyle = { color: "gray", textDecoration: "none", mx: 20 }
+const NavItemStyle = { color: "gray", textDecoration: "none", mx: [10, 20, 40] }
 
 const Header = ({ siteTitle }) => (
   <header
@@ -18,7 +18,7 @@ const Header = ({ siteTitle }) => (
         margin: `0 auto`,
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
-        display: 'flex',
+        display: "flex",
       }}
     >
       <h1 style={{ margin: 0 }}>
@@ -40,6 +40,11 @@ const Header = ({ siteTitle }) => (
       <h5>
         <Link sx={NavItemStyle} to="/commonWords">
           Common Words
+        </Link>
+      </h5>
+      <h5>
+        <Link sx={NavItemStyle} to="/learn">
+          Learn
         </Link>
       </h5>
     </div>
