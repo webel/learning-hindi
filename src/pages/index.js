@@ -9,12 +9,12 @@ import Flashcard from "../components/flashcard"
 const keys = Object.keys(alphabet)
 
 const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    {keys.map(key => (
-      <Flashcard letter={key} word={alphabet[key]["word"]} key={key} />
-    ))}
-  </Layout>
+	<Layout>
+		<SEO title="Home" />
+		{keys.map(key => (
+			<Flashcard letter={key} word={alphabet[key]["word"]} key={key} />
+		))}
+	</Layout>
 )
 
 export default IndexPage
