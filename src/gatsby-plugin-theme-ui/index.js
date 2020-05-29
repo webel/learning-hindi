@@ -74,6 +74,7 @@ export default {
       fontSize: 1,
     },
     a: {
+      textDecoration: "none",
       color: "purple",
       "&:hover": {
         color: "secondary",
@@ -137,8 +138,8 @@ export default {
       backgroundColor: "muted",
       margin: 20,
       boxShadow: "0 0 8px rgba(0, 0, 0, 0.125)",
-      width: [180, 160, 140],
-      height: [180, 160, 140],
+      width: [140, 180],
+      height: [140, 180],
       display: "flex",
       flexDirection: "column",
       alignItems: "center",
@@ -148,6 +149,7 @@ export default {
   text: {
     flashCard: {
       fontSize: 8,
+      zIndex: -999,
     },
   },
   prism: {
