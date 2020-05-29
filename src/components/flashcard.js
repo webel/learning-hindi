@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 /** @jsx jsx */
-import { Card, Container, Text, jsx } from "theme-ui"
+import { Card, Text, jsx } from "theme-ui"
 
 function speakThisHindi(text) {
   const utterance = new SpeechSynthesisUtterance(text)
@@ -34,11 +34,14 @@ export const WordFlashCard = ({
   showDetails = false,
 }) => {
   const [showMore, setShowMore] = useState(false)
+  const [showEnglish, setShowEnglish] = useState(false)
 
   const onBottomClick = () => {
-    speakThisEnglish(english)
     if (showDetails) {
-      setShowMore(true)
+      setShowMore(!showMore)
+    } else {
+      // speakThisEnglish(english)
+      setShowEnglish(!showEnglish)
     }
   }
 
@@ -50,11 +53,14 @@ export const WordFlashCard = ({
         <Text css={{ position: "absolute" }} variant="flashCard">
           {hindi}
         </Text>
+        {showEnglish && <Text sx={{ fontSize: 'smaller', color: 'purple' }}>{english}</Text>}
       </Card>
-      {showMore && <>
-        {iast && <Text my={20}>{iast}</Text>}
-        <Text variant="caps">{english}</Text>
-      </>}
+      {showMore && (
+        <>
+          {iast && <Text my={20}>{iast}</Text>}
+          <Text mb={20} variant="caps">{english}</Text>
+        </>
+      )}
     </>
   )
 }
