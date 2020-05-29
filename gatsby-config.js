@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Evie learns Hindi`,
+    title: `Hindi`,
     description: `An opinioated way of learning hindi, built by a Swede/English from Spain`,
     author: `Evita`,
   },
+  pathPrefix: "/learning-hindi",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
