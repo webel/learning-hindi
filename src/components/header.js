@@ -44,7 +44,12 @@ const Header = ({ siteTitle }) => (
 			</h5>
 			<h5>
 				<Link sx={NavItemStyle} to="/learn">
-					Learn
+					Learn words
+				</Link>
+			</h5>
+			<h5>
+				<Link sx={NavItemStyle} to="/greetings">
+					Learn phrases
 				</Link>
 			</h5>
 		</div>

@@ -32,6 +32,7 @@ export const WordFlashCard = ({
 	iast = false,
 	key,
 	showDetails = false,
+	width,
 }) => {
 	const [showMore, setShowMore] = useState(false)
 	const [showEnglish, setShowEnglish] = useState(false)
@@ -47,7 +48,7 @@ export const WordFlashCard = ({
 
 	return (
 		<>
-			<Card variant="flashCard">
+			<Card css={{ minWidth: width }} variant="flashCard">
 				<ClickableArea tabIndex={key} onClick={() => speakThisHindi(hindi)} />
 				<ClickableArea tabIndex={key} onClick={onBottomClick} />
 				<Text css={{ position: "absolute" }} variant="flashCard">

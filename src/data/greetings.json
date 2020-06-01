@@ -1,0 +1,82 @@
+[
+	{
+		"english": "Hi!",
+		"iast": "Namastey!",
+		"hindi": "नमस्ते"
+	},
+	{
+		"english": "Good morning!",
+		"iast": "Suprabhaat",
+		"hindi": "सुप्रभात"
+	},
+	{
+		"english": "Good evening!",
+		"iast": "Shubh sundhyaa.",
+		"hindi": "शुभ संध्या"
+	},
+	{
+		"english": "Welcome! (to greet someone)",
+		"iast": "Aapka swaagat hai!",
+		"hindi": "आपका स्वागत हैं।"
+	},
+	{
+		"english": "How are you?",
+		"iast": "Aap kaisey hain?",
+		"hindi": "आप कैसे हैं ?"
+	},
+	{
+		"english": "I'm fine, thanks!",
+		"iast": "Mein theek hoon, shukriya!",
+		"hindi": "मैं ठीक हुँ ।"
+	},
+	{
+		"english": "And you?",
+		"iast": "Aur aap?",
+		"hindi": "और आप?"
+	},
+	{
+		"english": "Good/ So-So.",
+		"iast": "Accha/ Theek-thaak",
+		"hindi": "अच्छा/ ठीक-ठाक"
+	},
+	{
+		"english": "Thank you (very much)!",
+		"iast": "Shukriyaa (Bahut dhanyavaad)",
+		"hindi": "शुक्रीया (बहुत धन्यवाद)"
+	},
+	{
+		"english": "Hey! Friend!",
+		"iast": "Arrey, Dost!.",
+		"hindi": "अरे, दोस्त"
+	},
+	{
+		"english": "I missed you so much!",
+		"iast": "Mujhey aapkee bahut yaad aaee.?",
+		"hindi": "मुझे आपकी बहुत याद आयी।"
+	},
+	{
+		"english": "What's new?",
+        "iast": "Kyaa chal rahaa hai?;",
+        "hindi": "क्या चल रहा हैं?"
+	},
+	{
+		"english": "Nothing much",
+		"iast": "Zyaada kuch nahi",
+		"hindi": "ज्यादा कुछ नहीं ।"
+	},
+	{
+		"english": "Good night!",
+		"iast": "Shubh raatri.",
+		"hindi": "शुभ रात्री।"
+	},
+	{
+		"english": "See you later!",
+		"iast": "Phir milen-gay.!",
+		"hindi": "अलविदा।"
+	},
+	{
+		"english": "Good bye!",
+		"iast": "Alvida!",
+		"hindi": "अलविदा।"
+	}
+]

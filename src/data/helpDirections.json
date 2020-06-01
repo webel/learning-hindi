@@ -1,0 +1,62 @@
+[
+	{
+		"english": "I'm lost",
+		"iast": "Hum kho gaye hain.",
+		"hindi": "हम खो गये हैं ।"
+	},
+	{
+		"english": "Can I help you?",
+		"iast": "Kya mein aapki madad kar sakta/ sakti (female) hoon?",
+		"hindi": "क्या मैं आपकी मदद कर सकता /सकती हुँ ।"
+	},
+	{
+		"english": "Can you help me?",
+		"iast": "Kya aap meri madad kar saktey hain?",
+		"hindi": "क्या आप मेरी मदद कर सकते हैं ।"
+	},
+	{
+		"english": "Where is the (bathroom/ pharmacy)?",
+		"iast": "śaucaghara/ pharmacy kahaan hai?",
+		"hindi": "शौचघर/ फार्मेसी कहां है"
+	},
+	{
+		"english": "Go straight! then turn left/ right!",
+		"iast": "Seedhey jaaey! Phir bānyae/ dānyae mudiye",
+		"hindi": "सीधे जाएँ-फिर बाएँ-दाएँ मुडिए ।"
+	},
+	{
+		"english": "I'm looking for john.",
+		"iast": "Mein John ko dhoondh rahaa/ rahi (female) hoon.",
+		"hindi": "मैं जोन को ढुँढ रहा-रही हुँ ।"
+	},
+	{
+		"english": "One moment please!",
+		"iast": "Ek minat…",
+		"hindi": "एक मिनट"
+	},
+	{
+		"english": "Hold on please! (phone)",
+		"iast": "Ek minat…",
+		"hindi": "एक मिनट"
+	},
+	{
+		"english": "How much is this?",
+		"iast": "Yeh kaisey diyaa?",
+		"hindi": "यह कैसे दिया ।"
+	},
+	{
+		"english": "Excuse me ...! (to ask for something)",
+		"iast": "Kshama keejeeae…",
+		"hindi": "क्षमा कीजिए ।"
+	},
+	{
+		"english": "Excuse me! ( to pass by)",
+		"iast": "Kshama keejeeae…",
+		"hindi": "क्षमा कीजिए ।"
+	},
+	{
+		"english": "Come with me!",
+		"iast": "Mere saath aaeeyé!",
+		"hindi": "मेरे साथ आइए ।"
+	}
+]
