@@ -155,7 +155,7 @@ export default {
 	},
 	text: {
 		flashCard: {
-			fontSize: 8,
+			fontSize: [5, 6, 8],
 			zIndex: -999,
 		},
 		caps: {
