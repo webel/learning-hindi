@@ -21,8 +21,8 @@ module.exports = {
 			options: {
 				name: `learning_hindi`,
 				short_name: `hindi`,
-				start_url: `/`,
-				//icon: ``,
+				start_url: `/learning-hindi`,
+				icon: `src/images/monkey-see-no-evil.png`,
 			},
 		},
 		`gatsby-plugin-theme-ui`,
