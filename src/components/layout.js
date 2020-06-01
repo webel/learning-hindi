@@ -48,7 +48,14 @@ const Layout = ({ children, flexDirection = "row" }) => {
 				<footer>
 					© {new Date().getFullYear()}, Built by
 					{` `}
-					<a href="https://stenqvist.co">
+					<a
+						sx={{
+							color: "highlight",
+							textDecoration: "none",
+							"&:hover": { color: "purple" },
+						}}
+						href="https://stenqvist.co"
+					>
 						V
 					</a>
 				</footer>

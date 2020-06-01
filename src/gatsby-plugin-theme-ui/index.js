@@ -39,6 +39,13 @@ export default {
 			letterSpacing: "-0.03em",
 			mt: 3,
 		},
+		link: {
+			color: "highlight",
+			textDecoration: "none",
+			"&:hover": {
+				color: "purple",
+			},
+		},
 	},
 	styles: {
 		Container: {
