@@ -50,7 +50,7 @@ const Layout = ({ children, flexDirection = "row" }) => {
 					{` `}
 					<a
 						sx={{
-							color: "highlight",
+							color: "primary",
 							textDecoration: "none",
 							"&:hover": { color: "purple" },
 						}}
