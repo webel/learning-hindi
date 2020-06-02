@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => (
 		<div
 			sx={{
 				margin: `0 auto`,
-				maxWidth: 960,
+				maxWidth: 1000,
 				padding: `1.45rem 1.0875rem`,
 				display: ["block", "block", "flex"],
 				alignItems: "center",
@@ -34,10 +34,8 @@ const Header = ({ siteTitle }) => (
 					{siteTitle}
 				</Link>
 			</h1>
-			<div>
-				<Routes />
-				<SetColorMode />
-			</div>
+			<Routes />
+			<SetColorMode />
 		</div>
 	</header>
 )
