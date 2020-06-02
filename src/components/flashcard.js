@@ -22,7 +22,7 @@ const ClickableArea = ({ onClick, tabIndex }) => (
 		onKeyDown={onClick}
 		role="button"
 		tabIndex={tabIndex}
-		sx={{ height: "50%", width: "100%", "&:hover": { cursor: "pointer"} }}
+		sx={{ zIndex: 999, height: "50%", width: "100%", "&:hover": { cursor: "pointer"} }}
 	/>
 )
 
