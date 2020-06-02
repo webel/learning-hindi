@@ -12,6 +12,11 @@ const NavItemStyle = {
 	ml: [15, 40, 80],
 }
 
+const NavItemProps = {
+	activeClassName: 'active',
+	sx: NavItemStyle,
+}
+
 const SetColorMode = () => {
 	const [colorMode, setColorMode] = useColorMode()
 	return (
@@ -58,16 +63,16 @@ const Header = ({ siteTitle }) => (
 				</Link>
 			</h1>
 			<div>
-				<Link sx={NavItemStyle} to="/">
+				<Link {...NavItemProps} to="/">
 					Vowels
 				</Link>
-				<Link sx={NavItemStyle} to="/commonWords">
+				<Link {...NavItemProps} to="/commonWords">
 					Common Words
 				</Link>
-				<Link sx={NavItemStyle} to="/learn">
+				<Link {...NavItemProps} to="/learn">
 					Learn words
 				</Link>
-				<Link sx={NavItemStyle} to="/greetings">
+				<Link {...NavItemProps} to="/greetings">
 					Learn phrases
 				</Link>
 				<SetColorMode />
