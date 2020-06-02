@@ -46,12 +46,14 @@ export const WordFlashCard = ({
 		}
 	}
 
+	const variant = phrase ? "phraseFlashCard" : "flashCard"
+
 	return (
 		<>
-			<Card sx={{ minWidth: phrase && ["300px", "400px", "600px"] }} variant="flashCard">
+			<Card variant={variant}>
 				<ClickableArea tabIndex={key} onClick={() => speakThisHindi(hindi)} />
 				<ClickableArea tabIndex={key} onClick={onBottomClick} />
-				<Text css={{ position: "absolute" }} variant="flashCard">
+				<Text variant={variant}>
 					{hindi}
 				</Text>
 				{showEnglish && (

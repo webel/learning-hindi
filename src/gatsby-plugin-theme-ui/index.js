@@ -86,6 +86,9 @@ export default {
 			"&:hover": {
 				color: "secondary",
 			},
+			"&:active": {
+				color: "secondary",
+			},
 		},
 		pre: {
 			variant: "prism",
@@ -152,11 +155,20 @@ export default {
 			alignItems: "center",
 			justifyContent: "center",
 		},
+		phraseFlashCard: {
+			variant: "cards.flashCard",
+			width: ["300px", "400px", "600px"],
+		},
 	},
 	text: {
 		flashCard: {
-			fontSize: [5, 6, 8],
+			fontSize: 8,
 			zIndex: -999,
+			position: 'absolute',
+		},
+		phraseFlashCard: {
+			variant: 'text.flashCard',
+			fontSize: [5, 6, 8],
 		},
 		caps: {
 			textTransform: "uppercase",
