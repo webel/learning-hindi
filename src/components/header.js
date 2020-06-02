@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 /** @jsx jsx */
-import { jsx } from "theme-ui"
+import { jsx, useColorMode, Button } from "theme-ui"
 
 const NavItemStyle = {
 	variant: "styles.a",
@@ -10,6 +10,24 @@ const NavItemStyle = {
 	fontSize: ["smaller", 1, 2],
 	textDecoration: "none",
 	ml: [15, 40, 80],
+}
+
+const SetColorMode = () => {
+	const [colorMode, setColorMode] = useColorMode()
+	return (
+		<Button
+			sx={{
+				fontSize: ["xx-small", "x-small"],
+				ml: [2, 3, 4],
+				mt: [2, 0, 0]
+			}}
+			onClick={e => {
+				setColorMode(colorMode === "default" ? "light" : "default")
+			}}
+		>
+			Toggle {colorMode === "default" ? "Light" : "Dark"}
+		</Button>
+	)
 }
 
 const Header = ({ siteTitle }) => (
@@ -24,15 +42,15 @@ const Header = ({ siteTitle }) => (
 				margin: `0 auto`,
 				maxWidth: 960,
 				padding: `1.45rem 1.0875rem`,
-				display: ["block", "flex"],
+				display: ["block", "block", "flex"],
 				alignItems: "center",
 			}}
 		>
 			<h1 style={{ margin: 0 }}>
 				<Link
 					to="/"
-					style={{
-						color: `white`,
+					sx={{
+						variant: "styles.title",
 						textDecoration: `none`,
 					}}
 				>
@@ -52,6 +70,7 @@ const Header = ({ siteTitle }) => (
 				<Link sx={NavItemStyle} to="/greetings">
 					Learn phrases
 				</Link>
+				<SetColorMode />
 			</div>
 		</div>
 	</header>

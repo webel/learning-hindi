@@ -8,6 +8,18 @@ export default {
 		purple: "hsl(290, 100%, 80%)",
 		muted: "hsla(230, 20%, 0%, 20%)",
 		gray: "hsl(210, 50%, 60%)",
+		modes: {
+			light: {
+				text: "hsl(10, 20%, 20%)",
+				background: "hsl(10, 10%, 98%)",
+				primary: "hsl(10, 80%, 50%)",
+				secondary: "hsl(10, 60%, 50%)",
+				highlight: "hsl(10, 40%, 90%)",
+				purple: "hsl(250, 60%, 30%)",
+				muted: "hsl(10, 20%, 94%)",
+				gray: "hsl(10, 20%, 50%)",
+			},
+		},
 	},
 	fonts: {
 		body:
@@ -80,13 +92,17 @@ export default {
 			variant: "textStyles.heading",
 			fontSize: 1,
 		},
+		title: {
+			variant: "styles.h1",
+			color: "purple",
+		},
 		a: {
 			textDecoration: "none",
 			color: "purple",
 			"&:hover": {
 				color: "secondary",
 			},
-			"&:active": {
+			"&.active": {
 				color: "secondary",
 			},
 		},
@@ -163,11 +179,10 @@ export default {
 	text: {
 		flashCard: {
 			fontSize: 8,
-			zIndex: -999,
-			position: 'absolute',
+			position: "absolute",
 		},
 		phraseFlashCard: {
-			variant: 'text.flashCard',
+			variant: "text.flashCard",
 			fontSize: [5, 6, 8],
 		},
 		caps: {

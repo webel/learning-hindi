@@ -22,7 +22,7 @@ const LearnLayout = ({ data, maxIndex, ...props }) => {
 		<Layout flexDirection="column">
             <WordFlashCard {...item} showDetails {...props } />
 			<Button
-				sx={{ backgroundColor: "highlight", fontSize: "small" }}
+				sx={{ fontSize: "small" }}
 				onClick={getNextItem}
 			>
 				Next
