@@ -2,29 +2,10 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 /** @jsx jsx */
-import { jsx, useColorMode, Button } from "theme-ui"
+import { jsx } from "theme-ui"
 
 import Routes from "./routes"
 import SetColorMode from './setColorMode'
-
-
-const SetColorMode = () => {
-	const [colorMode, setColorMode] = useColorMode()
-	return (
-		<Button
-			sx={{
-				fontSize: ["xx-small", "x-small"],
-				ml: [2, 3, 4],
-				mt: [2, 0, 0]
-			}}
-			onClick={e => {
-				setColorMode(colorMode === "default" ? "light" : "default")
-			}}
-		>
-			Toggle {colorMode === "default" ? "Light" : "Dark"}
-		</Button>
-	)
-}
 
 const Header = ({ siteTitle }) => (
 	<header
