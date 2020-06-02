@@ -10,7 +10,7 @@ const keys = Object.keys(alphabet)
 
 const IndexPage = () => (
 	<Layout>
-		<SEO title="Home" />
+		<SEO title="Vowels" />
 		{keys.map(key => (
 			<Flashcard letter={key} word={alphabet[key]["word"]} key={key} />
 		))}
