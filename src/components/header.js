@@ -2,9 +2,15 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 /** @jsx jsx */
-import { jsx, NavLink } from "theme-ui"
+import { jsx } from "theme-ui"
 
-const NavItemStyle = { color: "gray", fontSize: ["smaller", 1, 2], textDecoration: "none", ml: [15, 40, 80] }
+const NavItemStyle = {
+	variant: "styles.a",
+	color: "gray",
+	fontSize: ["smaller", 1, 2],
+	textDecoration: "none",
+	ml: [15, 40, 80],
+}
 
 const Header = ({ siteTitle }) => (
 	<header
@@ -23,7 +29,7 @@ const Header = ({ siteTitle }) => (
 			}}
 		>
 			<h1 style={{ margin: 0 }}>
-				<NavLink
+				<Link
 					to="/"
 					style={{
 						color: `white`,
@@ -31,21 +37,21 @@ const Header = ({ siteTitle }) => (
 					}}
 				>
 					{siteTitle}
-				</NavLink>
+				</Link>
 			</h1>
 			<div>
-				<NavLink sx={NavItemStyle} to="/">
+				<Link sx={NavItemStyle} to="/">
 					Vowels
-				</NavLink>
-				<NavLink sx={NavItemStyle} to="/commonWords">
+				</Link>
+				<Link sx={NavItemStyle} to="/commonWords">
 					Common Words
-				</NavLink>
-				<NavLink sx={NavItemStyle} to="/learn">
+				</Link>
+				<Link sx={NavItemStyle} to="/learn">
 					Learn words
-				</NavLink>
-				<NavLink sx={NavItemStyle} to="/greetings">
+				</Link>
+				<Link sx={NavItemStyle} to="/greetings">
 					Learn phrases
-				</NavLink>
+				</Link>
 			</div>
 		</div>
 	</header>
