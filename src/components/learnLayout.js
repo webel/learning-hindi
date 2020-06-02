@@ -4,6 +4,7 @@ import React, { useState } from "react"
 import { Button, Checkbox, Label, jsx } from "theme-ui"
 import { WordFlashCard } from "../components/flashcard"
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 function randomIndex(maxIndex) {
 	return Math.floor(Math.random() * maxIndex)
@@ -20,11 +21,9 @@ const LearnLayout = ({ data, maxIndex, ...props }) => {
 
 	return (
 		<Layout flexDirection="column">
-            <WordFlashCard {...item} showDetails {...props } />
-			<Button
-				sx={{ fontSize: "small" }}
-				onClick={getNextItem}
-			>
+			<SEO title={props.seoTitle || "Learn" } />
+			<WordFlashCard {...item} showDetails {...props} />
+			<Button sx={{ fontSize: "small" }} onClick={getNextItem}>
 				Next
 			</Button>
 		</Layout>

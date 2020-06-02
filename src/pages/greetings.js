@@ -7,6 +7,7 @@ import greetings from "../data/greetings.json"
 const Greetings = () => {
 	return (
 		<LearnLayout
+			seoTitle={"Greetings"}
 			data={greetings}
 			maxIndex={greetings.length}
 			phrase
