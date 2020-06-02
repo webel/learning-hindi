@@ -4,18 +4,9 @@ import React from "react"
 /** @jsx jsx */
 import { jsx, useColorMode, Button } from "theme-ui"
 
-const NavItemStyle = {
-	variant: "styles.a",
-	color: "gray",
-	fontSize: ["smaller", 1, 2],
-	textDecoration: "none",
-	ml: [15, 40, 80],
-}
+import Routes from "./routes"
+import SetColorMode from './setColorMode'
 
-const NavItemProps = {
-	activeClassName: 'active',
-	sx: NavItemStyle,
-}
 
 const SetColorMode = () => {
 	const [colorMode, setColorMode] = useColorMode()
@@ -63,18 +54,7 @@ const Header = ({ siteTitle }) => (
 				</Link>
 			</h1>
 			<div>
-				<Link {...NavItemProps} to="/">
-					Vowels
-				</Link>
-				<Link {...NavItemProps} to="/commonWords">
-					Common Words
-				</Link>
-				<Link {...NavItemProps} to="/learn">
-					Learn words
-				</Link>
-				<Link {...NavItemProps} to="/greetings">
-					Learn phrases
-				</Link>
+				<Routes />
 				<SetColorMode />
 			</div>
 		</div>
