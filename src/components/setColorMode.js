@@ -14,7 +14,7 @@ function SetColorMode() {
 				setColorMode(colorMode === "default" ? "light" : "default")
 			}}
 		>
-			Toggle {colorMode === "default" ? "Light" : "Dark"}
+			{colorMode === "default" ? "Light" : "Dark"}
 		</Button>
 	)
 }
