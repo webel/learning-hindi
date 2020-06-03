@@ -8,11 +8,13 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import { Swipeable } from "react-swipeable"
+
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 import Header from "./header"
 
-const Layout = ({ children, flexDirection = "row" }) => {
+const Layout = ({ children, flexDirection = "row", doubleClick }) => {
 	const data = useStaticQuery(graphql`
 		query SiteTitleQuery {
 			site {
@@ -33,19 +35,31 @@ const Layout = ({ children, flexDirection = "row" }) => {
 					padding: [0, 1, 3], // `0 1.0875rem 1.45rem`,
 				}}
 			>
-				<main
+				<Swipeable onSwipedLeft={doubleClick} onSwipedRight={doubleClick}>
+					<main
+						onDoubleClick={doubleClick}
+						sx={{
+							display: "flex",
+							flexWrap: "wrap",
+							flexDirection: flexDirection,
+							alignItems: "center",
+							justifyContent: "center",
+							mb: [5],
+						}}
+					>
+						{children}
+					</main>
+				</Swipeable>
+				<footer
 					sx={{
-						display: "flex",
-						flexWrap: "wrap",
-						flexDirection: flexDirection,
-						alignItems: "center",
-						justifyContent: "center",
-						mb: [5],
+						position: "sticky",
+						bottom: "0px",
+						mb: "5px",
+						backgroundColor: "background",
+						width: "100%",
 					}}
+					variant="styles.footer"
 				>
-					{children}
-				</main>
-				<footer>
 					© {new Date().getFullYear()}, Built by
 					{` `}
 					<a

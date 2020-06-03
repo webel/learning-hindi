@@ -20,7 +20,7 @@ const LearnLayout = ({ data, maxIndex, ...props }) => {
 	}
 
 	return (
-		<Layout flexDirection="column">
+		<Layout doubleClick={props.doubleClick} flexDirection="column">
 			<SEO title={props.seoTitle || "Learn" } />
 			<WordFlashCard {...item} showDetails {...props} />
 			<Button sx={{ fontSize: "small" }} onClick={getNextItem}>

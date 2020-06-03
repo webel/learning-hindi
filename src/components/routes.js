@@ -9,9 +9,9 @@ const NavItemStyle = {
 	color: "gray",
 	fontSize: ["smaller", 1, 2],
     ml: [12, 40, 50],
-    ":first-of-type": {
-        ml: ['0px', 12, 20, 50]
-    }
+    // ":first-of-type": {
+    //     ml: ['0px', 12, 20, 50]
+    // }
 }
 
 const NavItemProps = {
@@ -21,15 +21,15 @@ const NavItemProps = {
 
 const routes = [
 	{ name: "Vowels", to: "/" },
-	{ name: "Common Words", to: "/commonWords" },
-	{ name: "Learn Words", to: "/learn" },
+	{ name: "Words", to: "/commonWords" },
+	// { name: "Learn Words", to: "/learn" },
 	{ name: "Greetings", to: "/greetings" },
 	{ name: "Help & Directions", to: "/helpDirections" },
 ]
 
 function Routes() {
 	return routes.map(route => (
-		<Link {...NavItemProps} to={route.to}>
+		<Link key={route.name} {...NavItemProps} to={route.to}>
 			{route.name}
 		</Link>
 	))
