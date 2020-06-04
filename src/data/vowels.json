@@ -1,0 +1,146 @@
+[
+  {
+    "hindi": "अ",
+    "iast": "a",
+    "word": "अनार",
+    "engWord": "pomegranate",
+    "diacritic": "प",
+    "soundsLike": "as in about"
+  },
+  {
+    "hindi": "आ",
+    "iast": "ā",
+    "word": "आम",
+    "engWord": "mango",
+    "diacritic": "पा",
+    "soundsLike": "as in father"
+  },
+  {
+    "hindi": "इ",
+    "iast": "i",
+    "word": "इमली",
+    "engWord": "tamarind",
+    "diacritic": "पि",
+    "soundsLike": "as in sit"
+  },
+  {
+    "hindi": "ई",
+    "iast": "ī",
+    "word": "ईख",
+    "engWord": "sugarcane",
+    "diacritic": "पी",
+    "soundsLike": "as in elite"
+  },
+  {
+    "hindi": "उ",
+    "iast": "u",
+    "word": "उल्लू",
+    "engWord": "owl",
+    "diacritic": "पु",
+    "soundsLike": "as in put"
+  },
+  {
+    "hindi": "ऊ",
+    "iast": "ū",
+    "word": "ऊन",
+    "engWord": "wool",
+    "diacritic": "पू",
+    "soundsLike": "as in flute"
+  },
+  {
+    "hindi": "ऋ",
+    "iast": "ri",
+    "word": "ऋषि",
+    "engWord": "sage",
+    "diacritic": "पृ",
+    "soundsLike": "as in Scottish heard, trip."
+  },
+  {
+    "hindi": "ॠ",
+    "iast": "rī",
+    "word": "",
+    "engWord": "",
+    "diacritic": "पॄ",
+    "soundsLike": ""
+  },
+  {
+    "hindi": "ऌ",
+    "iast": "li",
+    "word": "",
+    "engWord": "",
+    "diacritic": "पॢ",
+    "soundsLike": ""
+  },
+  {
+    "hindi": "ॡ",
+    "iast": "lī",
+    "word": "",
+    "engWord": "",
+    "diacritic": "पॣ",
+    "soundsLike": ""
+  },
+  {
+    "hindi": "ए",
+    "iast": "ē",
+    "word": "एडी",
+    "engWord": "heel",
+    "diacritic": "पे",
+    "soundsLike": "long e as in German \"zehn\". It is not a diphthong; the tone does not fall."
+  },
+  {
+    "hindi": "ऐ",
+    "iast": "ai",
+    "word": "ऐनक",
+    "engWord": "spectacles",
+    "diacritic": "पै",
+    "soundsLike": "as in Mail, sometimes a longer ए. In Eastern dialects as in bright (IPA ıj)."
+  },
+  {
+    "hindi": "ओ",
+    "iast": "ō",
+    "word": "ओखल",
+    "engWord": "mortar",
+    "diacritic": "पो",
+    "soundsLike": "as in German Kohle, not a diphthong; tone does not fall."
+  },
+  {
+    "hindi": "औ",
+    "iast": "au",
+    "word": "औरत​",
+    "engWord": "woman",
+    "diacretic": "पौ",
+    "soundsLike": "as in oxford. In Eastern dialects as in German lauft, or English town."
+  },
+  {
+    "hindi": "अं",
+    "iast": "aṁ",
+    "word": "अंगूर",
+    "engWord": "grapes",
+    "diacritic": "पं",
+    "soundsLike": ""
+  },
+  {
+    "hindi": "अः",
+    "iast": "aḥ",
+    "word": "",
+    "engWord": "",
+    "diacritic": "पः",
+    "soundsLike": ""
+  },
+  {
+    "hindi": "ॲ",
+    "iast": "ê",
+    "word": "",
+    "engWord": "",
+    "diacritic": "पॅ",
+    "soundsLike": ""
+  },
+  {
+    "hindi": "ऑ",
+    "iast": "ô",
+    "word": "",
+    "engWord": "",
+    "diacritic": "पॉ",
+    "soundsLike": ""
+  }
+]
