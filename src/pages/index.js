@@ -1,20 +1,18 @@
 import React from "react"
 
-import alphabet from "../data/alphabet.json"
+import vowels from "../data/vowels.json"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Flashcard from "../components/flashcard"
 
-const keys = Object.keys(alphabet)
-
-const IndexPage = () => (
+const Devanagari = () => (
 	<Layout>
 		<SEO title="Vowels" />
-		{keys.map(key => (
-			<Flashcard letter={key} word={alphabet[key]["word"]} key={key} />
+		{vowels.map(vowel => (
+			<Flashcard letter={vowel.hindi} word={vowel.word} key={vowel} />
 		))}
 	</Layout>
 )
 
-export default IndexPage
+export default Devanagari
