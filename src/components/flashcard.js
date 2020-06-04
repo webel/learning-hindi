@@ -22,44 +22,83 @@ const ClickableArea = ({ onClick, tabIndex }) => (
 		onKeyDown={onClick}
 		role="button"
 		tabIndex={tabIndex}
-		sx={{ zIndex: 999, height: "50%", width: "100%", "&:hover": { cursor: "pointer"} }}
+		sx={{
+			zIndex: 999,
+			height: "50%",
+			width: "100%",
+			"&:hover": { cursor: "pointer" },
+		}}
 	/>
 )
+
+export const CommonFlashcard = ({
+	mainText,
+	onTopClick,
+	onBottomClick,
+	smallText,
+	showSmallText,
+	variantTheme = "flashCard",
+}) => {
+	return (
+		<Card variant={variantTheme}>
+			<ClickableArea tabIndex={`top-${mainText}`} onClick={onTopClick} />
+			<ClickableArea tabIndex={`bottom-${mainText}`} onClick={onBottomClick} />
+			<Text variant={variantTheme}>{mainText}</Text>
+			{showSmallText && (
+				<Text sx={{ fontSize: "smaller", color: "purple" }}>{smallText}</Text>
+			)}
+		</Card>
+	)
+}
 
 export const WordFlashCard = ({
 	hindi,
 	english,
 	iast = false,
-	key,
+	onTopClick = false,
+	onBottomClick = false,
+	showIastEnglishDetails = false,
 	showDetails = false,
+	smallTextKey = false,
 	phrase,
+	...props
 }) => {
 	const [showMore, setShowMore] = useState(false)
 	const [showEnglish, setShowEnglish] = useState(false)
 
-	const onBottomClick = () => {
-		if (showDetails) {
+	const defaultOnBottomClick = () => {
+		if (showIastEnglishDetails) {
 			setShowMore(!showMore)
 		} else {
-			// speakThisEnglish(english)
+			// TODO: should be setSmallText or setUnderText
 			setShowEnglish(!showEnglish)
 		}
 	}
 
 	const variant = phrase ? "phraseFlashCard" : "flashCard"
 
+	const flashCardProps = {
+		mainText: hindi,
+		onTopClick: onTopClick ? onTopClick : () => speakThisHindi(hindi),
+		onBottomClick: onBottomClick
+			? () => onBottomClick.func(props[onBottomClick.key])
+			: defaultOnBottomClick,
+		showSmallText: showEnglish,
+		smallText: props[smallTextKey] || english,
+		variantTheme: variant,
+	}
+
+	if (showDetails) {
+		return (
+			<>
+				<CommonFlashcard {...flashCardProps} />
+				{showMore && showDetails}
+			</>
+		)
+	}
 	return (
 		<>
-			<Card variant={variant}>
-				<ClickableArea tabIndex={key} onClick={() => speakThisHindi(hindi)} />
-				<ClickableArea tabIndex={key} onClick={onBottomClick} />
-				<Text variant={variant}>
-					{hindi}
-				</Text>
-				{showEnglish && (
-					<Text sx={{ fontSize: "smaller", color: "purple" }}>{english}</Text>
-				)}
-			</Card>
+			<CommonFlashcard {...flashCardProps} />
 			{showMore && (
 				<>
 					{iast && <Text my={20}>{iast}</Text>}

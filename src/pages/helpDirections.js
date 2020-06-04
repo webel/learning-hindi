@@ -9,7 +9,6 @@ const HelpDirections = () => {
         <LearnLayout
             seoTitle={"Help & Directions"}
 			data={helpDirections}
-			maxIndex={helpDirections.length}
 			phrase
 		/>
 	)

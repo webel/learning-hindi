@@ -173,7 +173,7 @@ export default {
 		},
 		phraseFlashCard: {
 			variant: "cards.flashCard",
-			width: ["300px", "400px", "600px"],
+			width: ["90vw", "400px", "60vw"],
 		},
 	},
 	text: {
@@ -183,7 +183,7 @@ export default {
 		},
 		phraseFlashCard: {
 			variant: "text.flashCard",
-			fontSize: [5, 6, 8],
+			fontSize: [4, 5, 6],
 		},
 		caps: {
 			textTransform: "uppercase",
