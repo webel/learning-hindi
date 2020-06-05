@@ -45,7 +45,11 @@ export const CommonFlashcard = ({
 			<ClickableArea tabIndex={`bottom-${mainText}`} onClick={onBottomClick} />
 			<Text variant={variantTheme}>{mainText}</Text>
 			{showSmallText && (
-				<Text sx={{ fontSize: "smaller", color: "purple" }}>{smallText}</Text>
+				<Text
+					sx={{ fontSize: "smaller", color: "purple", textAlign: "center" }}
+				>
+					{smallText}
+				</Text>
 			)}
 		</Card>
 	)
