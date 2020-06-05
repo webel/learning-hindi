@@ -14,15 +14,14 @@ function speakThisHindi(text) {
 
 const alphabet = vowels.concat(consonants)
 
+const onBottomClick = item => speakThisHindi(item.word)
+
 const Devanagari = () => (
 	<LearnLayout
 		data={alphabet}
 		seoTitle={"Devanagari Vowels"}
 		smallTextKey="soundsLike"
-		// onBottomClick={{
-		// 	key: 'word',
-		// 	func: speakThisHindi
-		// }}
+		onBottomClick={onBottomClick}
 	/>
 )
 
