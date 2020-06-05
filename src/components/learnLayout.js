@@ -40,7 +40,7 @@ const SingleView = ({ data, ...props }) => {
 	)
 }
 
-const LearnLayout = props => {
+const LearnLayout = ({ seoTitle, ...props}) => {
 	const [flashCardView, setFlashCardView] = useState(false)
 
 	function doubleClick() {
@@ -52,7 +52,7 @@ const LearnLayout = props => {
 			doubleClick={doubleClick}
 			flexDirection={flashCardView ? "column" : "row"}
 		>
-			<SEO title={props.seoTitle || "Learn"} />
+			<SEO title={seoTitle || "Learn"} />
 			{flashCardView ? <SingleView {...props} /> : <AllView {...props} />}
 		</Layout>
 	)
