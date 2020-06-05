@@ -3,6 +3,7 @@ import React, { useState } from "react"
 /** @jsx jsx */
 import { Button, Checkbox, Label, jsx } from "theme-ui"
 import { WordFlashCard } from "../components/flashcard"
+import { iastEnglishDetails } from '../components/detailsUnderFlashcard'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -14,7 +15,7 @@ const AllView = ({ data, ...props }) => {
 	return data.map(item => (
 		<WordFlashCard
 			key={`${item.hindi}-${Math.random()}`}
-			{...item}
+			item={item}
 			{...props}
 		/>
 	))
@@ -29,10 +30,14 @@ const SingleView = ({ data, ...props }) => {
 		const index = randomIndex(data.length)
 		setItem(data[index])
 	}
-	// TODO fix correct detailShowing
+
 	return (
 		<>
-			<WordFlashCard showIastEnglishDetails {...item} {...props} />
+			<WordFlashCard
+				showDetails={props.showDetails || iastEnglishDetails}
+				item={item}
+				{...props}
+			/>
 			<Button sx={{ fontSize: "small" }} onClick={getNextItem}>
 				Next
 			</Button>

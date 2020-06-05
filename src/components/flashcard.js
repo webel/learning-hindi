@@ -52,39 +52,39 @@ export const CommonFlashcard = ({
 }
 
 export const WordFlashCard = ({
-	hindi,
-	english,
-	iast = false,
+	item,
 	onTopClick = false,
 	onBottomClick = false,
-	showIastEnglishDetails = false,
 	showDetails = false,
 	smallTextKey = false,
 	phrase,
 	...props
 }) => {
 	const [showMore, setShowMore] = useState(false)
-	const [showEnglish, setShowEnglish] = useState(false)
+	const [showSmallText, setShowSmallText] = useState(false)
 
 	const defaultOnBottomClick = () => {
-		if (showIastEnglishDetails) {
+		if (showDetails) {
 			setShowMore(!showMore)
+			if (onBottomClick) {
+				onBottomClick(item)
+			}
 		} else {
-			// TODO: should be setSmallText or setUnderText
-			setShowEnglish(!showEnglish)
+			setShowSmallText(!showSmallText)
+			if (onBottomClick) {
+				onBottomClick(item)
+			}
 		}
 	}
 
 	const variant = phrase ? "phraseFlashCard" : "flashCard"
 
 	const flashCardProps = {
-		mainText: hindi,
-		onTopClick: onTopClick ? onTopClick : () => speakThisHindi(hindi),
-		onBottomClick: onBottomClick
-			? () => onBottomClick.func(props[onBottomClick.key])
-			: defaultOnBottomClick,
-		showSmallText: showEnglish,
-		smallText: props[smallTextKey] || english,
+		mainText: item.hindi,
+		onTopClick: onTopClick ? onTopClick : () => speakThisHindi(item.hindi),
+		onBottomClick: defaultOnBottomClick,
+		showSmallText: showSmallText,
+		smallText: item[smallTextKey] || item.english,
 		variantTheme: variant,
 	}
 
@@ -92,23 +92,11 @@ export const WordFlashCard = ({
 		return (
 			<>
 				<CommonFlashcard {...flashCardProps} />
-				{showMore && showDetails}
+				{showMore && showDetails({ ...item }) }
 			</>
 		)
 	}
-	return (
-		<>
-			<CommonFlashcard {...flashCardProps} />
-			{showMore && (
-				<>
-					{iast && <Text my={20}>{iast}</Text>}
-					<Text mb={20} variant="caps">
-						{english}
-					</Text>
-				</>
-			)}
-		</>
-	)
+	return (<CommonFlashcard {...flashCardProps} />)
 }
 
 const Flashcard = ({ letter, word, key }) => (
