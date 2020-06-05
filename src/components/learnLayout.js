@@ -21,7 +21,7 @@ const AllView = ({ data, ...props }) => {
 	))
 }
 
-const SingleView = ({ data, ...props }) => {
+const SingleView = ({ data, showDetails, ...props }) => {
 	const maxIndex = props.maxIndex || data.length
 	const initialIndex = randomIndex(maxIndex)
 	const [item, setItem] = useState(data[initialIndex])
@@ -34,7 +34,7 @@ const SingleView = ({ data, ...props }) => {
 	return (
 		<>
 			<WordFlashCard
-				showDetails={props.showDetails || iastEnglishDetails}
+				showDetails={showDetails || iastEnglishDetails}
 				item={item}
 				{...props}
 				single

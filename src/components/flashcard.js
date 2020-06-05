@@ -96,11 +96,11 @@ export const WordFlashCard = ({
 		return (
 			<>
 				<CommonFlashcard {...flashCardProps} />
-				{showMore && showDetails({ ...item }) }
+				{showMore && showDetails({ ...item })}
 			</>
 		)
 	}
-	return (<CommonFlashcard {...flashCardProps} />)
+	return <CommonFlashcard {...flashCardProps} />
 }
 
 const Flashcard = ({ letter, word, key }) => (
