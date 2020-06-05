@@ -60,7 +60,7 @@ export const WordFlashCard = ({
 	onTopClick = false,
 	onBottomClick = false,
 	showDetails = false,
-	smallTextKey = false,
+	smallText = false,
 	phrase,
 	...props
 }) => {
@@ -88,7 +88,7 @@ export const WordFlashCard = ({
 		onTopClick: onTopClick ? onTopClick : () => speakThisHindi(item.hindi),
 		onBottomClick: defaultOnBottomClick,
 		showSmallText: showSmallText,
-		smallText: item[smallTextKey] || item.english,
+		smallText: smallText(item) || item.english,
 		variantTheme: variant,
 	}
 
