@@ -3,6 +3,7 @@ import React from "react"
 import vowels from "../data/vowels.json"
 import consonants from "../data/consonants.json"
 
+import { letterDetails } from "../components/detailsUnderFlashcard"
 import LearnLayout from "../components/learnLayout"
 
 function speakThisHindi(text) {
@@ -15,12 +16,18 @@ function speakThisHindi(text) {
 const alphabet = vowels.concat(consonants)
 
 const onBottomClick = item => speakThisHindi(item.word)
+const smallText = item => (
+	<>
+		({item.word} - {item.english}) <br /> {item.soundsLike}
+	</>
+)
 
 const Devanagari = () => (
 	<LearnLayout
 		data={alphabet}
 		seoTitle={"Devanagari Vowels"}
-		smallTextKey="soundsLike"
+		showDetails={letterDetails}
+		smallText={smallText}
 		onBottomClick={onBottomClick}
 	/>
 )
