@@ -88,7 +88,7 @@ export const WordFlashCard = ({
 		onTopClick: onTopClick ? onTopClick : () => speakThisHindi(item.hindi),
 		onBottomClick: defaultOnBottomClick,
 		showSmallText: showSmallText,
-		smallText: smallText(item) || item.english,
+		smallText: smallText ? smallText(item) : item.english,
 		variantTheme: variant,
 	}
 
