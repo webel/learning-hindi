@@ -37,6 +37,7 @@ const SingleView = ({ data, ...props }) => {
 				showDetails={props.showDetails || iastEnglishDetails}
 				item={item}
 				{...props}
+				single
 			/>
 			<Button sx={{ fontSize: "small" }} onClick={getNextItem}>
 				Next

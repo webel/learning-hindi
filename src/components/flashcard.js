@@ -68,7 +68,7 @@ export const WordFlashCard = ({
 	const [showSmallText, setShowSmallText] = useState(false)
 
 	const defaultOnBottomClick = () => {
-		if (showDetails) {
+		if (props.single) {
 			setShowMore(!showMore)
 			if (onBottomClick) {
 				onBottomClick(item)
