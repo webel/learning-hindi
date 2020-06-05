@@ -20,7 +20,7 @@ const NavItemProps = {
 }
 
 const routes = [
-	{ name: "Vowels", to: "/" },
+	{ name: "Devanagari", to: "/" },
 	{ name: "Words", to: "/commonWords" },
 	// { name: "Learn Words", to: "/learn" },
 	{ name: "Greetings", to: "/greetings" },
