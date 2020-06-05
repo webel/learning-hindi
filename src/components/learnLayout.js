@@ -12,6 +12,15 @@ function randomIndex(maxIndex) {
 }
 
 const AllView = ({ data, ...props }) => {
+	const [showSmallText, setShowSmallText] = useState(false)
+	
+	const wrappedOnBottomClick = item => {
+		if (onBottomClick) {
+			onBottomClick(item)
+		}
+		setShowSmallText(!showSmallText)
+	}
+
 	return data.map(item => (
 		<WordFlashCard
 			key={`${item.hindi}-${Math.random()}`}
@@ -21,14 +30,22 @@ const AllView = ({ data, ...props }) => {
 	))
 }
 
-const SingleView = ({ data, showDetails, ...props }) => {
+const SingleView = ({ data, onBottomClick, showDetails, ...props }) => {
 	const maxIndex = props.maxIndex || data.length
 	const initialIndex = randomIndex(maxIndex)
 	const [item, setItem] = useState(data[initialIndex])
+	const [showMore, setShowMore] = useState(false)
 
 	const getNextItem = () => {
 		const index = randomIndex(data.length)
 		setItem(data[index])
+	}
+
+	const wrappedOnBottomClick = item => {
+		if (onBottomClick) {
+			onBottomClick(item)
+		}
+		setShowMore(!showMore)
 	}
 
 	return (
@@ -36,12 +53,15 @@ const SingleView = ({ data, showDetails, ...props }) => {
 			<WordFlashCard
 				showDetails={showDetails || iastEnglishDetails}
 				item={item}
+				onBottomClick={wrappedOnBottomClick}
 				{...props}
+				render={() => (
+					<Button sx={{ fontSize: "small" }} onClick={getNextItem}>
+						Next
+					</Button>
+				)}
 				single
 			/>
-			<Button sx={{ fontSize: "small" }} onClick={getNextItem}>
-				Next
-			</Button>
 		</>
 	)
 }

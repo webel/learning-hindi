@@ -62,6 +62,7 @@ export const WordFlashCard = ({
 	showDetails = false,
 	smallText = false,
 	phrase,
+	render,
 	...props
 }) => {
 	const [showMore, setShowMore] = useState(false)
@@ -96,6 +97,7 @@ export const WordFlashCard = ({
 		return (
 			<>
 				<CommonFlashcard {...flashCardProps} />
+				{render && render()}
 				{showMore && showDetails({ ...item })}
 			</>
 		)
