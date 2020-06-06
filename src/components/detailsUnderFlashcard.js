@@ -16,6 +16,7 @@ const ClickableText = ({ text }) => (
 			backgroundColor: "muted",
 			boxShadow: "0 0 8px rgba(0, 0, 0, 0.125)",
 			display: "inline-block",
+			cursor: "pointer",
 		}}
 		onClick={() => speakThisHindi(text)}
 	>
