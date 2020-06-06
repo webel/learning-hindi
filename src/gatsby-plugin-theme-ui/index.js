@@ -7,6 +7,7 @@ export default {
 		highlight: "hsl(260, 20%, 40%)",
 		purple: "hsl(290, 100%, 80%)",
 		muted: "hsla(230, 20%, 0%, 20%)",
+		moreMuted: "hsl(230, 24%, 15%, 80%)",
 		gray: "hsl(210, 50%, 60%)",
 		modes: {
 			light: {
@@ -17,6 +18,7 @@ export default {
 				highlight: "hsl(10, 40%, 90%)",
 				purple: "hsl(250, 60%, 30%)",
 				muted: "hsl(10, 20%, 94%)",
+				moreMuted: "hsla(10, 20%, 94%, 85%)",
 				gray: "hsl(10, 20%, 50%)",
 			},
 		},
