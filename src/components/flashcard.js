@@ -46,7 +46,15 @@ export const CommonFlashcard = ({
 			<Text variant={variantTheme}>{mainText}</Text>
 			{showSmallText && (
 				<Text
-					sx={{ fontSize: "smaller", color: "purple", textAlign: "center" }}
+					onClick={onBottomClick}
+					sx={{
+						fontSize: "smaller",
+						color: "purple",
+						textAlign: "center",
+						backgroundColor: "moreMuted",
+						zIndex: 999,
+						cursor: "pointer",
+					}}
 				>
 					{smallText}
 				</Text>
