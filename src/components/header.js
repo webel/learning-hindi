@@ -6,6 +6,7 @@ import { jsx } from "theme-ui"
 
 import Routes from "./routes"
 import SetColorMode from './setColorMode'
+import SideMenu from "./sideMenu"
 
 const Header = ({ siteTitle }) => (
 	<header
@@ -34,8 +35,7 @@ const Header = ({ siteTitle }) => (
 					{siteTitle}
 				</Link>
 			</h1>
-			<Routes />
-			<SetColorMode />
+			<SideMenu />
 		</div>
 	</header>
 )

@@ -23,7 +23,7 @@ const ClickableArea = ({ onClick, tabIndex }) => (
 		role="button"
 		tabIndex={tabIndex}
 		sx={{
-			zIndex: 999,
+			zIndex: 50,
 			height: "50%",
 			width: "100%",
 			"&:hover": { cursor: "pointer" },

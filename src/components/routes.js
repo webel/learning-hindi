@@ -6,9 +6,10 @@ import { jsx } from "theme-ui"
 
 const NavItemStyle = {
 	variant: "styles.a",
-	color: "gray",
+	color: "text",
 	fontSize: ["smaller", 1, 2],
-    ml: [12, 40, 50],
+	ml: [12, 40, 50],
+	mb: '20px',
     // ":first-of-type": {
     //     ml: ['0px', 12, 20, 50]
     // }
