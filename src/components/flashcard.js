@@ -46,13 +46,7 @@ export const CommonFlashcard = ({
 			<Text variant={variantTheme}>{mainText}</Text>
 			{showSmallText && (
 				<Text
-					sx={{
-						fontSize: "smaller",
-						color: "purple",
-						textAlign: "center",
-						backgroundColor: "moreMuted",
-						zIndex: 999,
-					}}
+					sx={{ fontSize: "smaller", color: "purple", textAlign: "center" }}
 				>
 					{smallText}
 				</Text>
@@ -77,9 +71,6 @@ export const WordFlashCard = ({
 	const defaultOnBottomClick = () => {
 		if (props.single) {
 			setShowMore(!showMore)
-			if (onBottomClick) {
-				onBottomClick(item)
-			}
 		} else {
 			setShowSmallText(!showSmallText)
 			if (onBottomClick) {
