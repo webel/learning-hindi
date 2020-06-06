@@ -18,7 +18,7 @@ const alphabet = vowels.concat(consonants)
 const onBottomClick = item => speakThisHindi(item.word)
 const smallText = item => (
 	<>
-		({item.word} - {item.english}) <br /> {item.soundsLike}
+		{item.word} {item.word && item.english && ' - '} {item.english} <br /> {item.soundsLike}
 	</>
 )
 
