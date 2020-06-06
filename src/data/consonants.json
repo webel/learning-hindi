@@ -1,167 +1,225 @@
 [
- {
-   "hindi": "क",
-   "iast": "k",
-   "soundsLike": "as in skip."
- },
- {
-   "hindi": "ख",
-   "iast": "kh",
-   "soundsLike": "as in sinkhole."
- },
- {
-   "hindi": "ग",
-   "iast": "g",
-   "soundsLike": "as in go."
- },
- {
-   "hindi": "घ",
-   "iast": "gh",
-   "soundsLike": "as in doghouse."
- },
- {
-   "hindi": "ङ",
-   "iast": "ṅ",
-   "soundsLike": "as in sing. Used only in Sanskrit loan words, does not occur independently."
- },
- {
-   "hindi": "च",
-   "iast": "c",
-   "soundsLike": "as in church."
- },
- {
-   "hindi": "छ",
-   "iast": "ch",
-   "soundsLike": "as in pinchhit."
- },
- {
-   "hindi": "ज",
-   "iast": "j",
-   "soundsLike": "as in jump."
- },
- {
-   "hindi": "झ",
-   "iast": "jh",
-   "soundsLike": "as in dodge her."
- },
- {
-   "hindi": "ञ",
-   "iast": "ñ",
-   "soundsLike": "as in canyon. Used only in Sanskrit loan words, does not occur independently."
- },
- {
-   "hindi": "ट",
-   "iast": "ṭ",
-   "soundsLike": "as in tick. Retroflex, but still a \"hard\" t sound similar to English."
- },
- {
-   "hindi": "ठ",
-   "iast": "ṭh",
-   "soundsLike": "as in lighthouse. Retroflex"
- },
- {
-   "hindi": "ड",
-   "iast": "ḍ",
-   "soundsLike": "as in doom. Retroflex"
- },
- {
-   "hindi": "ढ",
-   "iast": "ḍh",
-   "soundsLike": "as in mudhut. Retroflex"
- },
- {
-   "hindi": "ण",
-   "iast": "ṇ",
-   "soundsLike": "retroflex n. Used only in Sanskrit loan words."
- },
- {
-   "hindi": "त",
-   "iast": "t",
-   "soundsLike": "does not exist in English. more dental t, with a bit of a th sound. Softer than an English t."
- },
- {
-   "hindi": "थ",
-   "iast": "th",
-   "soundsLike": "aspirated version of the previous letter, not as in thanks or the."
- },
- {
-   "hindi": "द",
-   "iast": "d",
-   "soundsLike": "dental d."
- },
- {
-   "hindi": "ध",
-   "iast": "dh",
-   "soundsLike": "aspirated version of the above."
- },
- {
-   "hindi": "न",
-   "iast": "n",
-   "soundsLike": "dental n."
- },
- {
-   "hindi": "प",
-   "iast": "p",
-   "soundsLike": "as in spin."
- },
- {
-   "hindi": "फ",
-   "iast": "ph",
-   "soundsLike": "as in uphill."
- },
- {
-   "hindi": "ब",
-   "iast": "b",
-   "soundsLike": "as in be."
- },
- {
-   "hindi": "भ",
-   "iast": "bh",
-   "soundsLike": "as in abhor."
- },
- {
-   "hindi": "म",
-   "iast": "m",
-   "soundsLike": "as in mere."
- },
- {
-   "hindi": "य",
-   "iast": "y",
-   "soundsLike": "as in yet."
- },
- {
-   "hindi": "र",
-   "iast": "r",
-   "soundsLike": "as in Spanish pero, a tongue trip. Don't roll as in Spanish rr, German or Scottish English."
- },
- {
-   "hindi": "ल",
-   "iast": "l",
-   "soundsLike": "as in lean."
- },
- {
-   "hindi": "व",
-   "iast": "v",
-   "soundsLike": "as in Spanish vaca, between English v and w, but without the lip rounding of an English w. (IPA: ʋ)."
- },
- {
-   "hindi": "श",
-   "iast": "ś",
-   "soundsLike": "as in shoot."
- },
- {
-   "hindi": "ष",
-   "iast": "ṣ",
-   "soundsLike": "almost indistinguishable retroflex of the above. slightly more aspirated. Used only in Sanskrit loan words."
- },
- {
-   "hindi": "स",
-   "iast": "s",
-   "soundsLike": "as in see."
- },
- {
-   "hindi": "ह",
-   "iast": "h",
-   "soundsLike": "as in him."
- }
+	{
+		"word": "कि",
+		"english": "that",
+		"hindi": "क",
+		"iast": "k",
+		"soundsLike": "as in skip."
+	},
+	{
+		"word": "खेलने",
+		"english": "play",
+		"hindi": "ख",
+		"iast": "kh",
+		"soundsLike": "as in sinkhole."
+	},
+	{
+		"word": "गरम",
+		"english": "hot",
+		"hindi": "ग",
+		"iast": "g",
+		"soundsLike": "as in go."
+	},
+	{
+		"word": "घर",
+		"english": "home",
+		"hindi": "घ",
+		"iast": "gh",
+		"soundsLike": "as in doghouse."
+	},
+	{
+		"hindi": "ङ",
+		"iast": "ṅ",
+		"soundsLike": "as in sing. Used only in Sanskrit loan words, does not occur independently."
+	},
+	{
+		"word": "चाहते हैं",
+		"english": "want",
+		"hindi": "च",
+		"iast": "c",
+		"soundsLike": "as in church."
+	},
+	{
+		"word": "छोटे",
+		"english": "small",
+		"hindi": "छ",
+		"iast": "ch",
+		"soundsLike": "as in pinchhit."
+	},
+	{
+		"word": "जैसा",
+		"english": "as",
+		"hindi": "ज",
+		"iast": "j",
+		"soundsLike": "as in jump."
+	},
+	{
+		"word": "झटका",
+		"english": "blow",
+		"hindi": "झ",
+		"iast": "jh",
+		"soundsLike": "as in dodge her."
+	},
+	{
+		"hindi": "ञ",
+		"iast": "ñ",
+		"soundsLike": "as in canyon. Used only in Sanskrit loan words, does not occur independently."
+	},
+	{
+		"word": "टुकड़ा",
+		"english": "piece",
+		"hindi": "ट",
+		"iast": "ṭ",
+		"soundsLike": "as in tick. Retroflex, but still a \"hard\" t sound similar to English."
+	},
+	{
+		"word": "ठीक",
+		"english": "fine",
+		"hindi": "ठ",
+		"iast": "ṭh",
+		"soundsLike": "as in lighthouse. Retroflex"
+	},
+	{
+		"word": "डाल",
+		"english": "put",
+		"hindi": "ड",
+		"iast": "ḍ",
+		"soundsLike": "as in doom. Retroflex"
+	},
+	{
+		"word": "ढोंग",
+		"english": "pose",
+		"hindi": "ढ",
+		"iast": "ḍh",
+		"soundsLike": "as in mudhut. Retroflex"
+	},
+	{
+		"hindi": "ण",
+		"iast": "ṇ",
+		"soundsLike": "retroflex n. Used only in Sanskrit loan words."
+	},
+	{
+		"word": "तक",
+		"english": "to",
+		"hindi": "त",
+		"iast": "t",
+		"soundsLike": "does not exist in English. more dental t, with a bit of a th sound. Softer than an English t."
+	},
+	{
+		"word": "था",
+		"english": "was",
+		"hindi": "थ",
+		"iast": "th",
+		"soundsLike": "aspirated version of the previous letter, not as in thanks or the."
+	},
+	{
+		"word": "द्वारा",
+		"english": "by",
+		"hindi": "द",
+		"iast": "d",
+		"soundsLike": "dental d."
+	},
+	{
+		"word": "ध्वनि",
+		"english": "sound",
+		"hindi": "ध",
+		"iast": "dh",
+		"soundsLike": "aspirated version of the above."
+	},
+	{
+		"word": "निकट",
+		"english": "near",
+		"hindi": "न",
+		"iast": "n",
+		"soundsLike": "dental n."
+	},
+	{
+		"word": "पर",
+		"english": "on",
+		"hindi": "प",
+		"iast": "p",
+		"soundsLike": "as in spin."
+	},
+	{
+		"word": "फिर",
+		"english": "again",
+		"hindi": "फ",
+		"iast": "ph",
+		"soundsLike": "as in uphill."
+	},
+	{
+		"word": "बाहर",
+		"english": "out",
+		"hindi": "ब",
+		"iast": "b",
+		"soundsLike": "as in be."
+	},
+	{
+		"word": "भी",
+		"english": "also",
+		"hindi": "भ",
+		"iast": "bh",
+		"soundsLike": "as in abhor."
+	},
+	{
+		"word": "मैं",
+		"english": "I",
+		"hindi": "म",
+		"iast": "m",
+		"soundsLike": "as in mere."
+	},
+	{
+		"word": "यह",
+		"english": "it",
+		"hindi": "य",
+		"iast": "y",
+		"soundsLike": "as in yet."
+	},
+	{
+		"word": "रेखा",
+		"english": "line",
+		"hindi": "र",
+		"iast": "r",
+		"soundsLike": "as in Spanish pero, a tongue trip. Don't roll as in Spanish rr, German or Scottish English."
+	},
+	{
+		"word": "लेकिन",
+		"english": "but",
+		"hindi": "ल",
+		"iast": "l",
+		"soundsLike": "as in lean."
+	},
+	{
+		"word": "वह",
+		"english": "he",
+		"hindi": "व",
+		"iast": "v",
+		"soundsLike": "as in Spanish vaca, between English v and w, but without the lip rounding of an English w. (IPA: ʋ)."
+	},
+	{
+		"word": "शब्द",
+		"english": "word",
+		"hindi": "श",
+		"iast": "ś",
+		"soundsLike": "as in shoot."
+	},
+	{
+		"hindi": "ष",
+		"iast": "ṣ",
+		"soundsLike": "almost indistinguishable retroflex of the above. slightly more aspirated. Used only in Sanskrit loan words."
+	},
+	{
+		"word": "साथ",
+		"english": "with",
+		"hindi": "स",
+		"iast": "s",
+		"soundsLike": "as in see."
+	},
+	{
+		"word": "हैं",
+		"english": "are",
+		"hindi": "ह",
+		"iast": "h",
+		"soundsLike": "as in him."
+	}
 ]

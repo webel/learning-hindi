@@ -1,25 +1,24 @@
 /**
  * @author: Evita Stenqvist
  *
- * @description: Script to merge JSON array with a JSON dictionary and dump
- * a JSON array with the wanted keys.
+ * @description: Takes on different hats depending on the task.
  */
 
 const fs = require("fs")
 const path = require("path")
 
-const mergeInto = require("./src/data/alphabet.json")
-const mergeFrom = require("./src/data/vowels.json")
+const mergeFrom = require("./src/data/1000mostCommonWords.json")
+const mergeInto = require("./src/data/consonants.json")
 
 const newFilePath = "./src/data/combined.json"
 
-const data = Object.keys(mergeInto).map(devanagari => {
-	const item = mergeFrom.find(item => item["Devanagari"] == devanagari)
-	const oldItem = mergeInto[devanagari]
+const data = mergeInto.map(item => {
+	const firstLetter = item.hindi.slice(0, 1)
+	const word = mergeFrom.find(word => word.hindi.startsWith(firstLetter))
 	return {
-		hindi: devanagari,
-		...oldItem,
-		soundsLike: item ? item["Equivalent"] : "",
+		word: word && word.hindi,
+		english: word && word.english, 
+		...item,
 	}
 })
 
