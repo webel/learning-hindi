@@ -17,6 +17,7 @@ const ClickableText = ({ text }) => (
 			boxShadow: "0 0 8px rgba(0, 0, 0, 0.125)",
 			display: "inline-block",
 			cursor: "pointer",
+			fontSize: ["4vw", "3vw", "2vw"]
 		}}
 		onClick={() => speakThisHindi(text)}
 	>
@@ -36,17 +37,21 @@ export const iastEnglishDetails = ({ english, iast }) => {
 }
 
 export const letterDetails = ({ english, iast, word, soundsLike }) => (
-	<>
-		{iast && <Text my={20}>{iast}</Text>}
-		{(word || english) && (
-			<div>
-				<ClickableText text={word} />
-				{" - "}
-				<Text mb={20} variant="caps" css={{ display: "inline-block" }}>
-					{english}
-				</Text>
-			</div>
-		)}
-		{soundsLike && <Text mb={20}>{soundsLike}</Text>}
-	</>
-)
+					<>
+						{iast && <Text my={20}>{iast}</Text>}
+						{(word || english) && (
+							<div>
+								<ClickableText text={word} />
+								{" - "}
+								<Text
+									mb={20}
+									variant="caps"
+									css={{ display: "inline-block" }}
+								>
+									{english}
+								</Text>
+							</div>
+						)}
+						{soundsLike && <Text mb={20}>{soundsLike}</Text>}
+					</>
+				)
