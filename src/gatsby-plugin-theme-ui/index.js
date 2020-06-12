@@ -177,6 +177,10 @@ export default {
 			variant: "cards.flashCard",
 			width: ["90vw", "75vw", "60vw", "45vw"],
 		},
+		shortPhrase: {
+			variant: "cards.flashCard",
+			width: ["40vw", "35vw", "30vw", "20vw"],
+		},
 	},
 	text: {
 		flashCard: {
@@ -186,6 +190,9 @@ export default {
 		phraseFlashCard: {
 			variant: "text.flashCard",
 			fontSize: ["6vw", "4vw", "3vw"],
+		},
+		shortPhrase: {
+			variant: "text.phraseFlashCard",
 		},
 		caps: {
 			textTransform: "uppercase",

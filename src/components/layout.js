@@ -14,6 +14,11 @@ import { Swipeable } from "react-swipeable"
 import { jsx } from "theme-ui"
 import Header from "./header"
 
+const windowGlobal = typeof window !== "undefined" && window
+
+const sideMenuOpen =
+	windowGlobal.localStorage && windowGlobal.localStorage.getItem("MenuOpen")
+
 const Layout = ({ children, flexDirection = "row", doubleClick }) => {
 	const data = useStaticQuery(graphql`
 		query SiteTitleQuery {
@@ -31,7 +36,7 @@ const Layout = ({ children, flexDirection = "row", doubleClick }) => {
 			<div
 				sx={{
 					mx: [0, 1, 3, 6],
-					maxWidth: 1200,
+					maxWidth: sideMenuOpen ? [1200 - "50vw", 1200 - "40vw", 1200 - "20vw"] : 1200,
 					padding: [0, 1, 3], // `0 1.0875rem 1.45rem`,
 				}}
 			>

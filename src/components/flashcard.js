@@ -70,6 +70,7 @@ export const WordFlashCard = ({
 	showDetails = false,
 	smallText = false,
 	phrase,
+	flashcardStyle,
 	render,
 	...props
 }) => {
@@ -87,7 +88,11 @@ export const WordFlashCard = ({
 		}
 	}
 
-	const variant = phrase ? "phraseFlashCard" : "flashCard"
+	let variant = phrase ? "phraseFlashCard" : "flashCard"
+
+	if (flashcardStyle) {
+		variant = flashcardStyle
+	}
 
 	const flashCardProps = {
 		mainText: item.hindi,

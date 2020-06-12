@@ -1,0 +1,397 @@
+[
+	{
+		"english": "about",
+		"iast": "ke baare men",
+		"hindi": "के बारे में"
+	},
+	{
+		"english": "above",
+		"iast": "oopar",
+		"hindi": "ऊपर"
+	},
+	{
+		"english": "across",
+		"iast": "ke paar",
+		"hindi": "के पार"
+	},
+	{
+		"english": "after",
+		"iast": "ke baad",
+		"hindi": "के बाद"
+	},
+	{
+		"english": "against",
+		"iast": "ke khilaf",
+		"hindi": "के खिलाफ"
+	},
+	{
+		"english": "among",
+		"iast": "ke bich men",
+		"hindi": "के बीच में"
+	},
+	{
+		"english": "around",
+		"iast": "charon or",
+		"hindi": "चारों ओर"
+	},
+	{
+		"english": "as",
+		"iast": "jaisa",
+		"hindi": "जैसा"
+	},
+	{
+		"english": "at",
+		"iast": "par",
+		"hindi": "पर"
+	},
+	{
+		"english": "before",
+		"iast": "se pahle",
+		"hindi": "से पहले"
+	},
+	{
+		"english": "behind",
+		"iast": "ke peechhe",
+		"hindi": "के पीछे"
+	},
+	{
+		"english": "below",
+		"iast": "neeche",
+		"hindi": "नीचे"
+	},
+	{
+		"english": "beneath",
+		"iast": "neeche",
+		"hindi": "नीचे"
+	},
+	{
+		"english": "beside",
+		"iast": "bagal men",
+		"hindi": "बगल में"
+	},
+	{
+		"english": "between",
+		"iast": "ke bich",
+		"hindi": "के बीच"
+	},
+	{
+		"english": "beyond",
+		"iast": "pare",
+		"hindi": "परे"
+	},
+	{
+		"english": "but",
+		"iast": "lekin",
+		"hindi": "लेकिन"
+	},
+	{
+		"english": "by",
+		"iast": "dvara",
+		"hindi": "द्वारा"
+	},
+	{
+		"english": "despite",
+		"iast": "ke baavajood",
+		"hindi": "के बावजूद"
+	},
+	{
+		"english": "down",
+		"iast": "neeche",
+		"hindi": "नीचे"
+	},
+	{
+		"english": "during",
+		"iast": "dauraan ",
+		"hindi": "दौरान"
+	},
+	{
+		"english": "except",
+		"iast": "sivaay",
+		"hindi": "सिवाय"
+	},
+	{
+		"english": "for",
+		"iast": "ke liye",
+		"hindi": "के लिए"
+	},
+	{
+		"english": "from",
+		"iast": "se",
+		"hindi": "से"
+	},
+	{
+		"english": "in",
+		"iast": "men",
+		"hindi": "में"
+	},
+	{
+		"english": "inside",
+		"iast": "andar",
+		"hindi": "अंदर"
+	},
+	{
+		"english": "into",
+		"iast": "men",
+		"hindi": "में"
+	},
+	{
+		"english": "near",
+		"iast": "nikat",
+		"hindi": "निकट"
+	},
+	{
+		"english": "next",
+		"iast": "agla",
+		"hindi": "अगला"
+	},
+	{
+		"english": "of",
+		"iast": "ki or  ka ",
+		"hindi": "की or  का"
+	},
+	{
+		"english": "on",
+		"iast": "par",
+		"hindi": "पर"
+	},
+	{
+		"english": "opposite",
+		"iast": "saamane",
+		"hindi": "सामने"
+	},
+	{
+		"english": "out",
+		"iast": "baahar",
+		"hindi": "बाहर"
+	},
+	{
+		"english": "outside",
+		"iast": "baahar",
+		"hindi": "बाहर"
+	},
+	{
+		"english": "over",
+		"iast": "ke oopar",
+		"hindi": "के ऊपर"
+	},
+	{
+		"english": "per",
+		"iast": "prati",
+		"hindi": "प्रति"
+	},
+	{
+		"english": "plus",
+		"iast": "jod ",
+		"hindi": "जोड़"
+	},
+	{
+		"english": "round",
+		"iast": "daur or  gol ",
+		"hindi": "दौर or  गोल"
+	},
+	{
+		"english": "since",
+		"iast": "ke baad se",
+		"hindi": "के बाद से"
+	},
+	{
+		"english": "than",
+		"iast": "se",
+		"hindi": "से"
+	},
+	{
+		"english": "through",
+		"iast": "ke madhyam se",
+		"hindi": "के माध्यम से"
+	},
+	{
+		"english": "till",
+		"iast": "jab tak",
+		"hindi": "जब तक"
+	},
+	{
+		"english": "to",
+		"iast": "se",
+		"hindi": "से"
+	},
+	{
+		"english": "toward",
+		"iast": "ki or",
+		"hindi": "की ओर"
+	},
+	{
+		"english": "under",
+		"iast": "adheen or   neeche ",
+		"hindi": "अधीन or   नीचे"
+	},
+	{
+		"english": "unlike",
+		"iast": "vipareet",
+		"hindi": "विपरीत"
+	},
+	{
+		"english": "until",
+		"iast": "jab tak",
+		"hindi": "जब तक"
+	},
+	{
+		"english": "up",
+		"iast": "oopar",
+		"hindi": "ऊपर"
+	},
+	{
+		"english": "via",
+		"iast": "ke madhyam se",
+		"hindi": "के माध्यम से"
+	},
+	{
+		"english": "with",
+		"iast": "saath",
+		"hindi": "साथ"
+	},
+	{
+		"english": "within",
+		"iast": "andar",
+		"hindi": "अंदर"
+	},
+	{
+		"english": "without",
+		"iast": "bina",
+		"hindi": "बिना"
+	},
+	{
+		"english": "two words",
+		"iast": "do shabdon ",
+		"hindi": "दो शब्दों"
+	},
+	{
+		"english": "according to",
+		"iast": "ke anusaar",
+		"hindi": "के अनुसार"
+	},
+	{
+		"english": "because of",
+		"iast": "ki vajah se",
+		"hindi": "की वजह से"
+	},
+	{
+		"english": "close to",
+		"iast": "band karne ke liye",
+		"hindi": "बंद करने के लिए"
+	},
+	{
+		"english": "due to",
+		"iast": "ke kaaran",
+		"hindi": "के कारण"
+	},
+	{
+		"english": "except for",
+		"iast": "ke alava",
+		"hindi": "के अलावा"
+	},
+	{
+		"english": "far from",
+		"iast": "door se",
+		"hindi": "दूर से"
+	},
+	{
+		"english": "inside of",
+		"iast": "ke andar",
+		"hindi": "के अंदर"
+	},
+	{
+		"english": "instead of",
+		"iast": "ke bajaay",
+		"hindi": "के बजाय"
+	},
+	{
+		"english": "near to",
+		"iast": "ke paas",
+		"hindi": "के पास"
+	},
+	{
+		"english": "next to",
+		"iast": "ke paas",
+		"hindi": "के पास"
+    },
+    {
+		"english": "next to",
+		"iast": "ke nikat",
+		"hindi": "के निकट"
+    },
+    {
+		"english": "next to",
+		"iast": "ke nazadeek ",
+		"hindi": "के नज़दीक"
+    },
+	{
+		"english": "outside of",
+		"iast": "ke baahar",
+		"hindi": "के बाहर"
+	},
+	{
+		"english": "prior to",
+		"iast": "pahle se",
+		"hindi": "पहले से"
+	},
+	{
+		"english": "three words",
+		"iast": "teen shabd",
+		"hindi": "तीन शब्द"
+	},
+	{
+		"english": "as far as",
+		"iast": "jahan tak",
+		"hindi": "जहाँ तक"
+	},
+	{
+		"english": "as well as",
+		"iast": "tatha",
+		"hindi": "तथा"
+	},
+	{
+		"english": "in addition to",
+		"iast": "ke atirikt",
+		"hindi": "के अतिरिक्त"
+	},
+	{
+		"english": "in front of",
+		"iast": "ke saamane",
+		"hindi": "के सामने"
+	},
+	{
+		"english": "in spite of",
+		"iast": "ke baavajood",
+		"hindi": "के बावजूद"
+	},
+	{
+		"english": "on behalf of",
+		"iast": "ki or se",
+		"hindi": "की ओर से"
+	},
+	{
+		"english": "on top of",
+		"iast": "ke sheersh par",
+		"hindi": "के शीर्ष पर"
+	},
+	{
+		"english": "this",
+		"iast": "yah",
+		"hindi": "यह"
+	},
+	{
+		"english": "that",
+		"iast": "ki or vah",
+		"hindi": "कि or वह"
+	},
+	{
+		"english": "these",
+		"iast": "ye",
+		"hindi": "ये"
+	},
+	{
+		"english": "those",
+		"iast": "un",
+		"hindi": "उन"
+	}
+]
