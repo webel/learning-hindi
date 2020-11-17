@@ -198,6 +198,10 @@ export default {
 			textTransform: "uppercase",
 			letterSpacing: "0.1em",
 		},
+		lessonHeader: {
+			variant: "text.caps",
+			color: "primary",
+		}
 	},
 	prism: {
 		".comment,.prolog,.doctype,.cdata,.punctuation,.operator,.entity,.url": {

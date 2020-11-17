@@ -26,7 +26,8 @@ const routes = [
 	// { name: "Learn Words", to: "/learn" },
 	{ name: "Greetings", to: "/greetings" },
 	{ name: "Help & Directions", to: "/helpDirections" },
-	{ name: "Prepositions", to: "/prepositions" }
+	{ name: "Prepositions", to: "/prepositions" },
+	{ name: "Duolingo", to: "/duolingo" },
 ]
 
 function Routes() {
