@@ -17,7 +17,6 @@ const SideMenu = () => {
 					windowGlobal.localStorage.setItem("MenuOpen", showMenu)
     }
 
-
 	return (
 		<>
 			<aside
