@@ -6,6 +6,9 @@
 
 ## Status
 
-_The way my mother heard it_:
+There's quite a bit of hidden functionality that you would miss at a glance!
 
-> I've built a couple of things thou, pokus is back on the web (https://webel.github.io/PokusWebsite/), I've finally fixed my website (stenqvist.co), and I'm learning Hindi and couldn't find good enough flashcards... so I built this (https://webel.github.io/learning-hindi/). On my computer I can click on the top half of the flashcard and an Indian voice speaks the letter, then on the bottom half and the voice speaks a word beginning with that letter. But, when I put it up yesterday nothing happens onClick (could you try just to confirm it's not just my phone?)
+- There are two different modes; grid mode and flashcard mode, switch between them by double clicking the background (you can swipe left or right on mobile).
+- In either mode, you can click at the top of a flashcard to hear the word or letter spoken in Hindi.
+- Or, click on the bottom of a flashcard to show the English meaning.
+
